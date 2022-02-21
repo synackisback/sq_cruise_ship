@@ -1,0 +1,34 @@
+:: StoryTitle
+Twee3 Example SugerCube File
+
+:: StoryData
+{
+    "ifid":"D6C88E09-D577-457E-9115-3241689F1F32",
+	"format": "SugarCube",
+	"format-version": "2.30.0",
+	"start": "Start"
+}
+
+:: Start
+This is the starting passage.
+<<set $name = "Synack">>
+[[Second]]
+
+:: Second
+/* Explicitly printing the value of $name via the <<print>> macro */
+Well hello there, <<print $name>>.
+
+/* Implicitly printing the value of $name via the naked variable markup */
+Well hello there, $name.
+
+/* Assuming $name is set to "Mr. Freeman", both should yield the following */
+Well hello there, Mr. Freeman.
+<<set $go = "Grocery">>
+<<set $show = "Go buy milk">>
+
+/* [[Text|Link[Setter]]] */
+[[$show|$go][$bought to "milk"]]
+
+:: Grocery
+
+<<print $bought>>
