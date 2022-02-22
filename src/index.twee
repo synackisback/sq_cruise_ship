@@ -32,3 +32,19 @@ Well hello there, Mr. Freeman.
 :: Grocery
 
 <<print $bought>>
+
+Ground rules first:
+
+What's your favorite pie? <<textbox "$pie" "Blueberry" autofocus>>
+
+<<set _what to [
+	"a crab rangoon",
+	"a gaggle of geese",
+	"an aardvark",
+	"the world's smallest violin"
+]>>
+<<for _i to 0; _i lt _what.length; _i++>>
+	<<capture _i>>
+		I spy with my little <<linkappend "eye" t8n>>, _what[_i]<</linkappend>>.
+	<</capture>>
+<</for>>
