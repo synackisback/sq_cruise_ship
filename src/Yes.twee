@@ -1,0 +1,4 @@
+:: Yes {"position":"2716,911","size":"100,100"}
+<<set $winloose to either("Aha", "Loose", "Aha", "Loose", "Aha", "Loose", "Loose", "Aha", "Loose")>><<goto $winloose>>
+
+
