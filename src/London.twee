@@ -9,7 +9,7 @@ You hear noise and shouting behind you, so you turn around and take a <<linkappe
 There seems to be a celebration or pre-celebration going on. And it certainly looks like a Bachelorette party of some kind.
 
 <<speech "You" "''$name:''">>
-(They sure are starting soon... I just hope those don´t get on my ship.)<</speech>>
+(They sure are starting soon... I just hope those don't get on my ship.)<</speech>>
 [[Go in]]<</linkappend>><<audio "menus" stop>><<audio "out" volume 0.8 loop play>><<if ndef $mute>><<audio "out" unmute>><<audio ":back" unmute>><<else>><</if>>
 
 

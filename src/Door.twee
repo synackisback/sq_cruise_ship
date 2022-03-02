@@ -9,14 +9,14 @@ HURRY! --> <span id="countdown">$seconds</span>\
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>She´s coming<</replace>>
+			<<replace "#countdown">>She's coming<</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>
 	<</repeat>>
 <</silently>>
 <<timed 5s>><<goto "The bathroom door opens">><</timed>>
-The door doesn´t open, it´s closed! And she has the key with her.
+The door doesn't open, it's closed! And she has the key with her.
 
 <<return>><<elseif $tararoom is 0>><</if>><<audio "menus" stop>><<if ndef $mute>><<audio "myroom" unmute>><<else>><</if>>
 

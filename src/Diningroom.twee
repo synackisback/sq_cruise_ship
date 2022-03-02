@@ -2,7 +2,7 @@
 <<removeclass "html">><<addclass "html" "dining">><<audio ":back" mute>><<audio "kitchen" volume 0.3 play loop>><<if $dayn is 6 or $dayn is 13 or $dayn is 20 or $dayn is 27 or $dayn is 34>><div class="center"><img src="places2/diningroom.jpg" width="63%"></div>
 As you enter the dining room, a whole collection of different smells fill your nostrils. It all smells amazing! Then you go down the stairs and sit on one of the tables.
 
-You enjoy the food as if it was your only meal in a lifetime, but you can´t help but notice the way the other girls look at you. Some are laughing and some are looking at you with a dissapproving face. Just after you finish your dinner, you see Tara making you signs to follow her.
+You enjoy the food as if it was your only meal in a lifetime, but you can't help but notice the way the other girls look at you. Some are laughing and some are looking at you with a dissapproving face. Just after you finish your dinner, you see Tara making you signs to follow her.
 
 <<speech "tara" "''Tara:''">>
  *wink, wink*<</speech>>
@@ -14,26 +14,26 @@ The are already a few girls in the room. They seem to be grabbing food from a bu
 <<speech "You" "''$name:''">>
 (Mmm... this is amazing! I can eat what I want... Finally, a good thing about this ship!)<</speech>>
 <div class="center"><img src="food/buffet.jpg" width="80%"></div>
-You enjoy the food as if it was your only meal in a lifetime, but you can´t help but notice the way the other girls look at you. Some are laughing and some are looking at you with a dissapproving face.
+You enjoy the food as if it was your only meal in a lifetime, but you can't help but notice the way the other girls look at you. Some are laughing and some are looking at you with a dissapproving face.
 
 <<click "Finish" "Deck 4">><<audio "kitchen" stop>><<set $dinnertime to false>><<set $alreadyate to true>><<set $hunger to $hunger +20>><<addmins 30>><</click>><<elseif $dinner is 0>><div class="center"><img src="places2/diningroom.jpg" width="63%"></div>
-It´s dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn´t even bother you. You grab a plate and go straight to the buffet line. Just as you are arriving, Holli stops you:
+It's dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn't even bother you. You grab a plate and go straight to the buffet line. Just as you are arriving, Holli stops you:
 
 <<speech "holli" "''Holli:''">>
-Hey, hey, hey! Stop right there! You can´t have this stuff. I am responsible for your diet and so it´s going to be. Here is your dinner:<</speech>>
+Hey, hey, hey! Stop right there! You can't have this stuff. I am responsible for your diet and so it's going to be. Here is your dinner:<</speech>>
 <img src="classes/cook/dinner1.jpg" width="40%">
 
 <<speech "You" "''$name:''">>
-But I´m hungry...<</speech>>
+But I'm hungry...<</speech>>
 <<speech "holli" "''Holli:''">>
 No buts! Enjoy your dinner.<</speech>>
 You walk to a nearby table and eat your sad dinner.<<set $alreadyate to true>>
 
 <<click "Finish" "Deck 4">><<audio "kitchen" stop>><<set $dinnertime to false>><<set $alreadyate to true>><<set $hunger to $hunger +20>><<addmins 30>><</click>>
 <<elseif $dinner is 1>><div class="center"><img src="places2/diningroom.jpg" width="63%"></div>
-It´s dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn´t even bother you. Then, you see your name on a table, with your dinner already sorted out.
+It's dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn't even bother you. Then, you see your name on a table, with your dinner already sorted out.
 
-You see a note from Holli: //''Eat this and ONLY this. I´ll know if you eat anything else.''//
+You see a note from Holli: //''Eat this and ONLY this. I'll know if you eat anything else.''//
 
 <img src="classes/cook/dinner1.jpg" width="50%">
 
@@ -43,7 +43,7 @@ You walk to your table and eat your sad dinner.<<set $alreadyate to true>>
 
 
 \\<<elseif $dinner is 2>><div class="center"><img src="places2/diningroom.jpg" width="63%"></div>
-It´s dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn´t even bother you. Then, you see your name on a table, with your dinner already sorted out.
+It's dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn't even bother you. Then, you see your name on a table, with your dinner already sorted out.
 
 <img src="classes/cook/dinner2.jpg" width="40%">
 
@@ -52,27 +52,27 @@ It´s dinner time! As you go down the stairscase an elegant hall appears in fron
 <<speech "holli" "''Holli:''">>
 Well hi! Do you like my new creation?<</speech>>
 <<speech "You" "''$name:''">>
-Well, it´s better than half a sandwich... but why is it pink?<</speech>>
+Well, it's better than half a sandwich... but why is it pink?<</speech>>
 <<speech "holli" "''Holli:''">>
-Oh, well, that´s because of the beets, mostly.<</speech>>
+Oh, well, that's because of the beets, mostly.<</speech>>
 <<speech "You" "''$name:''">>
 Mostly...?<</speech>>
 <<speech "holli" "''Holli:''">>
-C´mon! A chef has to have some secrets... but I promise you will LOVE IT. Here you have some pink parmesan to pour over it. Do it now that it´s hot!<</speech>>
-You´ve never hear of pink parmesan cheese, but you guess that she could have tinted it as well, so you decide not to worry that much about it.
+C'mon! A chef has to have some secrets... but I promise you will LOVE IT. Here you have some pink parmesan to pour over it. Do it now that it's hot!<</speech>>
+You've never hear of pink parmesan cheese, but you guess that she could have tinted it as well, so you decide not to worry that much about it.
 
 You grab the fork and take a bite of the pasta by itself. The cheese melted within the noodles is very soft and stretchy and really makes the dish look a lot more appealing.
 
 <<linkreplace "... ...">><<if ndef $mutefx>><<audio "eat" play>><<else>><</if>><span class="onomatopeya">*MUNCH, MUNCH*</span>
 
 <<speech "You" "''$name:''">>
-(This doesn´t taste as I expected... it´s good, but there´s definitely some ingredient that´s making it a bit bitter...)<</speech>>
+(This doesn't taste as I expected... it's good, but there's definitely some ingredient that's making it a bit bitter...)<</speech>>
 Holli is looking at you eat and holding the cheese near you, clearly pushing you to try it. The pasta is good, so you decide to give the full experience a try.
 
 As you fill the spoon with the powdered cheese, you are suprised by its consistency. 
 
 <<speech "You" "''$name:''">>
-(It´s literally like dust, it´s so thinly powdered...)<</speech>>
+(It's literally like dust, it's so thinly powdered...)<</speech>>
 You take another bite. The cheese is almost flavorless. It is a bit savory, but the aged cheesiness is not there at all...
 
 The third bite comes faster than you thought. And then the fourth. Your body is eating it faster and faster, even though you are not especially fond of the flavour. But there is something that drags you in.
@@ -80,25 +80,25 @@ The third bite comes faster than you thought. And then the fourth. Your body is 
 Not even 5 minutes after, the plate is empty.
 
 <<speech "holli" "''Holli:''">>
-Wow! You really liked it, huh? Nice, I´ll make sure to put extra cheese these days then...<</speech>>
+Wow! You really liked it, huh? Nice, I'll make sure to put extra cheese these days then...<</speech>>
 <<click "Finish" "Deck 4">><<audio "kitchen" stop>><<set $dinnertime to false>><<set $alreadyate to true>><<set $hunger to $hunger +20>><<addmins 30>><<set $dinner to 3>><</click>><</linkreplace>>
 
 
 
 \\<<elseif $dinner is 3>><div class="center"><img src="places2/diningroom.jpg" width="63%"></div>
-<<if ndef $mutefx>><<audio "eat" play>><<else>><</if>>It´s dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn´t even bother you. Then, you see your name on a table, with your dinner already sorted out.
+<<if ndef $mutefx>><<audio "eat" play>><<else>><</if>>It's dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn't even bother you. Then, you see your name on a table, with your dinner already sorted out.
 
 <img src="classes/cook/dinner2.jpg" width="40%">
 
 <<speech "You" "''$name:''">>
 (That funky pasta again... is she going to feed me the same all week?)<</speech>>
-You can see there´s already some of that cheese in the pasta, but Holli has left a little plate of that powdered pink parm on the side.
+You can see there's already some of that cheese in the pasta, but Holli has left a little plate of that powdered pink parm on the side.
 
 <<speech "You" "''$name:''">>
-I don´t think I want extra of that weird cheese...<</speech>>
+I don't think I want extra of that weird cheese...<</speech>>
 <<click "Finish" "Deck 4">><<audio "kitchen" stop>><<set $dinnertime to false>><<set $alreadyate to true>><<set $hunger to $hunger +20>><<addmins 30>><</click>>
 
-\\<<elseif $dinner is 4>><<audio "kitchen" volume 0.3 play loop>>It´s dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn´t even bother you. Then, you see your name on a table, with your dinner already sorted out. But this time, you can also see another name on a table next to yours. You get closer to it and see what's on it: "''GIADA''".
+\\<<elseif $dinner is 4>><<audio "kitchen" volume 0.3 play loop>>It's dinner time! As you go down the stairscase an elegant hall appears in front of you. The food in the buffet looks so inviting that the femenine crowd doesn't even bother you. Then, you see your name on a table, with your dinner already sorted out. But this time, you can also see another name on a table next to yours. You get closer to it and see what's on it: "''GIADA''".
 
 <<speech "You" "''$name:''">>
 What? They are controlling Giada's food too?<</speech>>

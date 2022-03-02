@@ -3,7 +3,7 @@
 
 A green flask.
 
-<<if $abledrink is true>><span class="Phone">[[Drink->Inventory][$drinkflask to "green", $gflask to false]]</span><<else>><<linkreplace "Drink">>You don´t know what that green stuff is!<</linkreplace>><</if>>
+<<if $abledrink is true>><span class="Phone">[[Drink->Inventory][$drinkflask to "green", $gflask to false]]</span><<else>><<linkreplace "Drink">>You don't know what that green stuff is!<</linkreplace>><</if>>
 [[Return|Inventory]]
 
 

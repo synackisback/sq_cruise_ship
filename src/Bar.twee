@@ -11,7 +11,7 @@
 <img src="places2/bar.png" width="95%">
 
 <<if ndef $shopitems>>Goodies Store (Closed)<<else>>''[[Goodies Store|Buyfood]]''<</if>> | ''[[Tables]]''
-<<nobr>><<if $startclasses is true>><<if String.format("{0} {1} {2}, {3}"), GameDays[$gameDate.getDay()] isnot "Sun">><<if $gameDate.getHours() gte 13 and $gameDate.getHours() lte 14>><span class="fade-ins-out"><span class="Phone">''[[Cooking Class👩🏻‍🍳->Cookingclass]]''</span></span><<else>><<linkreplace "''Cooking class👩🏻‍🍳''">>It´s not class time.<</linkreplace>><</if>><<else>><<linkreplace "''Cooking class👩🏻‍🍳''">>It´s not class time.<</linkreplace>><</if>><</if>><</nobr>>
+<<nobr>><<if $startclasses is true>><<if String.format("{0} {1} {2}, {3}"), GameDays[$gameDate.getDay()] isnot "Sun">><<if $gameDate.getHours() gte 13 and $gameDate.getHours() lte 14>><span class="fade-ins-out"><span class="Phone">''[[Cooking Class👩🏻‍🍳->Cookingclass]]''</span></span><<else>><<linkreplace "''Cooking class👩🏻‍🍳''">>It's not class time.<</linkreplace>><</if>><<else>><<linkreplace "''Cooking class👩🏻‍🍳''">>It's not class time.<</linkreplace>><</if>><</if>><</nobr>>
 
 [[Return|Deck 4]]<<nobr>><<if $gameDate.getHours() is 0 or $gameDate.getHours() lt 8>><<goto [[Dreams]]>><<else>><</if>><</nobr>></div><<if ndef $mute>><<audio ":back" unmute>><<else>><</if>><<audio "menus" stop>>
 

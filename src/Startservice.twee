@@ -7,7 +7,7 @@
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>She´s coming<</replace>>
+			<<replace "#countdown">>She's coming<</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>
@@ -40,7 +40,7 @@ I need a hollandaise sauce for these eggs benedict, quick!<</speech>>
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>She´s coming<</replace>>
+			<<replace "#countdown">>She's coming<</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>
@@ -74,7 +74,7 @@ I need a bechamel sauce, quick!<</speech>>
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>She´s coming<</replace>>
+			<<replace "#countdown">>She's coming<</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>
@@ -109,7 +109,7 @@ I need some sour cream for this potato fries, quick!<</speech>>
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>She´s coming<</replace>>
+			<<replace "#countdown">>She's coming<</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>
@@ -142,7 +142,7 @@ I need you to finish this club sandwich, quick!<</speech>>
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>She´s coming<</replace>>
+			<<replace "#countdown">>She's coming<</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>
@@ -177,7 +177,7 @@ I need you to finish this Caesar salad, quick!<</speech>>
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>She´s coming<</replace>>
+			<<replace "#countdown">>She's coming<</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>

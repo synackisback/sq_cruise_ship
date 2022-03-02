@@ -1,41 +1,41 @@
 :: Gymgirl [noborder textback] {"position":"2310,640","size":"100,100"}
-<<removeclass "html">><<addclass "html" "locker">><<audio "gym" stop>><<if ndef $gymgirl>>As you get in the locker room you see a girl that´s sat in a bench. She seems to be very exhausted as she is holding her head with her hand and breathing heavily.
+<<removeclass "html">><<addclass "html" "locker">><<audio "gym" stop>><<if ndef $gymgirl>>As you get in the locker room you see a girl that's sat in a bench. She seems to be very exhausted as she is holding her head with her hand and breathing heavily.
 
 <div class="center"><img src="quest1/gymgirl1.png" width="50%"></div>
 <<speech "You" "''$name'':">>
 Um... hey, are you alright?<</speech>>
 <<speech "nobody" "''Locker room girl'':">>
- *sigh* yeah... I´m just tired now...<</speech>>
+ *sigh* yeah... I'm just tired now...<</speech>>
 She raises her head to try to look at you, but it seems to be too heave for her to lift and her eyes are blinking. All of the sudden, her head falls again to her hands.
 
 <<speech "You" "''$name'':">>
-Hey, hey! *you grab her head* You should be resting... what´s happened to you?<</speech>>
+Hey, hey! *you grab her head* You should be resting... what's happened to you?<</speech>>
 <<speech "nobody" "''Locker room girl'':">>
-I´m trying a new diet I read on a magazine before coming to the ship and... *pant, pant* the training is too much...<</speech>>
+I'm trying a new diet I read on a magazine before coming to the ship and... *pant, pant* the training is too much...<</speech>>
 <<speech "You" "''$name'':">>
-Well, maybe that diet is too much for you? Have you thought of... I don´t know... introducing some snacking, or just changing the diet for another one?<</speech>>
+Well, maybe that diet is too much for you? Have you thought of... I don't know... introducing some snacking, or just changing the diet for another one?<</speech>>
 <<speech "nobody" "''Locker room girl'':">>
 No, no... I want to keep on the diet *pant, pant* I want to be ready when the boys come...<</speech>>
 <<speech "You" "''$name'':">>
 Just a few bites so your body can recover from the exercise would be helpful...<</speech>>
 <<speech "nobody" "''Locker room girl'':">>
-Yeah, I guess you´re right... but I will not do it. I want to be fit when the time comes...<</speech>>
+Yeah, I guess you're right... but I will not do it. I want to be fit when the time comes...<</speech>>
 <<speech "You" "''$name'':">>
 Even at the cost of your health?<</speech>>
 The girl gives you a grin and goes back to panting.
 
 <<speech "You" "''$name'':">>
-(I should help her even if she doesn´t want to be helped... Maybe if she has the snacks before her she would take them...)<</speech>>
+(I should help her even if she doesn't want to be helped... Maybe if she has the snacks before her she would take them...)<</speech>>
  ''*Side quest: Bring some snack for the locker room girl*''
 
 [[Go to locker room][$gymgirl to 0, $gymgirl1 to "Active", $badge to $badge +1]]<<elseif $gymgirl is 0>><<if ndef $jerkhand>><<if $chococandies lt 1>><div class="center"><img src="quest1/gymgirl1.png" width="50%"></div>
 <<speech "You" "''$name'':">>
 Um... hey, are you alright?<</speech>>
 <<speech "nobody" "''Locker room girl'':">>
- *sigh* yeah... I´m just tired now...<</speech>>
+ *sigh* yeah... I'm just tired now...<</speech>>
 <<speech "You" "''$name'':">>
 (God... poor girl, I should bring something for her to snack on...)<</speech>>
-There´s only one locker room for men and women. Luckily there are a few individual showers which are separated from the rest. You get in one of those and close the door.
+There's only one locker room for men and women. Luckily there are a few individual showers which are separated from the rest. You get in one of those and close the door.
 
 <div class="center"><span class="fade-ins"><img src="quest1/shower1.jpg" width="30%"></span></div>
 You get a relaxing shower.<<set $stress to 0>> ''*Stress was reduced*''
@@ -47,14 +47,14 @@ You get a relaxing shower.<<set $stress to 0>> ''*Stress was reduced*''
 You take out the candies and put them on the bench. Then you take one and get closer to the girl.
 
 <<speech "You" "''$name'':">>
-Here, just eat one of these little ones. You´ll see that you will feel much better in a few minutes.<</speech>>
+Here, just eat one of these little ones. You'll see that you will feel much better in a few minutes.<</speech>>
 <<speech "nobody" "''Locker room girl'':">>
-Well... *pant, pant* I guess something that small won´t have a huge impact on my diet.<</speech>>
+Well... *pant, pant* I guess something that small won't have a huge impact on my diet.<</speech>>
 She eats the penis shaped chocolate candy. After a few minutes she starts to feel better and gets up from the bench.
 
 <div class="center"><span class="fade-ins"><img src="quest1/gymgirl2.jpg" width="30%"></span></div>
 <<speech "nobody" "''Locker room girl'':">>
-Good, I´m not that dizzy anymore... Thanks... what was your name again?<</speech>>
+Good, I'm not that dizzy anymore... Thanks... what was your name again?<</speech>>
 <<speech "You" "''$name'':">>
 ...Oh! I'm $name. Also, no problem. I'm happy to help, and I really think you shouldn't be pushing yourself that much. You are already very in shape and thin.<</speech>>
 <<speech "nobody" "''Locker room girl'':">>
@@ -64,7 +64,7 @@ You stand there in silence with an awkward smile.
 <<speech "You" "''$name'':">>
 Well... I hope you achieve your goal then.<</speech>>
 <<speech "nobody" "''Locker room girl'':">>
- *smiles* Hey... *she touches your tummy* Thank you, really. I´ll go and tell one of the crew member what you've done and to add 100 extra points for you. And also... *she stands up and gets into a shower* You came here to shower, didn't you?<</speech>>
+ *smiles* Hey... *she touches your tummy* Thank you, really. I'll go and tell one of the crew member what you've done and to add 100 extra points for you. And also... *she stands up and gets into a shower* You came here to shower, didn't you?<</speech>>
 <<speech "You" "''$name'':">>
 ... Aha...<</speech>>
 <<speech "nobody" "''Locker room girl'':">>
@@ -81,7 +81,7 @@ You walk towards her and get into the shower. Fortunately, it's one of the big o
 You feel dumb by thinking that. Of course she's taking her clothes off, she's showering. And then it hits you: your clothes have to go as well.
 
 <<speech "nobody" "''Locker room girl'':">>
-C´mon now... don't be shy... Let me see what you're hiding there.<</speech>>
+C'mon now... don't be shy... Let me see what you're hiding there.<</speech>>
 You take your shirt off and start unbuttoning your pants reluctantly. You finally get them off as well as your <<if $under is 1>>briefs<<elseif $under is 2>>panties<</if>>. Of course, you do that facing the other way, so she can't look at your penis and you can hide your underwear under your pants.
 
 <<speech "nobody" "''Locker room girl'':">>

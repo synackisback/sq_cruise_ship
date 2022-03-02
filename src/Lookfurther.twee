@@ -1,7 +1,7 @@
 :: Look further [textback] {"position":"2276,1905","size":"100,100"}
 <img src="tara/xlcondoms.jpg" width="50%">
 
-You´re out of time. She´s getting out of the bathroom...
+You're out of time. She's getting out of the bathroom...
 
 <<set $seconds to 3>>\
 HURRY! --> <span id="countdown">$seconds</span>\
@@ -11,7 +11,7 @@ HURRY! --> <span id="countdown">$seconds</span>\
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>She´s coming<</replace>>
+			<<replace "#countdown">>She's coming<</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>

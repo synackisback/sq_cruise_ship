@@ -8,7 +8,7 @@
 There's a woman suntanning in one of the hammocks-->[[Talk to her|Suntanningg]]
 
 \\<<else>>
-There´s not enough sun right now. (Open --> 8:00-18:00)<</if>>
+There's not enough sun right now. (Open --> 8:00-18:00)<</if>>
 <<else>>Enough suntanning for today.<</if>>
 
 [[Return|Deck 9]]<<nobr>><<if $gameDate.getHours() is 0 or $gameDate.getHours() lt 8>><<goto [[Dreams]]>><<else>><</if>><</nobr>><<audio "deck9" stop>><<if ndef $mute>><<audio ":back" unmute>><<else>><</if>><<audio "menus" stop>>

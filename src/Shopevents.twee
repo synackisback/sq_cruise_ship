@@ -21,13 +21,13 @@ A yummy thick pure black chocolate dick. All for you. *wink*<</speech>>
 <<elseif $shopevent is 4>><img src="food/penismug.jpg" width="35%">
 
 <<speech "nobody" "''Bartender:''">>
-Wow, little boi. I didn´t think you´d like things like this, but here you go!<</speech>>
+Wow, little boi. I didn't think you'd like things like this, but here you go!<</speech>>
 <div class="green">''You earn a Penis Mug!''</div>
 [[Return|Buyfood]]
 <<elseif $shopevent is 5>><img src="food/yogurt.jpg" width="50%">
 
 <<speech "nobody" "''Bartender:''">>
-Here´s my special recipe for yogurt, full of protein and vitamins. I bet you are going to enjoy it... ;);)<</speech>>
+Here's my special recipe for yogurt, full of protein and vitamins. I bet you are going to enjoy it... ;);)<</speech>>
 <div class="green">''You earn Special Yogurt!''</div>
 [[Return|Buyfood]]
 

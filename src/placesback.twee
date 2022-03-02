@@ -2,7 +2,7 @@
 <<removeclass "html">><<addclass "html" "street">><<if ndef $mutefx>><<audio "bus" volume 0.6 loop play>><<else>><</if>><<if $places is 1>><img src="dockings/nudist/backbus2.gif" width="43%">
 
 <<speech "You" "''$name'':">>
-(<span class="pink">Wow, nice cumshot...</span> Ehem...she´s is also pretty...)<</speech>>
+(<span class="pink">Wow, nice cumshot...</span> Ehem...she's is also pretty...)<</speech>>
 <<click "Get out" "Nudist beach">><<audio "bus" stop>><</click>>
 <<elseif $places is 2>><img src="dockings/nudist/backbus3.gif" width="60%">
 
@@ -19,7 +19,7 @@ Um...sorry, this is my stop.<</speech>>
 <<elseif $places is 4>><img src="dockings/nudist/backbus4.jpg" width="45%">
 
 <<speech "You" "''$name'':">>
-(She must know that her pussy is completely out... I bet she wants me to see, what a whore... Well, I´m fully naked. So if she is a bitch, then what am I?)<</speech>>
+(She must know that her pussy is completely out... I bet she wants me to see, what a whore... Well, I'm fully naked. So if she is a bitch, then what am I?)<</speech>>
 <<click "Get out" "Nudist beach">><<audio "bus" stop>><</click>>
 <</if>><<audio "menus" stop>><<if ndef $mute>><<audio "spanish" unmute>><<else>><</if>><<if ndef $mutefx>><<audio "sea" unmute>><<else>><</if>><<audio "sea" mute>>
 

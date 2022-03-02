@@ -4,8 +4,8 @@
 <<speech "foster" "''Foster:''">>
 Hello there. Come in and have a seat.<</speech>>
 <<speech "foster" "''Foster:''">>
-I´m professor Foster, I will be expanding your mind with knowledge. Especifically, you´ll learn anatomy. That means understanding the differences between human specimens and how all types of bodies work.
-First up, we´ll be learning about the different genders.
+I'm professor Foster, I will be expanding your mind with knowledge. Especifically, you'll learn anatomy. That means understanding the differences between human specimens and how all types of bodies work.
+First up, we'll be learning about the different genders.
 
 Biologicaly speaking, there are only 2 genres: male and female. But in reality, this is not always true. Let me show you:
 This is a woman:
@@ -36,7 +36,7 @@ This is a Beta Male. As you can see, he is much smaller than the Alpha, with a p
 So, I ask you again: which do you think is closer to you?<</speech>>
 [[Alpha male|Anatomyclass][$anatomy to 1, $sub to $sub -1]]
 [[Beta male|Anatomyclass][$anatomy to 2, $sub to $sub +1]]<<elseif $anatomy is 1>><<speech "foster" "''Foster:''">>
-HA! Yeah, right. *She walks to the board* Okay then. Lets state the facts then, as I see you are not acepting the observable truth. Let´s write point by point the features an Alpha must have:<</speech>>
+HA! Yeah, right. *She walks to the board* Okay then. Lets state the facts then, as I see you are not acepting the observable truth. Let's write point by point the features an Alpha must have:<</speech>>
 She writes on the board:
 
 ''1. //Muscular big body.//'' 
@@ -44,46 +44,46 @@ She writes on the board:
 <<speech "foster" "''Foster:''">>
 Do you think you have that?<</speech>>
 <<speech "You" "''$name:''">>
-Well, not muscular, but I´m not too weak for my height...<</speech>>
+Well, not muscular, but I'm not too weak for my height...<</speech>>
 <<speech "foster" "''Foster:''">>
-The facts are: your muscles haven´t even started to develop, you are on the very short side spectrum of men.<</speech>>
+The facts are: your muscles haven't even started to develop, you are on the very short side spectrum of men.<</speech>>
 <<speech "You" "''$name:''">>
 (She is so rough... straight to the facts.)<</speech>>
 ''2. //Assertive and confident.//''
 
 <<speech "foster" "''Foster:''">>
-I´ve seen you doubt basically every time you speak. You are afraid from a teacher and this makes you feel submissive and inferior, so this is out of the question, right off the bat.<</speech>>
+I've seen you doubt basically every time you speak. You are afraid from a teacher and this makes you feel submissive and inferior, so this is out of the question, right off the bat.<</speech>>
 ''3. //Succesful at work.//''
 
 <<speech "foster" "''Foster:''">>
-Yes, you may have money. Though it is by working in an office that you have obtained it. Working for other. A sub. And this is the way you feel more comfortable: being under the command of another person, isn´t that right?<</speech>>
+Yes, you may have money. Though it is by working in an office that you have obtained it. Working for other. A sub. And this is the way you feel more comfortable: being under the command of another person, isn't that right?<</speech>>
 <<speech "You" "''$name:''">>
-It´s my job to do what I´m asked to do-<</speech>>
+It's my job to do what I'm asked to do-<</speech>>
 <<speech "foster" "''Foster:''">>
 Exactly. No choices, no responsability. Perfect for you. *smiles*
-But, you know...there´s something that would change this. Something that would make you a Protoalpha, if you will.<</speech>>
+But, you know...there's something that would change this. Something that would make you a Protoalpha, if you will.<</speech>>
 <<speech "You" "''$name:''">>
 What is that?<</speech>>
 <<speech "foster" "''Foster:''">>
-A PENIS. A BIG PENIS. If you had a manly meat stick you could prove me wrong. You would be more confident and get what you want. You wouldn´t need to be strong or muscular. And no woman would care. There are lots of skinny guys with huge cocks. They can satisfy a woman and they know it. They are Alphas. Do you have this BIG COCK?? Show me.<</speech>>
+A PENIS. A BIG PENIS. If you had a manly meat stick you could prove me wrong. You would be more confident and get what you want. You wouldn't need to be strong or muscular. And no woman would care. There are lots of skinny guys with huge cocks. They can satisfy a woman and they know it. They are Alphas. Do you have this BIG COCK?? Show me.<</speech>>
 <<speech "You" "''$name:''">>
-I...I don´t have to prove anything to you.<</speech>>
+I...I don't have to prove anything to you.<</speech>>
 <<speech "foster" "''Foster:''">>
-C´mon, let me see. It will be fun!<</speech>>
+C'mon, let me see. It will be fun!<</speech>>
 She gets you up and starts unbuckling your belt, dropping your pants down, and does so with your underwear.
 
 <<speech "foster" "''Foster:''">>
-Well, this is a miracle. It´s a miracle that Natural Selection hasn´t erased you from Earth yet. This is a sign that you, my darling, are a Beta Male.<</speech>>
+Well, this is a miracle. It's a miracle that Natural Selection hasn't erased you from Earth yet. This is a sign that you, my darling, are a Beta Male.<</speech>>
 She walks away, leaving you with your weenie exposed to the cold, and so she goes to the board again and erases the 3 points.
 
 <<speech "foster" "''Foster:''">>
-Now that we´ve determined that you are a Beta Male, let´s see what your options are when it comes to mating, having intercourse. We now that women won´t be attracted to you, not in this way. Let´s get a look at your future:<</speech>>
+Now that we've determined that you are a Beta Male, let's see what your options are when it comes to mating, having intercourse. We now that women won't be attracted to you, not in this way. Let's get a look at your future:<</speech>>
 <<linkappend "The Sissy">>
 
 <img src="classes/anatomy/sissy1.jpg" width="50%">
 
 <<speech "foster" "''Foster:''">>
-This is a pretty cute sissy specimen. As you can observe, the sissy has a girl´s face and skin: it´s smooth and cute, soft and kissable. The hair is loooong and girly. She even has two little bumps that look like cute proto-titties, which will continue to get bigger as she continues her hormone treatment. 
+This is a pretty cute sissy specimen. As you can observe, the sissy has a girl's face and skin: it's smooth and cute, soft and kissable. The hair is loooong and girly. She even has two little bumps that look like cute proto-titties, which will continue to get bigger as she continues her hormone treatment. 
 
 The only "boyish" feature is her clitty. That is what we call the apendage that remains from her "beta male" era. It serves a mere aesthetical purpose, and reminds her every day how much of a sissy she is.
 
@@ -91,50 +91,50 @@ This way the girls will treat the pre-beta as an equal, even like a lesbian love
 She rubs your cheek and lifts your head.
 
 <<speech "foster" "''Foster:''">>
-Nature can be rough sometimes, but it is wise. You are like this, and there´s nothing wrong with it. I´m here to help you embrace it. Next class we´ll be studying the female body, as I´ve been told that it might come in handy for you right now.
+Nature can be rough sometimes, but it is wise. You are like this, and there's nothing wrong with it. I'm here to help you embrace it. Next class we'll be studying the female body, as I've been told that it might come in handy for you right now.
 
-Class is over. I´m glad you liked it so much!<</speech>>
+Class is over. I'm glad you liked it so much!<</speech>>
 She looks right at your fully erect dick.
 
 <<speech "foster" "''Foster:''">>
-Get your pants back on, sweetie. You´ve got a lot of homework to do...<</speech>>
+Get your pants back on, sweetie. You've got a lot of homework to do...<</speech>>
 Embarrased and aroused, you put your pants back in place and <<click "get out." "Deck 8">><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><</click>><</linkappend>>
 <<elseif $anatomy is 2>><<speech "foster" "''Foster:''">>
-Hmm, nice observation skills. Indeed, you might fall into the beta category. Let´s write on the board the attributes that would make you a beta:<</speech>>
+Hmm, nice observation skills. Indeed, you might fall into the beta category. Let's write on the board the attributes that would make you a beta:<</speech>>
 
 ''1. //Smaller than the Alpha Male.//'' 
 
 <<speech "foster" "''Foster:''">>
-Well, you are not even 6 feet tall and not muscular. So I´d say you fulfill this first point.'<</speech>>
+Well, you are not even 6 feet tall and not muscular. So I'd say you fulfill this first point.'<</speech>>
 
 ''2. //Cute face and compliant/humble attitude.//'' 
 
 <<speech "foster" "''Foster:''">>
-I mean, you could get cuter, but i´d say you are pretty cute already. Your skin is smoother than the thick Alpha´s, as well as your personality, which is weak and dubitative.
+I mean, you could get cuter, but i'd say you are pretty cute already. Your skin is smoother than the thick Alpha's, as well as your personality, which is weak and dubitative.
 
-But, you know...there´s something that would change this. Something that would make you a Protoalpha, if you will.<</speech>>
+But, you know...there's something that would change this. Something that would make you a Protoalpha, if you will.<</speech>>
 <<speech "You" "''$name:''">>
 What is that?<</speech>>
 <<speech "foster" "''Foster:''">>
-A PENIS. A BIG PENIS. If you had a manly meat stick you could prove me wrong. You would be more confident and get what you want. You wouldn´t need to be strong or muscular. And no woman would care. There are lots of skinny guys with huge cocks. They can satisfy a woman and they know it. They are Alphas. Do you have this BIG COCK?? Show me.<</speech>>
+A PENIS. A BIG PENIS. If you had a manly meat stick you could prove me wrong. You would be more confident and get what you want. You wouldn't need to be strong or muscular. And no woman would care. There are lots of skinny guys with huge cocks. They can satisfy a woman and they know it. They are Alphas. Do you have this BIG COCK?? Show me.<</speech>>
 <<speech "You" "''$name:''">>
-I...I don´t have to prove anything to you.<</speech>>
+I...I don't have to prove anything to you.<</speech>>
 <<speech "foster" "''Foster:''">>
-C´mon, let me see. It will be fun!<</speech>>
+C'mon, let me see. It will be fun!<</speech>>
 She gets you up and starts unbuckling your belt, dropping your pants down, and does so with your underwear.
 
 <<speech "foster" "''Foster:''">>
-Well, this is a miracle. It´s a miracle that the natural selection hasn´t erased you from Earth yet. This is a sign that you, my darling, are a Beta Male.<</speech>>
+Well, this is a miracle. It's a miracle that the natural selection hasn't erased you from Earth yet. This is a sign that you, my darling, are a Beta Male.<</speech>>
 She walks away, leaving you with your weenie exposed to the cold, and so she goes to the board again and erases the 3 points.
 
 <<speech "foster" "''Foster:''">>
-Now that we´ve determined that you are a Beta Male, let´s see what your options are when it comes to mating, having intercourse. We now that women won´t be attracted to you, not in this way. Let´s get a look at your future:<</speech>>
+Now that we've determined that you are a Beta Male, let's see what your options are when it comes to mating, having intercourse. We now that women won't be attracted to you, not in this way. Let's get a look at your future:<</speech>>
 <<linkappend "The Sissy">>
 
 <img src="classes/anatomy/sissy1.jpg" width="50%">
 
 <<speech "foster" "''Foster:''">>
-This is a pretty cute sissy specimen. As you can observe, the sissy has a girl´s face and skin: it´s smooth and cute, soft and kissable. The hair is loooong and girly. She even has two little bumps that look like cute proto-titties, which will continue to get bigger as she continues her hormone treatment.
+This is a pretty cute sissy specimen. As you can observe, the sissy has a girl's face and skin: it's smooth and cute, soft and kissable. The hair is loooong and girly. She even has two little bumps that look like cute proto-titties, which will continue to get bigger as she continues her hormone treatment.
 
 The only "boy" feature is her clitty. That is what we call the apendage that remains from her "beta male" era. It serves a mere stetical purpose, and reminds her every day how much of a sissy she is.'
 
@@ -142,13 +142,13 @@ This way the girls will treat the pre-beta as an equal, even like a lesbian love
 She rubs your cheek and lift your head.
 
 <<speech "foster" "''Foster:''">>
-Nature can be rough sometimes, but it is wise. You are like this, and there´s nothing wrong with it. I´m here to help you embrace it. Next class we´ll be studying the female body, as I´ve been told that it might come in handy for you right now.
+Nature can be rough sometimes, but it is wise. You are like this, and there's nothing wrong with it. I'm here to help you embrace it. Next class we'll be studying the female body, as I've been told that it might come in handy for you right now.
 
-Class is over. I´m glad you liked it so much<</speech>>
+Class is over. I'm glad you liked it so much<</speech>>
 She looks right at your fully erect dick. 
 
 <<speech "foster" "''Foster:''">>
-Get your pants back on, sweetie. You´ve got a lot of homework to do...<</speech>>
+Get your pants back on, sweetie. You've got a lot of homework to do...<</speech>>
 Embarrased and aroused, you put your pants back in place and <<click "get out." "Deck 8">><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><</click>><</linkappend>><<elseif $anatomy is 3>><<speech "foster" "''Foster:''">>
 Hello there. Come in and have a sit.<</speech>>
 <img src="classes/anatomy/foster1.jpg" width="40%">
@@ -159,7 +159,7 @@ Today we are going to study the female body, specially the erogenous parts, whic
 An article showed this graphic as a result of a stadistic study of women erogenous zones:<</speech>>
 <div class="center"><img src="classes/anatomy/erogenous.jpg" width="40%"></div>
 <<speech "foster" "''Foster:''">>
-As you can see, the hottest spots are LIPS, BREASTS and VULVA. Although there are a lot more erogenous zones, and all of them are important, we´ll be focusing on these 3 parts.<</speech>>
+As you can see, the hottest spots are LIPS, BREASTS and VULVA. Although there are a lot more erogenous zones, and all of them are important, we'll be focusing on these 3 parts.<</speech>>
 <<speech "You" "''$name:''">>
 (This is like going all the way back to highschool, hehe...)<</speech>>
 <<speech "foster" "''Foster:''">>
@@ -173,7 +173,7 @@ So, as I was saying:
 
 The ''lips'' of a woman are very sensitive which means that a good french kiss from an Alpha Male can make her wet and ready to be penetrated. This usually happens mostly during the preparation for sex, the preliminary phase. After that, the next step for Alpha Men is going for are BREASTS and NIPPLES. These are major hot spots in the female anatomy, very sensitive and arousing. Though these are not for you, because, as you can surely remember, we stated last week that you were a Beta Male. Therefore, the VULVA is the part you need to study the most, so you can please women with your tongue.
 
-Alpha Men don´t really need this kind of information, because they usually make a woman orgasm due to their massive functional schlongs.
+Alpha Men don't really need this kind of information, because they usually make a woman orgasm due to their massive functional schlongs.
 
  *she turns on a TV behind her*
  
@@ -186,33 +186,33 @@ And that, my little Beta, is a squirt.<</speech>>
 <<speech "You" "''$name:''">>
 (Oh my god, is she peeing?)<</speech>>
 <<speech "foster" "''Foster:''">>
-I don´t expect you to know what that is... *sigh* That is the greatest orgasm a woman can have. Usually needs some Alpha Male to fuck you hard and deep.
+I don't expect you to know what that is... *sigh* That is the greatest orgasm a woman can have. Usually needs some Alpha Male to fuck you hard and deep.
 
-Because, you know, a woman´s vagina can stretch a lot when aroused. And it´s at that state that 6 inches barely do the job. And not only lenght is important, also girth. It is actually more important. As you can see in this video the bigger penis can stimulate the clitoris and G-Spot during the whole penetration due to its girth, and it can also easily reach the cervix:<</speech>>
+Because, you know, a woman's vagina can stretch a lot when aroused. And it's at that state that 6 inches barely do the job. And not only lenght is important, also girth. It is actually more important. As you can see in this video the bigger penis can stimulate the clitoris and G-Spot during the whole penetration due to its girth, and it can also easily reach the cervix:<</speech>>
 <div class="center"><img src="classes/anatomy/smallvsbig.gif" width="60%"></div>
 <<speech "foster" "''Foster:''">>
-But, lucky for you, a Beta´s tongue has evolved to be really talented and quick learning. Don´t worry, I´ll teach you how to do it.<</speech>>
+But, lucky for you, a Beta's tongue has evolved to be really talented and quick learning. Don't worry, I'll teach you how to do it.<</speech>>
 <<linkappend "... ...">>
 
 <div class="center"><img src="classes/anatomy/vaginamodel.jpg" width="60%"></div>
 
 <<speech "foster" "''Foster:''">>
-This is a average pussy model from the outside. In order to give pleasure to a woman you must concentrate on the clitoris, which the most sensitive part of it. Although you shouldn´t go munching it without a proper warm-up, so play for a while with the labia and the clitoris´ hood.
+This is a average pussy model from the outside. In order to give pleasure to a woman you must concentrate on the clitoris, which the most sensitive part of it. Although you shouldn't go munching it without a proper warm-up, so play for a while with the labia and the clitoris' hood.
 
-And, of course, there´s your secret weapon:
+And, of course, there's your secret weapon:
 
 The G-Spot. 
 
-It´s just a few inches in, and with some good work, you can get a woman to cum using only your fingers and tongue.
+It's just a few inches in, and with some good work, you can get a woman to cum using only your fingers and tongue.
 
-Try to get into the vagina and find that pink spot with your fingers and push it as you lick the clitoris, and I assure you, if you do it correctly, she´ll cum. Like this:<</speech>>
+Try to get into the vagina and find that pink spot with your fingers and push it as you lick the clitoris, and I assure you, if you do it correctly, she'll cum. Like this:<</speech>>
 <div class="center"><img src="classes/anatomy/squirt2.gif" width="60%"></div>
 <<speech "foster" "''Foster:''">>
-But don´t worry, some orgasms are not as watery. A woman can still like sex if you don´t make her cum like that. Just don´t pretend to compete with Alphas. You just can´t. That being said, good luck. 
+But don't worry, some orgasms are not as watery. A woman can still like sex if you don't make her cum like that. Just don't pretend to compete with Alphas. You just can't. That being said, good luck. 
 
-Now you know the information, and so it´s time to try and make Captain T cum. That may soften her heart. Or maybe not... Hahahaha
+Now you know the information, and so it's time to try and make Captain T cum. That may soften her heart. Or maybe not... Hahahaha
 
-Next week we´ll be learning about YOUR anatomy, and so we´ll get deeper into your pleasure. Have a nice week.<</speech>>
+Next week we'll be learning about YOUR anatomy, and so we'll get deeper into your pleasure. Have a nice week.<</speech>>
 <<speech "You" "''$name:''">>
 Thanks... (this class was actually helpfull!)<</speech>>
 <<click "Bye!" "Deck 8">><<set $badge to $badge +1>><<set $anatomy1 to "Active">><<set $capt to 3>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><</click>><</linkappend>><</linkappend>><<elseif $anatomy is 4>><<speech "foster" "''Foster:''">>
@@ -220,7 +220,7 @@ Hello there. Come in and have a sit.<</speech>>
 <img src="classes/anatomy/foster1.jpg" width="40%">
 
 <<speech "foster" "''Foster:''">>
-Today we are going to concentrate on your own body. I see you are doing quite well with your... education... You´ve got a nice soft body, so feminine and cute. As I already showed you in the previous class, Alpha Male bodies are very different from the Beta´s and the Sisses´. Here´s a visual comparison of a Male and a Sissy:
+Today we are going to concentrate on your own body. I see you are doing quite well with your... education... You've got a nice soft body, so feminine and cute. As I already showed you in the previous class, Alpha Male bodies are very different from the Beta's and the Sisses'. Here's a visual comparison of a Male and a Sissy:
 
 <img src="classes/anatomy/comparison1.jpg" width="70%">
 
@@ -236,28 +236,28 @@ What I mean, my pretty gurl, is that your sexual organ is not your beta-dick. Th
 
 <img src="classes/anatomy/organs.jpg" width="40%">
 
-Your Mouth and your Sissy-pussy. Although some girls can come while sucking a dick or even kissing, it is extremely rare, and we should consider the mouth merely as a giving sexual organ. It can give pleasure to others. But, if you want to cum, you´ll have to explore your prostate. This is usually done with a dildo or vibrator, but a prostate massage will also make the trick:
+Your Mouth and your Sissy-pussy. Although some girls can come while sucking a dick or even kissing, it is extremely rare, and we should consider the mouth merely as a giving sexual organ. It can give pleasure to others. But, if you want to cum, you'll have to explore your prostate. This is usually done with a dildo or vibrator, but a prostate massage will also make the trick:
 
 <img src="classes/anatomy/prostate.gif" width="40%">
 
-I hope this ilustrates it well enough. You can ask for this kind of massage in the spa if you want. Just say my name and they´ll let you in.<</speech>>
+I hope this ilustrates it well enough. You can ask for this kind of massage in the spa if you want. Just say my name and they'll let you in.<</speech>>
 <<speech "You" "''$name:''">>
-(Did she say "...Dildo or vibrator..."?) But I haven´t... never...<</speech>>
+(Did she say "...Dildo or vibrator..."?) But I haven't... never...<</speech>>
 <<speech "foster" "''Foster:''">>
-I understand you, I really do. The anus doesn´t seem like a good hole to insert things in, but mother nature decided to put your special spot there. There must be a reason... Yes, it´s your ass, but it´s also a sissy-pussy.<</speech>>
-[[I´d prefer to do it the normal way|Anatomyclass][$anatomy to 5]]
+I understand you, I really do. The anus doesn't seem like a good hole to insert things in, but mother nature decided to put your special spot there. There must be a reason... Yes, it's your ass, but it's also a sissy-pussy.<</speech>>
+[[I'd prefer to do it the normal way|Anatomyclass][$anatomy to 5]]
 [[I am not sure about this|Anatomyclass][$anatomy to 6]]<<elseif $anatomy is 5>><<speech "You" "''$name:''">>
-I...I think I prefer the normal way, I don´t want to have something in my-<</speech>>
+I...I think I prefer the normal way, I don't want to have something in my-<</speech>>
 <<speech "foster" "''Foster:''">>
-I can understand what you say, but listen very carefully: You don´t have a dick to stroke. Therefore you need to change your masturbation rituals, and the whole way you apporach sex. It´s only logical.<</speech>>
+I can understand what you say, but listen very carefully: You don't have a dick to stroke. Therefore you need to change your masturbation rituals, and the whole way you apporach sex. It's only logical.<</speech>>
 <<speech "You" "''$name:''">>
-Yes... But it´s not like I don´t feel anything on my penis-<</speech>>
+Yes... But it's not like I don't feel anything on my penis-<</speech>>
 <<speech "foster" "''Foster:''">>
 Clitty.<</speech>>
 <<speech "You" "''$name:''">>
 Umm... y-yes. So I can masturbate with it and cum. So I only need to get this thing out *you rub your cage*<</speech>>
 <<speech "foster" "''Foster:''">>
-How many times do you have erection problems? 8 out of 10? And how much cum can you produce? Less than a teaspoon? Look, $name: Mother nature has its ways. You need to succumb to it. Embrace your strong features. You have a larger than average prostate, and a little clitty. Use it to your benefit. Be a full sissy... C´mon, show me your clit.<</speech>>
+How many times do you have erection problems? 8 out of 10? And how much cum can you produce? Less than a teaspoon? Look, $name: Mother nature has its ways. You need to succumb to it. Embrace your strong features. You have a larger than average prostate, and a little clitty. Use it to your benefit. Be a full sissy... C'mon, show me your clit.<</speech>>
 <<if $int gte 100>><div class="center"><span class="fade-in-out"><span class="pink">IF ''IQ'' MORE THAN 100</span></span></div>
 You step back.
 
@@ -293,22 +293,22 @@ You heard me. *smiles* Now, trust me and start exploring your "insides". You wil
 \\<<else>><div class="center"><span class="fade-in-out"><span class="pink">IF ''IQ'' LESS THAN 100</span></span></div>Less embarrased than you would expect to be, you flash your shriveled little dickie and she tickles your shaved sensitive balls.
 
 <<speech "foster" "''Foster:''">>
-This is too cute to pass. Embrace your cuteness, your feminine side. Plus, this cage won´t let you stroke anyway, hahaha<</speech>>
+This is too cute to pass. Embrace your cuteness, your feminine side. Plus, this cage won't let you stroke anyway, hahaha<</speech>>
 She walks back to the board.
 
 <<speech "foster" "''Foster:''">>
 And on this note, this class is over. Explore your body and find the hidden pleasure that is hidden in your sissy boi-pussy. Or you will NEVER cum again.<</speech>>
 <<click "Finish class" "Deck 8">><<set $sexdoor to 0>><<set $smsm5 to true>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><<set $specialmassage to true>><<set $cum to "Active">><<set $anatomy to 7>><<set $badge to $badge +1>><</click>><</if>>
 <<elseif $anatomy is 6>><<speech "You" "''$name:''">>
-I...I´m not sure about this...it seems uncomfortable...<</speech>>
+I...I'm not sure about this...it seems uncomfortable...<</speech>>
 <<speech "foster" "''Foster:''">>
-Oh, no it´s not. Anal is very enjoyable for most girls too, but being a biological boy, you will actually feel the pleasure and cum from it. Just like gay couples.<</speech>>
+Oh, no it's not. Anal is very enjoyable for most girls too, but being a biological boy, you will actually feel the pleasure and cum from it. Just like gay couples.<</speech>>
 You look at her about to protest.
 
 <<speech "foster" "''Foster:''">>
-NO, IT IS NOT GAY FOR YOU TO STIMULATE YOUR PROSTATE *sighs and breathes in* It´s not gay because you are not an Alpha Male. And furthermore, exploring one´s own body doesn´t define your sexual identity for God´s Sake!<</speech>>
+NO, IT IS NOT GAY FOR YOU TO STIMULATE YOUR PROSTATE *sighs and breathes in* It's not gay because you are not an Alpha Male. And furthermore, exploring one's own body doesn't define your sexual identity for God's Sake!<</speech>>
 <<speech "You" "''$name:''">>
-O-Ok...But what´s wrong with masturbating with my dick?<</speech>>
+O-Ok...But what's wrong with masturbating with my dick?<</speech>>
 <<speech "foster" "''Foster:''">>
 Clitty.<</speech>>
 <<speech "You" "''$name:''">>
@@ -318,11 +318,11 @@ How many times do you have erection problems? 8 out of 10? And how much cum can 
 You flash your shriveled little dickie and she tickles your shaved sensitive balls.
 
 <<speech "foster" "''Foster:''">>
-Aw... This is too cute to pass. Embrace your cuteness, your feminine side. Plus, this cage won´t let you stroke anyway, hahaha<</speech>>
+Aw... This is too cute to pass. Embrace your cuteness, your feminine side. Plus, this cage won't let you stroke anyway, hahaha<</speech>>
 She walks back to the board.
 
 <<speech "foster" "''Foster:''">>
-And on this note the class is over. Explore your body and find the hidden pleasure that´s in your sissy boi-pussy. Or you will NEVER cum again.<</speech>>
+And on this note the class is over. Explore your body and find the hidden pleasure that's in your sissy boi-pussy. Or you will NEVER cum again.<</speech>>
 <<click "Finish class" "Deck 8">><<set $sexdoor to 0>><<set $smsm5 to true>><<set $cum to "Active">><<set $badge to $badge +1>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><<set $specialmassage to true>><<set $anatomy to 7>><</click>>
 
 

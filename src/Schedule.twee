@@ -7,7 +7,7 @@
 <span class="red">Psychologist:</span> Deck 8.
 <span class="brown">Sailing:</span> Deck 9.
 <span class="green">Health Review:</span> Deck 8.
-<span class="tarafont">Mistress´ Week Review:</span> Tara´s Room.</span>
+<span class="tarafont">Mistress' Week Review:</span> Tara's Room.</span>
 
 [[Return|$return]]<<audio "menus" volume 0.15 loop play>><<audio "tinder" stop>><<audio ":back" mute>><<audio "party" mute>><<audio "stage1" mute>><<audio "tinder" mute>><<audio "casino" mute>><<audio "kitchen" mute>><<audio "dorky" mute>><<if ndef $mute>><<audio "menus" unmute>><<else>><</if>>
 

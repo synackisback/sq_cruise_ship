@@ -2,7 +2,7 @@
 <<audio "dorky" loop play>>Time has flashed by!
 
 <<speech "You" "$name">>
-Oh no! I can´t lose the ship!<</speech>>
+Oh no! I can't lose the ship!<</speech>>
 You quickly pack your things and run out the door...
 
 <img src="stuff/lateship.gif" width="50%">

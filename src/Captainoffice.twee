@@ -6,11 +6,11 @@ She guides you to a chair in front of her desk, as she goes around it and sits o
  *Sits down*<<set $newsms to -1>>
  
 <<speech "cap" "''Captain T:''">>
-So, Tara, my second aboard told me about your little incident last night. Nono, don´t put that face, its alright. You see, I thought that, despite your looks, you had a nice piece of meat. But I see I was wrong, and that IS my fault. Let me explain:
+So, Tara, my second aboard told me about your little incident last night. Nono, don't put that face, its alright. You see, I thought that, despite your looks, you had a nice piece of meat. But I see I was wrong, and that IS my fault. Let me explain:
 
-This is the SQ Cruise Ship. The SQ stand for SIZE QUEEN. Do you know what a Size Queen is, $name? I supossed you don´t... It is a term that refers to girls who have decided to ONLY have intercourse with above than average penises.
+This is the SQ Cruise Ship. The SQ stand for SIZE QUEEN. Do you know what a Size Queen is, $name? I supossed you don't... It is a term that refers to girls who have decided to ONLY have intercourse with above than average penises.
 
-So this ship is a haven for women like us, so to speak. We have always been oppressed by a society that proclaims that "It´s the motion of the ocean" that matters and all that kind of BULLSHIT!<</speech>>
+So this ship is a haven for women like us, so to speak. We have always been oppressed by a society that proclaims that "It's the motion of the ocean" that matters and all that kind of BULLSHIT!<</speech>>
 <span class="shudder"><span class="onomatopeya">*THUMP*</span></span>
 
 By this point you are as scared as you can be. Locked in another room with another crazy double-personality bitch.
@@ -20,20 +20,20 @@ But here... *sigh*<</speech>>
 <<speech "You" "''$name:''">>
 (Did her voice just change?)<</speech>>
 <<speech "cap" "''Captain T:''">>
-Oh, here we can be ourselves. Just have fun and not think about anyone´s feelings... *Suddenly, her voice changes again* Men weren´t suppossed to get on the ship until we crossed the Atlantic. *She looks at you dead in the eye* And I mean REAL MEN.
+Oh, here we can be ourselves. Just have fun and not think about anyone's feelings... *Suddenly, her voice changes again* Men weren't suppossed to get on the ship until we crossed the Atlantic. *She looks at you dead in the eye* And I mean REAL MEN.
 
-I can´t afford to have any bad reviews, so I can´t just let you get out in the next docking we do. But I can´t let you ruin the Size Queen experience for any more passengers either. What am I going to do with you, huh? *Voice change* 
+I can't afford to have any bad reviews, so I can't just let you get out in the next docking we do. But I can't let you ruin the Size Queen experience for any more passengers either. What am I going to do with you, huh? *Voice change* 
 
-I´ll tell you what! It will be fun hehe...I am going to help you get better at sex.<</speech>>
+I'll tell you what! It will be fun hehe...I am going to help you get better at sex.<</speech>>
 <<speech "You" "''$name:''">>
 (This is getting even weirder!)<</speech>>
 <<speech "cap" "''Captain T:''">>
-I mean, I don´t think that you could ever do anything for any of these women with that little flesh piece, but I can teach you how to please them without using it. It´ll be like an academy for you, you know, a SEX ACADEMY hahaha... with classes and all! YES! We´ll establish a point system. Each class that you pass succesfully will earn you points. If you don´t assist to the classes you´ll have to earn those points in some other way.
+I mean, I don't think that you could ever do anything for any of these women with that little flesh piece, but I can teach you how to please them without using it. It'll be like an academy for you, you know, a SEX ACADEMY hahaha... with classes and all! YES! We'll establish a point system. Each class that you pass succesfully will earn you points. If you don't assist to the classes you'll have to earn those points in some other way.
 
-At the end of each week we´ll count your achieved amount of points. If it doesn´t get to the needed amount you´ll take a punishment. I guarantee, it won´t be pleasant, so I suggest you to follow my directions exactly as I say.<</speech>>
+At the end of each week we'll count your achieved amount of points. If it doesn't get to the needed amount you'll take a punishment. I guarantee, it won't be pleasant, so I suggest you to follow my directions exactly as I say.<</speech>>
 
 <<speech "cap" "''Captain T:''">>
-Last, but not least, here´s your brand new ''Lesson Schedule''. Don´t be late!<</speech>>
+Last, but not least, here's your brand new ''Lesson Schedule''. Don't be late!<</speech>>
 ''*$name received Schedule*''<<set $schedule to true>>
 
 <<speech "cap" "''Captain T:''">>
@@ -45,27 +45,27 @@ She stands up and sits in a chair next to a camera.
 <span class="blue"><<speech "cap" "''Captain T:''">>
 //Hi, my dear ladies. I have something to tell you.
 
-Some of you might´ve already heard something. Yes, we have a stowaway in the ship. He is called $name. Last night he had an impotent and unsuccesful sexual encounter with my beloved second aboard. She has informed that $name is not well suited in the genital department to pass as a man on this ship.
+Some of you might've already heard something. Yes, we have a stowaway in the ship. He is called $name. Last night he had an impotent and unsuccesful sexual encounter with my beloved second aboard. She has informed that $name is not well suited in the genital department to pass as a man on this ship.
 
-Although he´s here because of an administration error, he has decided to stay, as he paid for the full cruise, and have fun like all of us. Please, don´t treat him too roughly: he´s studying. 
+Although he's here because of an administration error, he has decided to stay, as he paid for the full cruise, and have fun like all of us. Please, don't treat him too roughly: he's studying. 
 
 Yes, he is going to be studying how to please a woman, he seems to be in need for some intensive tutoring. My crew and I will teach him each lesson until he is completely reformed.
 
-Meanwhile, please, girls, keep having fun. Remember, the best is yet to come. We´ll have a taste of REAL MEN once we cross the Atlantic Ocean. 
+Meanwhile, please, girls, keep having fun. Remember, the best is yet to come. We'll have a taste of REAL MEN once we cross the Atlantic Ocean. 
 
 Have a nice day and thanks for your attention, this has been Captain T.//<</speech>></span>
  *Transmission stops*
  
 <<speech "You" "''$name:''">>
-You didn´t have to do that!<</speech>>
+You didn't have to do that!<</speech>>
 <<speech "cap" "''Captain T:''">>
-Oh, yes I had to. I mean, you are obviously not a woman, so there´s no point in misleading my passengers. The word would´ve spread anyway, so better sooner that later. And even better if they hear about it by the hand of the Captain. That may save part of my credibility.
+Oh, yes I had to. I mean, you are obviously not a woman, so there's no point in misleading my passengers. The word would've spread anyway, so better sooner that later. And even better if they hear about it by the hand of the Captain. That may save part of my credibility.
 
 Oh! I almost forgot. Give me your phone.<</speech>>
 <<speech "You" "''$name:''">>
 Whhhaat?!<</speech>>
 <<speech "cap" "''Captain T:''">>
-You heard me. I can´t trust you...yet.<</speech>>
+You heard me. I can't trust you...yet.<</speech>>
 <<if $setcuckpath is 1>><<speech "You" "''$name:''">>
 But...how am I going to comunicate with everyone from the outside?<</speech>>
 <<speech "cap" "''Captain T:''">>
@@ -77,14 +77,14 @@ Oh, come on, don't be dramatic! Hahaha<</speech>>
 <<speech "You" "''$name:''">>
 I'm not!<</speech>>
 <<speech "cap" "''Captain T:''">>
-Well, then you better do what I say or I´ll tell everyone about your little adventure last night and how humiliating it was. Noooo, don´t give me that face. Let's hope there will be no need for exposing you... Plus, I´m going to let you talk to your friends. I´m just taking your phone, but I´m giving you THIS one instead.<<set $techphone to true>><</speech>><<else>><<speech "You" "''$name:''">>
+Well, then you better do what I say or I'll tell everyone about your little adventure last night and how humiliating it was. Noooo, don't give me that face. Let's hope there will be no need for exposing you... Plus, I'm going to let you talk to your friends. I'm just taking your phone, but I'm giving you THIS one instead.<<set $techphone to true>><</speech>><<else>><<speech "You" "''$name:''">>
 But...how am I going to talk with my girlfriend.<</speech>>
 <<speech "cap" "''Captain T:''">>
 ¿You have a girlfriend?¿What is her name?<</speech>>
 <<speech "You" "''$name:''">>
 $gfname. Well...we are taking a time appart.<</speech>>
 <<speech "cap" "''Captain T:''">>
-Hahaha then you better do what I say or I´ll tell her about your little adventure last night. Noooo, don´t give me that face. There´ll be no need for that. Plus, I´m going to let you talk to her. I´m just taking your phone, but I´m giving you THIS one instead.<<set $techphone to true>><</speech>><</if>>
+Hahaha then you better do what I say or I'll tell her about your little adventure last night. Noooo, don't give me that face. There'll be no need for that. Plus, I'm going to let you talk to her. I'm just taking your phone, but I'm giving you THIS one instead.<<set $techphone to true>><</speech>><</if>>
 
  *You exchange phones*
  
@@ -95,35 +95,35 @@ As I said, you will receive the messages I consider pertinent and positive for y
 She finally relaxes and lets the chair fully support her body.
  
 <<speech "cap" "''Captain T:''">>
-That is all from me, $name. If I were you I´d apologize to Tara. Off you go! Take the day free! *waves her hand*<</speech>>
+That is all from me, $name. If I were you I'd apologize to Tara. Off you go! Take the day free! *waves her hand*<</speech>>
 <<click "Protest" "protestt">><<audio "heels" stop>><<set $fem to 0>><<set $fitcount to 2>><<set $fit to 0>><<set $int to 100>><<set $sub to 0>><<set $casino to true>><<set $points to 0>><<set $talktara to true>><<set $lust to 0>><<set $stress to 30>><<set $hunger to 80>><<set $capt to 1>><<set $showstats to true>><<set $masturbate to 1>><</click>>
 <<click "Comply" "Deck 3">><<audio "heels" stop>><<set $casino to true>><<set $fitcount to 2>><<set $talktara to true>><<set $fem to 0>><<set $fit to 0>><<set $int to 100>><<set $sub to 0>><<set $points to 0>><<set $lust to 0>><<set $stress to 10>><<set $capt to 1>><<addhours 5>><<set $cap1 to "Finished">><<set $protestt to 1>><<set $tara1 to "Active">><<set $hunger to 80>><<set $stress to 20>><<set $showstats to true>><<set $masturbate to 1>><</click>><<elseif $capt is 1>><img src="cap/desk1.jpg" width="50%">
 
 <<speech "cap" "''Captain T:''">>
-Well, good morning my little boy! This will be your first lesson. First of all, you´ve got understand that it´s not going to be easy for you to please a woman and fulfill her needs. You´ll get a better perspective of that idea on anatomy class today. But now you are going to learn the only way you have for sexually pleasing a woman. Your tongue.
+Well, good morning my little boy! This will be your first lesson. First of all, you've got understand that it's not going to be easy for you to please a woman and fulfill her needs. You'll get a better perspective of that idea on anatomy class today. But now you are going to learn the only way you have for sexually pleasing a woman. Your tongue.
 
 Have you ever given head to your girl?<</speech>>
 <<speech "You" "''$name:''">>
-Just a few times, but she told me she wasn´t really into the whole oral thing.<</speech>>
+Just a few times, but she told me she wasn't really into the whole oral thing.<</speech>>
 <<speech "cap" "''Captain T:''">>
-Well, that may be because you weren´t doing a good job, don´t you think?
-But don´t worry, this is something that a lot of men, even real men, have problems with.
+Well, that may be because you weren't doing a good job, don't you think?
+But don't worry, this is something that a lot of men, even real men, have problems with.
 
-The first step to understanding oral sex is: DON´T MIND GETTING MESSY.
-It´s going to be messy, and you have to be able to get through all the wetness and stickiness of the pussy. Once you get past the messy part of it, we´ll start talking about the quality of it.
+The first step to understanding oral sex is: DON'T MIND GETTING MESSY.
+It's going to be messy, and you have to be able to get through all the wetness and stickiness of the pussy. Once you get past the messy part of it, we'll start talking about the quality of it.
 
 Come, get on your knees boi.<</speech>>
 [[Obey|obeyt][$obeyt to 1, $capt to 2]]
 <<if $hunger is 0>><<linkreplace "Protest">>You are too hungry...<</linkreplace>><<else>>[[Protest|protestt][$protestt to 1, $capt to 2]]<</if>><<elseif $capt is 2>><img src="cap/desk1.jpg" width="50%">
 
 <<speech "cap" "''Captain T:''">>
-Good morning, sweetie! You know what to do, don´t make mommy mad.<</speech>>
+Good morning, sweetie! You know what to do, don't make mommy mad.<</speech>>
 <<speech "You" "''$name:''">>
 ... ...<</speech>>
 <<speech "cap" "''Captain T:''">>
 Get to your place, now. *she points under the table*<</speech>>
 [[Obey|obeyt][$obeyt to 2]]
-<<if $hunger is 0>><<linkreplace "Protest">>You´re too hungry...<</linkreplace>><<else>>[[Protest|protestt][$protestt to 1]]<</if>><<elseif $capt is 3>><img src="cap/desk1.jpg" width="50%">
+<<if $hunger is 0>><<linkreplace "Protest">>You're too hungry...<</linkreplace>><<else>>[[Protest|protestt][$protestt to 1]]<</if>><<elseif $capt is 3>><img src="cap/desk1.jpg" width="50%">
 
 <<speech "cap" "''Captain T:''">>
 Good morning, sweetie! Are you coming or what?<</speech>>
@@ -132,7 +132,7 @@ Good morning, sweetie! Are you coming or what?<</speech>>
 <<speech "cap" "''Captain T:''">>
 Get to your place, now. *she points under the table*<</speech>>
 [[Obey|obeyt][$obeyt to 3, $capt to 4]]
-<<if $hunger is 0>><<linkreplace "Protest">>You´re too hungry...<</linkreplace>><<else>>[[Protest|protestt][$protestt to 1]]<</if>><<elseif $capt is 4>>As you enter Captain´s office, you are surprised by the lack of light. Captain T usually has every light turned on, but today she´s just got the little one on the table. You look at her chair but she´s not there...
+<<if $hunger is 0>><<linkreplace "Protest">>You're too hungry...<</linkreplace>><<else>>[[Protest|protestt][$protestt to 1]]<</if>><<elseif $capt is 4>>As you enter Captain's office, you are surprised by the lack of light. Captain T usually has every light turned on, but today she's just got the little one on the table. You look at her chair but she's not there...
 
 <<speech "You" "''$name:''">>
 Hello...?<</speech>>
@@ -143,38 +143,38 @@ A wave of lust shocks your body, making your small dick strain.
 
 <<speech "You" "''$name:''">>
  *gulp*<</speech>>
-You start slowly walking towards her. You don´t know if she´s trying something weird on you, or if maybe giving her that orgasm really changed her.
+You start slowly walking towards her. You don't know if she's trying something weird on you, or if maybe giving her that orgasm really changed her.
  
 <<speech "cap" "''Captain T:''">>
-You know, $name... it was a while since I had the time to... relax like the other day. It´s not like I don´t cum often, but it was eye-opening how good I could feel without a male around...<</speech>>
+You know, $name... it was a while since I had the time to... relax like the other day. It's not like I don't cum often, but it was eye-opening how good I could feel without a male around...<</speech>>
 <<speech "You" "''$name:''">>
 (I feel complimented, even though she just called me a... <span class="pink">girl...</span>)<</speech>>
 <<speech "cap" "''Captain T:''">>
-And, you know... I´ve never liked being with women either.<</speech>>
+And, you know... I've never liked being with women either.<</speech>>
 <<speech "You" "''$name:''">>
 (Well then, what am I?)<</speech>>
 <<speech "cap" "''Captain T:''">>
-I think I´ve found a real gold mine with you. Men don´t eat pussy like that, they all go for the prize... but you... you are like the best of both worlds... *smiles devilishly*<</speech>>
+I think I've found a real gold mine with you. Men don't eat pussy like that, they all go for the prize... but you... you are like the best of both worlds... *smiles devilishly*<</speech>>
 <<speech "You" "''$name:''">>
 Um... thanks?<</speech>>
 Captain T slowly sit down on the border of the bed.
 
 <<speech "cap" "''Captain T:''">>
-Come here, don´t be shy...<</speech>>
+Come here, don't be shy...<</speech>>
 With just a step forward you get to just a couple inches from her face. Your crotch is at the same height as her beautiful breasts. Your blood rushes through your body like lightning, making your face go red.
 
 <<speech "cap" "''Captain T:''">>
-Now, I haven´t had the opportunity to see what all the fuss was about, did I?<</speech>>
+Now, I haven't had the opportunity to see what all the fuss was about, did I?<</speech>>
 Her finger is swirling sensually across your tummy. You try to ignore her looking to one side.
 
 <<speech "cap" "''Captain T:''">>
 Look me in the eye when I talk to you, young man!<</speech>>
 <<speech "You" "''$name:''">>
-(I guess she´s not that changed after all...) *you look at her*<</speech>>
+(I guess she's not that changed after all...) *you look at her*<</speech>>
 Her dominant aura, as well as her breasts pushing your penis is just making more and more aroused.
 
 <<speech "cap" "''Captain T:''">>
-That´s more like it... now, let ME take the lead. You´d like that, wouldn´t you...? I know I do... mmm<</speech>>
+That's more like it... now, let ME take the lead. You'd like that, wouldn't you...? I know I do... mmm<</speech>>
 With firm hands, Captain T starts unbuckling your pants.
 
 <<speech "cap" "''Captain T:''">>
@@ -182,69 +182,69 @@ With firm hands, Captain T starts unbuckling your pants.
 While she caresses your tummy she gets lower and lower, until she reaches your underwear.Then she pulls it down.
 
 <<speech "cap" "''Captain T:''">>
-<<if $cage is true>>OMG I´m in shock! Ohoho...wow! A chastity cage? I haven´t seen one of these in years. I bet Tara made you wear this... hm, poor thing... but it´s for the best. After all, now we know what your REAL sexual organ is, don´t we? Talking of which...<<elseif $cage is false>>OH MY GOD, IT´S SO BIG! HAHAHA just kidding, my little boy. *she pokes your penis* You know you shouldn´t be showing that off like that, after all, we know what your REAL sexual organ is, don´t we? Talking of which...<</if>><</speech>>
+<<if $cage is true>>OMG I'm in shock! Ohoho...wow! A chastity cage? I haven't seen one of these in years. I bet Tara made you wear this... hm, poor thing... but it's for the best. After all, now we know what your REAL sexual organ is, don't we? Talking of which...<<elseif $cage is false>>OH MY GOD, IT'S SO BIG! HAHAHA just kidding, my little boy. *she pokes your penis* You know you shouldn't be showing that off like that, after all, we know what your REAL sexual organ is, don't we? Talking of which...<</if>><</speech>>
 She gets on all fours on the bed and takes off her panties.
 
 <div class="center"><img src="cap/capdoggy.jpg" width="100%"></div>
 <<speech "cap" "''Captain T:''">>
 Here you go, be my little doggy, baby boy...<</speech>>
 [[Obey|obeyt][$obeyt to 4]]
-<<if $hunger is 0>><<linkreplace "Protest">>You´re too hungry...<</linkreplace>><<else>>[[Protest|protestt][$protestt to 3]]<</if>><<elseif $capt is 5>><img src="cap/desk1.jpg" width="50%">
+<<if $hunger is 0>><<linkreplace "Protest">>You're too hungry...<</linkreplace>><<else>>[[Protest|protestt][$protestt to 3]]<</if>><<elseif $capt is 5>><img src="cap/desk1.jpg" width="50%">
 
 <<speech "cap" "''Captain T:''">>
-Hi there, come in. The other day was fun, wasn´t it.<</speech>>
+Hi there, come in. The other day was fun, wasn't it.<</speech>>
 <<speech "You" "''$name:''">>
 ... ...<</speech>>
 <<speech "cap" "''Captain T:''">>
-I´ll take that as a yes. Today mommy´s got some work to do. So be quiet and enjoy your snack.<</speech>>
+I'll take that as a yes. Today mommy's got some work to do. So be quiet and enjoy your snack.<</speech>>
 <img src="cap/undertable.gif" width="60%">
 
 Without a complaint, you get on your knees and under the table. You start sucking on her pussy like if it was an ice-cream.
 
 <<speech "You" "''$name:''">>
-(Hmm... mmm... yess... I am liking this too much... what´s wrong with me?)<</speech>>
+(Hmm... mmm... yess... I am liking this too much... what's wrong with me?)<</speech>>
 <<speech "cap" "''Captain T:''">>
-Oooh... someone´s hungry, huh? Nice... mommy loves good puppies *tap, tap*<</speech>>
+Oooh... someone's hungry, huh? Nice... mommy loves good puppies *tap, tap*<</speech>>
 The time of the class passes too fast for your liking. You successfully make her cum twice, but no squirt.
 
 <<speech "cap" "''Captain T:''">>
-Ok, you´re done for today! Good job, my boy. *bites lips* On you go *spank*<</speech>>
-You smile as she spanks you. You´re kind of getting her sense of humor, aren´t you? You touch your face and feel how sticky and wet it is. It´s all covered in Captain´s pussy juice. You lick all of what´s on your lips, trying to clean them.
+Ok, you're done for today! Good job, my boy. *bites lips* On you go *spank*<</speech>>
+You smile as she spanks you. You're kind of getting her sense of humor, aren't you? You touch your face and feel how sticky and wet it is. It's all covered in Captain's pussy juice. You lick all of what's on your lips, trying to clean them.
 
 <<speech "You" "''$name:''">>
-(Everyday she tastes different... <span class="pink">That´s so hot!</span> I mean... uh...curious)<</speech>>
+(Everyday she tastes different... <span class="pink">That's so hot!</span> I mean... uh...curious)<</speech>>
 <<click "Get out" "Deck 3">><<set $points to $points +50>><<run $gameDate.setHours (13)>><</click>><<elseif $capt is 6>><img src="cap/office1.jpg" width="40%">
 
 <<speech "cap" "''Captain T:''">>
-Hi, $name. This weekend I´ve had time to think, you know?<</speech>>
+Hi, $name. This weekend I've had time to think, you know?<</speech>>
 You start to worry, unsure of what this woman has on her mind...
 
 <<speech "cap" "''Captain T:''">>
-I think us, the crew, are making a very good job on you, teaching how to please women in ways you never thought you´d knew. Especially me.<</speech>>
+I think us, the crew, are making a very good job on you, teaching how to please women in ways you never thought you'd knew. Especially me.<</speech>>
 <<speech "You" "''$name:''">>
 (Yeah, very humble...)<</speech>>
 <<speech "cap" "''Captain T:''">>
 Because, you see, time on this cruise is very limited and there are lots of things to do. And teaching someone like you obedience is not easy, $name.
 
-So, just like a loan, I expect you to give back the time and effort I´m spending on you, do you understand?<</speech>>
+So, just like a loan, I expect you to give back the time and effort I'm spending on you, do you understand?<</speech>>
 <<speech "You" "''$name:''">>
 Um... not exactly, no...<</speech>>
 <<speech "cap" "''Captain T:''">>
- *smiles* I thought by this time you would already understand things when I speak. But don´t worry, I guess it´s normal because of your training... Anyway, you´re going to help me with some chores, and if you behave like a good pet, I might even let you have some fun *wink*<</speech>>
+ *smiles* I thought by this time you would already understand things when I speak. But don't worry, I guess it's normal because of your training... Anyway, you're going to help me with some chores, and if you behave like a good pet, I might even let you have some fun *wink*<</speech>>
 <<speech "You" "''$name:''">>
  *glug*<</speech>>
 <<speech "cap" "''Captain T:''">>
 I have to get back on my desk and get some work done. Get to work, cutie.<</speech>>
-<<if $fetish gte 1>>You are a little annoyed that she is treating you like a pet or a slave, doing some stupid chores, but there´s something else that annoys you the most: not being able to eat her pussy today...<<else>><</if>>
+<<if $fetish gte 1>>You are a little annoyed that she is treating you like a pet or a slave, doing some stupid chores, but there's something else that annoys you the most: not being able to eat her pussy today...<<else>><</if>>
 [[Do chores well|obeyt][$obeyt to 5, $capchores to 0, $capt to 7]]
-<<if $hunger is 0>><<linkreplace "Do chores badly">>You´re too hungry...<</linkreplace>><<else>>[[Do chores badly|protestt][$protestt to 5, $capt to 7]]<</if>><<elseif $capt is 7>>As you get in Captain T´s office, you see her already working.
+<<if $hunger is 0>><<linkreplace "Do chores badly">>You're too hungry...<</linkreplace>><<else>>[[Do chores badly|protestt][$protestt to 5, $capt to 7]]<</if>><<elseif $capt is 7>>As you get in Captain T's office, you see her already working.
 
 <<speech "cap" "''Captain T:''">>
-Oh, hi there. Come in, $name. I need silence to work, just do your chores and we´ll see about your reward.<</speech>>
+Oh, hi there. Come in, $name. I need silence to work, just do your chores and we'll see about your reward.<</speech>>
 <<speech "You" "''$name:''">>
 ("My chores" ha!)<</speech>>
 [[Do chores well|obeyt][$obeyt to 5, $capchores to 0]]
-<<if $hunger is 0>><<linkreplace "Do chores badly">>You´re too hungry...<</linkreplace>><<else>>[[Do chores badly|protestt][$protestt to 5]]<</if>>
+<<if $hunger is 0>><<linkreplace "Do chores badly">>You're too hungry...<</linkreplace>><<else>>[[Do chores badly|protestt][$protestt to 5]]<</if>>
 
 
 \\<<elseif $capt is 8>><div class="center"><img src="cap/desk1.jpg" width="50%"></div>
@@ -290,7 +290,7 @@ So... we don't have a real dick available around here, so we'll asume that the m
 Captain T is waiting for you to say something about the dildo.
 
 [[Compliment its size|Captainoffice][$capt to 9]]
-<<if $hunger is 0>><<linkreplace "Stay quiet">>You´re too hungry to protest...<</linkreplace>><<else>>[[Stay quiet|Captainoffice][$capt to 10]]<</if>><</linkreplace>>
+<<if $hunger is 0>><<linkreplace "Stay quiet">>You're too hungry to protest...<</linkreplace>><<else>>[[Stay quiet|Captainoffice][$capt to 10]]<</if>><</linkreplace>>
 
 
 

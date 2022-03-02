@@ -3,8 +3,8 @@
 You go into the kids section of the Aquarium. This is where most of the kids are, and so most of the parents. There are only a few tanks: a normal fish tank, with some average fishes. The sharks tank, and the mermaid tank.<<addmins 5>>
 
 <<speech "You" "''$name''">>
-(Wait, what? The "mermaid tank?" Oh, ok... it´s just a woman dressed as a mermaid. She seems to be happy with her job.)<</speech>>
-Lots of cameras are taking pictures of her smiling and doing stunts. She swims from one side to another under the gaze of everyone. You can´t help but smile.
+(Wait, what? The "mermaid tank?" Oh, ok... it's just a woman dressed as a mermaid. She seems to be happy with her job.)<</speech>>
+Lots of cameras are taking pictures of her smiling and doing stunts. She swims from one side to another under the gaze of everyone. You can't help but smile.
 
 <<speech "You" "''$name''">>
 (She really does a good job)<</speech>>
@@ -12,10 +12,10 @@ When she goes to your side, she suddenly stops.
 
 <img src="dockings/mermaid2.gif">
 
-She pops a kiss to you and waits. You don´t know what to do. Everyone is looking at you and pointing at you with their cameras, as if the were expecting for you to do something.
+She pops a kiss to you and waits. You don't know what to do. Everyone is looking at you and pointing at you with their cameras, as if the were expecting for you to do something.
 
 <<speech "nobody" "''Random man''">>
-C´mon, give her the kiss back!<</speech>>
+C'mon, give her the kiss back!<</speech>>
 You look at the mermaid, who is now putting a sad face. Everyone is chanting:
 
 <span class="onomatopeya">KISS KISS KISS KISS</span>
@@ -27,13 +27,13 @@ Mwah...<</speech>>
 ...
 ...
 
-The mermaid doesn´t seem satisfied. She tells you with her hand to go closer. And closer. And closer.
+The mermaid doesn't seem satisfied. She tells you with her hand to go closer. And closer. And closer.
 
 <<speech "You" "''$name''">>
 Like... this? *you put your lips on the glass*<</speech>>
 <img src="dockings/mermaidkiss.jpg" width="50%">
 
-She smiles and comes closer. When she´s about to kiss the glass your lips are on, she impulses herself upwards with the tail. Suddenly you find yourself kissing the mermaid´s butt through the glass.
+She smiles and comes closer. When she's about to kiss the glass your lips are on, she impulses herself upwards with the tail. Suddenly you find yourself kissing the mermaid's butt through the glass.
 
 <span class="onomatopeya">*BONK*</span>
 
@@ -49,7 +49,7 @@ A wave of embarrasment hits you and run out.
 The mermaid is still there, posing for the cameras.
 
 <<speech "You" "''$name''">>
-(I´m definitely not going back there.)<</speech>>
+(I'm definitely not going back there.)<</speech>>
 <<click "Return" "Into the Aquarium">><<audio "office" stop>><</click>><</if>><<audio "menus" stop>><<if ndef $mute>><<audio "mystery" unmute>><<else>><</if>><<audio "office" unmute>>
 
 

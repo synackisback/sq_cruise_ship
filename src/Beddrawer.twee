@@ -9,7 +9,7 @@ HURRY! --> <span id="countdown">$seconds</span>\
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>She´s coming<</replace>>
+			<<replace "#countdown">>She's coming<</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>

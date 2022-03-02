@@ -1,4 +1,4 @@
-:: Go to Bastien´s [textback] {"position":"3994,1844","size":"100,100"}
+:: Go to Bastien's [textback] {"position":"3994,1844","size":"100,100"}
 <<removeclass "html">><<addclass "html" "french">><<speech "nobody" "''Bastien:''">>
 Hey, boy. Do you have the money?<</speech>>
 <<if $realmoney is true>><<speech "You" "''$name:''">>
@@ -20,7 +20,7 @@ No, not yet. Do you have any clue where I could get any?<</speech>>
 <<speech "nobody" "''Bastien:''">>
 If I were you, I would try with some tourists. Those are always distracted and have their pockets filled with cash.<</speech>>
 <<speech "You" "''$name:''">>
-No, I won´t steal. Thank you very much.<</speech>>
+No, I won't steal. Thank you very much.<</speech>>
 <<speech "nobody" "''Bastien:''">>
 Suit yourself...<</speech>>
 <<click "Return" "rocheport">><<audio "office" stop>><</click>><</if>><<if ndef $mute>><<audio "french" unmute>><<else>><</if>><<if ndef $mutefx>><<audio "office" unmute>><<else>><</if>><<audio "menus" stop>>

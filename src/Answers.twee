@@ -3,7 +3,7 @@
 Why am I here? How could a guy have gotten into an only women ship?
 <</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-That´s a good question...Hmm...
+That's a good question...Hmm...
 <</speech>>
 You swear you can see smoke comming off her head.
 
@@ -12,65 +12,65 @@ The only way that you could have gotten in here is if someone from the organizat
 <<speech "You" "''$name:''">>
 Yeah, I remember the woman in the travel agency putting me in...<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-No! But I don´t think an agency worker can do that without higher authorization. The system won´t let it...<</speech>>
+No! But I don't think an agency worker can do that without higher authorization. The system won't let it...<</speech>>
 <<speech "You" "''$name:''">>
 Wow... that was... useful! Thank you, Anastasia. How do you know so much about the system though?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
 I programmed it, you dummy! hehe<</speech>>
 <<speech "You" "''$name:''">>
-(I guess she´s not that stupid, impressive!)<</speech>>
+(I guess she's not that stupid, impressive!)<</speech>>
 //''Conclusion: Someone from the organization of the event, with high authorization, gave the order to put you into the system.''//
 
 [[Return|Sail]]<<elseif $answers is 1>><<speech "You" "''$name:''">>
 So... do you like dancing?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Oh, yeah! It´s always been my dream to be a pole dancer... I used to work for the company, but I got fed up with all that boring work, so I just asked daddy to let me work in the ship! It´s so much more fun!<</speech>>
+Oh, yeah! It's always been my dream to be a pole dancer... I used to work for the company, but I got fed up with all that boring work, so I just asked daddy to let me work in the ship! It's so much more fun!<</speech>>
 <<speech "You" "''$name:''">>
-Well... I am happy that you´re happy.<</speech>>
+Well... I am happy that you're happy.<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Ohh... that´s so sweet... *She strongly hugs you*<</speech>>
-Her strong body feels like a huge snake all around your neck. It´s almost choking you.
+Ohh... that's so sweet... *She strongly hugs you*<</speech>>
+Her strong body feels like a huge snake all around your neck. It's almost choking you.
 
 <<speech "You" "''$name:''">>
-That´s allright... *cough, cough*<</speech>>
+That's allright... *cough, cough*<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-I bet you´ll be as happy as me when you follow your dream. We´ll help you with that!<</speech>>
+I bet you'll be as happy as me when you follow your dream. We'll help you with that!<</speech>>
 <<speech "You" "''$name:''">>
 Thanks... I guess.<</speech>>
 [[Return|Sail]]<<elseif $answers is 2>><<speech "You" "''$name:''">>
-What´s on Deck 1?<</speech>>
+What's on Deck 1?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Oooh... you´re a curious cat, aren´t you? hehe... Well, I really shouldn´t tell you, Captain orders.
+Oooh... you're a curious cat, aren't you? hehe... Well, I really shouldn't tell you, Captain orders.
 
 But...
 
-I can tell you that it is only accesible through the elevator and you need one of the staff´s cards to activate it. Hehe, it´s actually an engine room, but... Oh! I talk too much!!<</speech>>
-//''Conclusion: Deck 1 is an engine room. You need a staff´s card to activate it.''//
+I can tell you that it is only accesible through the elevator and you need one of the staff's cards to activate it. Hehe, it's actually an engine room, but... Oh! I talk too much!!<</speech>>
+//''Conclusion: Deck 1 is an engine room. You need a staff's card to activate it.''//
 
 [[Return|Sail]]<<elseif $answers is 3>><<speech "You" "''$name:''">>
 Well... I was just wondering... Do you know Tara? Like, are you friends?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Yeah, sure! We´ve been friends for almost two years now! Why do you ask?<</speech>>
+Yeah, sure! We've been friends for almost two years now! Why do you ask?<</speech>>
 <<speech "You" "''$name:''">>
 Well, I was just curious about how she was as a person outside her duties as vice-captain.<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Oh... *wonders* We´ve been through a lot together. I mean, most of the experiences have ocurred during work hours, but we´ve always had fun together.<</speech>>
+Oh... *wonders* We've been through a lot together. I mean, most of the experiences have ocurred during work hours, but we've always had fun together.<</speech>>
 <<speech "You" "''$name:''">>
 Like, what?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-I will say she´s always been... a little wild. When we met last year I was a little nerd, computer geek, etc... and she was my opposite. If fact, she was the one that led me to dancing! I heard that on last year´s cruise she had a taste of every man the first day they boarded! Isn´t that insane!?<</speech>>
+I will say she's always been... a little wild. When we met last year I was a little nerd, computer geek, etc... and she was my opposite. If fact, she was the one that led me to dancing! I heard that on last year's cruise she had a taste of every man the first day they boarded! Isn't that insane!?<</speech>>
 <<speech "You" "''$name:''">>
 Umm... yes, I guess...<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-... Oh, I´m sorry. I didn´t mean to hurt your feelings... I´ve heard.<</speech>>
+... Oh, I'm sorry. I didn't mean to hurt your feelings... I've heard.<</speech>>
 <<speech "You" "''$name:''">>
 Heard what?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-You and Tara, you know... not just about the first night (everybody knows that...), but also... you know... I mean, she won´t stop talking about you! "$name has got an amazing ass for a boy, $name is so cute..." etc, etc...<</speech>>
+You and Tara, you know... not just about the first night (everybody knows that...), but also... you know... I mean, she won't stop talking about you! "$name has got an amazing ass for a boy, $name is so cute..." etc, etc...<</speech>>
 <<speech "You" "''$name:''">>
 ... Really?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Yeah! And if I´m honest, I haven´t seen her this hooked on a... "man", like, EVER.<</speech>>
+Yeah! And if I'm honest, I haven't seen her this hooked on a... "man", like, EVER.<</speech>>
 <<speech "You" "''$name:''">>
 (Wow... Tara likes me?) So... what can I do?<</speech>>
 Anastasia smiles playfully.
@@ -82,9 +82,9 @@ If you were anybody else I would tell you to go to her room and fuck her with yo
 [[Return|Sail]]<<elseif $answers is 4>><<speech "You" "''$name:''">>
 I was wondering if you would let me see your card...<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Why? Hehehe... it´s just a card!<</speech>>
+Why? Hehehe... it's just a card!<</speech>>
 <<speech "You" "''$name:''">>
-I don´t know... just curiosity?<</speech>>
+I don't know... just curiosity?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
  *shrugs her shoulders* Sure, whatever.<</speech>>
 She digs deep into her bra, rubbing her right breast.
@@ -100,40 +100,40 @@ You can barely differenciate one from the other. Both cards have the same color,
 <<speech "You" "''$name:''">>
 (I could try to exchange cards, although she would figure it out as soon as she tried to open her bedroom door... I have to think of something else...) So how do these cards really work? They look the same...<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Well, nothing too complicated. The card keys store the data in a magnetic layer placed inside the plastic. So it´s not about the card itself, but about the magnetic stripe and the data inside.<</speech>>
+Well, nothing too complicated. The card keys store the data in a magnetic layer placed inside the plastic. So it's not about the card itself, but about the magnetic stripe and the data inside.<</speech>>
 <<speech "You" "''$name:''">>
 That sounds interesting... would you mind showing me?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
 Not at all! Let me grab my computer!<</speech>>
 <<speech "You" "''$name:''">>
-(She doesn´t seem to be suspecting a thing...)<</speech>>
+(She doesn't seem to be suspecting a thing...)<</speech>>
 Anastasia walks to the corner of the tent and grabs her laptop and a card reader from her backpack. Then she sits down on the floor and tells you to do so.
 
 <<speech "Anastasia" "''Anastasia:''">>
 See, this is the data in my card.<</speech>>
-You lean into the screen but you don´t understand a thing. You can read some stuff, but it all seems disjointed and confusing.
+You lean into the screen but you don't understand a thing. You can read some stuff, but it all seems disjointed and confusing.
 
 <div class="center"><img src="classes/dance/hacker.gif" width="50%"></div>
 <<speech "You" "''$name:''">>
 Wow... it is amazing. You can understand all this?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
 Well, yes! ... Do you want to see something crazier??<</speech>>
-Her tone sounds like a kid´s playing a game.
+Her tone sounds like a kid's playing a game.
 
 <<speech "You" "''$name:''">>
 Um... sure!<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
  *she whisper into your ear* I can hack them...<</speech>>
-Your eyes widen as she says that. This could be your oportunity. You know that she won´t do it, or if she does, she will tell Captain T, and that would be a catastrophe.
+Your eyes widen as she says that. This could be your oportunity. You know that she won't do it, or if she does, she will tell Captain T, and that would be a catastrophe.
 
 <<speech "You" "''$name:''">>
 (I need to play it cool) Hey... how about we HACK a card?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
- *she puts a childish long face* Captain said I couldn´t... it´s against the rules...<</speech>>
+ *she puts a childish long face* Captain said I couldn't... it's against the rules...<</speech>>
 <<speech "You" "''$name:''">>
-Hey, you know what? I won´t tell if you don´t tell.<</speech>>
+Hey, you know what? I won't tell if you don't tell.<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Hm... ok! Let´s try with a blank one! *smile*<</speech>>
+Hm... ok! Let's try with a blank one! *smile*<</speech>>
 She gets out another card from her backpack, this one is a little smaller, but it looks fairly similar. Anastasia puts the card in the reader and starts clicking. She really seems to be concentrating.
 
 <<speech "Anastasia" "''Anastasia:''">>
@@ -143,7 +143,7 @@ I just need to... copy my code to the blank one... and then... just...crack it! 
 Your eyes sparkle.
 
 <<speech "Anastasia" "''Anastasia:''">>
-But unfortunately I haven´t been able to unlock the ''Level 1 access''. It´s really hard... I would have to concentrate for AN HOUR.<</speech>>
+But unfortunately I haven't been able to unlock the ''Level 1 access''. It's really hard... I would have to concentrate for AN HOUR.<</speech>>
 <<speech "You" "''$name:''">>
 (Wonder what this girl could do if she concentrated on her programming abilities...)<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
@@ -152,7 +152,7 @@ Then she closes the laptop and starts putting it in the cover.
 
 <<speech "You" "''$name:''">>
 (This is my chance!)<</speech>>
-As quick as you can, you make the change. Luckily, Anastasia doesn´t notice.<<set $roomkey to false>>
+As quick as you can, you make the change. Luckily, Anastasia doesn't notice.<<set $roomkey to false>>
 
  ''*Level 2 access card was added to Inventory*''<<set $card2 to true>>
  
@@ -163,7 +163,7 @@ I was wondering if you knew how to get a casino VIP pass<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
  *sigh* You tell me!<</speech>>
 <<speech "You" "''$name:''">>
-You´ve never been there?<</speech>>
+You've never been there?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
 They never invited me... Apparently, a Level 1 staff member, such as Tara and the Captain have to grant you access. I have never gone in there, but I really wish I could...<</speech>>
  ''Conclusion: The VIP pass has to be granted by a Level 1 staff member.''
@@ -171,16 +171,16 @@ They never invited me... Apparently, a Level 1 staff member, such as Tara and th
 [[Return|Sail]]
 
 \\<<elseif $answers is 6>><<speech "Anastasia" "''Anastasia:''">>
-Glad to see that you´re excited for your present! You´re going to LOVE it! I bet you´ve been kind of alone these weeks...<</speech>>
+Glad to see that you're excited for your present! You're going to LOVE it! I bet you've been kind of alone these weeks...<</speech>>
 <<speech "You" "''$name:''">>
 (When these women start talking like this only bad things can happen, but... Anastasia is not a bad girl...)<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-I´m going to need you to give me your phone and come sit with me on the table. Can I?<</speech>>
+I'm going to need you to give me your phone and come sit with me on the table. Can I?<</speech>>
 She extends her hand, waiting for you to give her your phone. You reach for it in your pocket.
 
 <<speech "You" "''$name:''">>
 Here... *you hand her the phone*<</speech>>
-You both sit in a chair and you watch how she connects the phone to the computer and starts doing some stuff you can´t really figure out. The only thing you are able to understand is a popup window with a filling bar and an "Installing" title.
+You both sit in a chair and you watch how she connects the phone to the computer and starts doing some stuff you can't really figure out. The only thing you are able to understand is a popup window with a filling bar and an "Installing" title.
 
 <span class="onomatopeya">*BING*</span>
 
@@ -197,12 +197,12 @@ Unlock it and take a look! *smiles*<</speech>>
 You do so. The first menu page is all the same, but as you swipe to the second one you see what the new app is:
 
 <<linkreplace "... ...">><div class="center"><img src="https://cdn2.iconfinder.com/data/icons/social-media-icons-23/800/tinder-512.png" width="50%"></div>
-Your face turns white as you see it. You´ve never tried online dating and this is not the best time to start.
+Your face turns white as you see it. You've never tried online dating and this is not the best time to start.
 
 <<speech "You" "''$name:''">>
-Anastasia, I appreciate your gift, but this is really not my thing. Plus, we´re on a boat! How is this even going to work?<</speech>>
+Anastasia, I appreciate your gift, but this is really not my thing. Plus, we're on a boat! How is this even going to work?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-I configured the range to the next docking we´re doing, so you can hook up if you finally find someone you like! Don´t be like that! I was just as shy as you, but when you realise how good people really are, you will love it! You need someone to talk, a friend...<</speech>>
+I configured the range to the next docking we're doing, so you can hook up if you finally find someone you like! Don't be like that! I was just as shy as you, but when you realise how good people really are, you will love it! You need someone to talk, a friend...<</speech>>
 <<speech "You" "''$name:''">>
 (I mean... I am feeling alone and rejected, so this could help...) What if nobody likes me?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
@@ -210,49 +210,49 @@ Aww... how is someone not going to like you? You are cute and very nice.<</speec
 You look at Anastasia with a sincere smile.
 
 <<speech "Anastasia" "''Anastasia:''">>
-Oh, and also: this is a Captain T task, and she is aware of the use you give the app, so at least open it and see what´s going on. Otherwise... she will get mad...<</speech>>
+Oh, and also: this is a Captain T task, and she is aware of the use you give the app, so at least open it and see what's going on. Otherwise... she will get mad...<</speech>>
 You feel encouraged by her kind words.
 
 <<speech "You" "''$name:''">>
-Of course I will, Anastasia. I´ll give it a try!<</speech>>
+Of course I will, Anastasia. I'll give it a try!<</speech>>
 
 [[Return|Sail][$tinder1 to "Active", $badge to $badge +1, $tinderphone to 1, $tinder to 1, $tprofile to 1]]<</linkreplace>>
 
 \\<<elseif $answers is 7>><<speech "You" "''$name:''">>
 (How can I ask her about "M" without exposing myself?...)
 
-Well, every time I go to Stoya´s office I go through a lab, and I was wondering what exactly are they doing there. Is Stoya the boss?<</speech>>
-You are surprised by how smooth that came out, but you´re definitely being nosy.
+Well, every time I go to Stoya's office I go through a lab, and I was wondering what exactly are they doing there. Is Stoya the boss?<</speech>>
+You are surprised by how smooth that came out, but you're definitely being nosy.
 
 <<speech "Anastasia" "''Anastasia:''">>
-So you´re interested in science or what? *smiles*<</speech>>
+So you're interested in science or what? *smiles*<</speech>>
 <<speech "You" "''$name:''">>
-Not specially, but it´s kind of weird having a lab in a ship, isn´t it?<</speech>>
+Not specially, but it's kind of weird having a lab in a ship, isn't it?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Well, in case you haven´t noticed yet, this is not a normal ship... Hahaha<</speech>>
-You can´t help but chuckle along with her. You couldn´t agree more.
+Well, in case you haven't noticed yet, this is not a normal ship... Hahaha<</speech>>
+You can't help but chuckle along with her. You couldn't agree more.
 
 <<speech "Anastasia" "''Anastasia:''">>
-Stoya is an employee, just as me! She is just following orders. I don´t really know that much about what the lab is really for...<</speech>>
+Stoya is an employee, just as me! She is just following orders. I don't really know that much about what the lab is really for...<</speech>>
 <<speech "You" "''$name:''">>
-C´mon, Anastasia... *talking in a playfull way* I know you know more about this ship than anyone here... You´re so smart!<</speech>>
+C'mon, Anastasia... *talking in a playfull way* I know you know more about this ship than anyone here... You're so smart!<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
- *blushes and giggles* Well thank you... I know don´t know that much about the investigation itself, because it´s relatively new, and since last year I haven´t been involved in it... I don´t really remember that much...<</speech>>
+ *blushes and giggles* Well thank you... I know don't know that much about the investigation itself, because it's relatively new, and since last year I haven't been involved in it... I don't really remember that much...<</speech>>
 <<speech "You" "''$name:''">>
-(She knows something, but she´s either not remembering or she doesn´t want to tell me)
+(She knows something, but she's either not remembering or she doesn't want to tell me)
 
-And what about Stoya´s boss? Who is really managing the lab?<</speech>>
+And what about Stoya's boss? Who is really managing the lab?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-I shouldn´t be talking to you about this... this is wrong...<</speech>>
+I shouldn't be talking to you about this... this is wrong...<</speech>>
 <<speech "You" "''$name:''">>
-It´s ok if you don´t tell me, I just want to know (I have to make her feel safe)<</speech>>
+It's ok if you don't tell me, I just want to know (I have to make her feel safe)<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Ok... Well the lab´s head is a woman: "Doctor M", she is on the ship incognito and she´s... w- working on-<</speech>>
+Ok... Well the lab's head is a woman: "Doctor M", she is on the ship incognito and she's... w- working on-<</speech>>
 Suddenly Anastasia stops talking and opens her eyes wider.
 
 <<speech "You" "''$name:''">>
 Um... Anastasia? Hello?<</speech>>
-You wave your hands in front of her but she doesn´t react.
+You wave your hands in front of her but she doesn't react.
 
 <<speech "Anastasia" "''Anastasia:''">>
 ... ... *closes mouth* Oh! Hi, $name! Were you going to ask me something?<</speech>>
@@ -260,31 +260,31 @@ Kind of freaked out, you look at her with a worried look.
 
 <<speech "You" "''$name:''">>
 (Someone must have really fucked her brain up, she must be telling the truth about her memory. If I want more information, I should make her remember somehow...)<</speech>>
-(''Conclusion:'' "Doctor M" is incognito on the ship as one of the passengers. You´ll need to know more in order to identify her...).
+(''Conclusion:'' "Doctor M" is incognito on the ship as one of the passengers. You'll need to know more in order to identify her...).
 
 [[Return|Sail][$m1 to "Active", $drug2 to "Finished", $badge to $badge +1]]
 
 \\<<elseif $answers is 8>><<speech "You" "''$name:''">>
-I was wondering if you could tell me more about how you say you weren´t like this before?<</speech>>
+I was wondering if you could tell me more about how you say you weren't like this before?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Hehe... well, I don´t remember everything I´ve done, but it is true that I´ve changed a lot in only one year. Before I came here I was a shy and introvert girl. But there´s something about the people here that just makes me want to open myself, you know?<</speech>>
+Hehe... well, I don't remember everything I've done, but it is true that I've changed a lot in only one year. Before I came here I was a shy and introvert girl. But there's something about the people here that just makes me want to open myself, you know?<</speech>>
 <<speech "You" "''$name:''">>
-(I "know" that they´ve definitely done something to her...) And how do you say you came in the ship?<</speech>>
+(I "know" that they've definitely done something to her...) And how do you say you came in the ship?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
 You know... life... *giggle*<</speech>>
 <<speech "You" "''$name:''">>
-No, I don´t know... just tell me.<</speech>>
+No, I don't know... just tell me.<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Well... that´s a good question... I don´t remember coming here... I just remember getting fed up with work and then... I was here. So I guess I just wanted to come and have fun! Yay! *smiles*<</speech>>
+Well... that's a good question... I don't remember coming here... I just remember getting fed up with work and then... I was here. So I guess I just wanted to come and have fun! Yay! *smiles*<</speech>>
 <<speech "You" "''$name:''">>
-(Either she really doesn´t remember or she´s really good at lying...) And what did you father think about you coming here?<</speech>>
+(Either she really doesn't remember or she's really good at lying...) And what did you father think about you coming here?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
 Well, my daddy is one of the main owners, so he was-<</speech>>
 Suddenly Anastasia stops talking and opens her eyes wider.
 
 <<speech "You" "''$name:''">>
 Um... Anastasia? Hello?<</speech>>
-You wave your hands in front of her but she doesn´t react.
+You wave your hands in front of her but she doesn't react.
 
 <<speech "Anastasia" "''Anastasia:''">>
 ... ... *closes mouth* Oh! Hi, $name! Were you going to ask me something?<</speech>>
@@ -293,13 +293,13 @@ Kind of freaked out, you look at her with a worried look.
 <<speech "You" "''$name:''">>
 (Someone must have really fucked her brain up, she must be telling the truth about her memory. If I want more information, I should make her remember somehow...)
 
-Um... nothing, I just wanted to know one last thing: Can you tell me your daddy´s name?<</speech>>
+Um... nothing, I just wanted to know one last thing: Can you tell me your daddy's name?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
 Oh! Sure! *wink* I have Marcus in Jamaica, Henry in France, Francesco in Rome...<</speech>>
 <<speech "You" "''$name:''">>
 No, Anastasia. I meant your father.<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Oh, of course! He´s Fritz, Callum Fritz.<</speech>>
+Oh, of course! He's Fritz, Callum Fritz.<</speech>>
 ''(Conclusion: You need to make Anastasia remember how she really came here. Her father and main owner of the company is Callum Fritz.)''
 
 [[Return|Sail][$fritz1 to "Active", $badge to $badge +1]]
@@ -317,13 +317,13 @@ I already told you! It was on the middle of the hall...<</speech>>
 Anastasia looks at you with a suspicious look.
 
 <<speech "Anastasia" "''Anastasia:''">>
-Hmm... someone must´ve dropped it. It´s a... hair tonic... from someone of the boat, probably.<</speech>>
+Hmm... someone must've dropped it. It's a... hair tonic... from someone of the boat, probably.<</speech>>
 <<speech "You" "''$name:''">>
 (God, she really is bad at lying...) Really? What kind of tonic is it?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-It´s an experimental anti-anesthesic with some secondary effects... I mean! Probably! I don´t know! *looks away*<</speech>>
+It's an experimental anti-anesthesic with some secondary effects... I mean! Probably! I don't know! *looks away*<</speech>>
 <<speech "You" "''$name:''">>
-(Hm... an anti-anesthesic could come in handy for Stoya´s review...) Well, then give it to me and I´ll put it back where I found it.<</speech>>
+(Hm... an anti-anesthesic could come in handy for Stoya's review...) Well, then give it to me and I'll put it back where I found it.<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
 Um... no! I- I think I should give it to Captain T so she can find the... owner...<</speech>>
 <<speech "You" "''$name:''">>
@@ -337,13 +337,13 @@ How stupid of me! Now that I remember, Stoya actually gave this flask to me, she
 <<speech "Anastasia" "''Anastasia:''">>
 But, why would she do that? *she looks at you suspiciously*<</speech>>
 <<speech "You" "''$name:''">>
-(I´m not that good at lying either...) She mentioned something about... stimulating the brain while the body stays relaxed?<</speech>>
+(I'm not that good at lying either...) She mentioned something about... stimulating the brain while the body stays relaxed?<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
 Huh... that does sound like something Stoya would be interested in...<</speech>>
 <<speech "You" "''$name:''">>
-(I can´t believe that worked... poor girl...) Yeah, that´s what she told me, and she said it was reaaally important that I drank it before the session or the whole review would be a waste of time... She seemed serious about it...<</speech>>
+(I can't believe that worked... poor girl...) Yeah, that's what she told me, and she said it was reaaally important that I drank it before the session or the whole review would be a waste of time... She seemed serious about it...<</speech>>
 <<speech "Anastasia" "''Anastasia:''">>
-Ok, $name! I trust you! *giggle* Stoya is a very intelligent woman, she knows what she´s doing. *she gives you back the flask*<</speech>>
+Ok, $name! I trust you! *giggle* Stoya is a very intelligent woman, she knows what she's doing. *she gives you back the flask*<</speech>>
 <<speech "You" "''$name:''">>
 (Anastasia... what happened to you?...)<</speech>>
 [[Return|Sail][$abledrink to true, $flasks to "Active", $badge to $badge +1, $dance to 4]]

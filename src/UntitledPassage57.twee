@@ -5,7 +5,7 @@
 
 [[Go to locker room][$gymshower to 0]]
 
-[[Go to Rae´s office][$raeoffice to 4]]
+[[Go to Rae's office][$raeoffice to 4]]
 
 
 [[Penny arcade][$enterarcade to 4, $dayn to 30]]

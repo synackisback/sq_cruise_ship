@@ -1,5 +1,5 @@
 :: Cookingclass [textback] {"position":"1512,969","size":"100,100"}
-<<removeclass "html">><<addclass "html" "kitchen">><<audio ":back" mute>><<audio "kitchen" volume 0.3 play loop>><<if $kitchen is 1>><<set $shopitems to 1>>You enter the kitchen. Although you´ve never been in a professional kitchen, you feel like this is what it looks like. Nevertheless, it has a homey feel to it, with wood cabinets and a buttery smell. Across the room, you see a metallic door wich probably is the cold room. To a side you see a smaller wooden door which is ajar. Suddenly, a woman comes out of it:
+<<removeclass "html">><<addclass "html" "kitchen">><<audio ":back" mute>><<audio "kitchen" volume 0.3 play loop>><<if $kitchen is 1>><<set $shopitems to 1>>You enter the kitchen. Although you've never been in a professional kitchen, you feel like this is what it looks like. Nevertheless, it has a homey feel to it, with wood cabinets and a buttery smell. Across the room, you see a metallic door wich probably is the cold room. To a side you see a smaller wooden door which is ajar. Suddenly, a woman comes out of it:
 
 <img src="classes/cook/holli1.jpg" width="50%">
 
@@ -8,27 +8,27 @@ Bonjour, je m'appelle Holli. Je vais être votre professeur de cuisine. Appelez-
 You are not understanding a thing...
 
 <<speech "You" "''$name:''">>
-Excuse me, miss. I don´t speak french, would you mind speaking english?<</speech>>
+Excuse me, miss. I don't speak french, would you mind speaking english?<</speech>>
 <<speech "holli" "''Holli:''">>
-Oh Mon Dieu! I hate you americans type. You think you know everything, eh? I bet you don´t know how to do ommelette!<</speech>>
+Oh Mon Dieu! I hate you americans type. You think you know everything, eh? I bet you don't know how to do ommelette!<</speech>>
 She rolls her eyes, catching breath to translate her previous speech.
 
 <<speech "holli" "''Holli:''">>
-I said: Hello, my name is Holli. I´m going to be your cooking teacher. Always, and I mean ALWAYS call me CHEF! If you say yes, say: OUI CHEF! If you say no, say: NON CHEF! Is it clear?<</speech>>
+I said: Hello, my name is Holli. I'm going to be your cooking teacher. Always, and I mean ALWAYS call me CHEF! If you say yes, say: OUI CHEF! If you say no, say: NON CHEF! Is it clear?<</speech>>
 <<speech "You" "''$name:''">>
 Yes...I guess.<</speech>>
 <<speech "holli" "''Holli:''">>
-No! You don´t understand petit garçon! You say OUI CHEF! merde...Anyway, you´ll end up getting it. Although cuisine brings us happiness, it is not a game. I´ve been 20 years working as a chef and I swear for my beautiful France that I will make a cook out of you.
+No! You don't understand petit garçon! You say OUI CHEF! merde...Anyway, you'll end up getting it. Although cuisine brings us happiness, it is not a game. I've been 20 years working as a chef and I swear for my beautiful France that I will make a cook out of you.
 
 ''First lesson: Stay clean.''
 
-Anytime you are in the kitchen, you have to maintain your work space clean, as well as your own self. This week you´ll learn how to clean dishes properly. That way you´ll appreciatte cleanliness as well as me.
+Anytime you are in the kitchen, you have to maintain your work space clean, as well as your own self. This week you'll learn how to clean dishes properly. That way you'll appreciatte cleanliness as well as me.
 
-You´ll wear this apron each day:<</speech>>
+You'll wear this apron each day:<</speech>>
 <<linkreplace "... ...">><img src="classes/cook/apron1.jpg" width="50%">
 
 <<speech "holli" "''Holli:''">>
-This is NOT a choice. You need a proper apron to remain clean. If you work well and please the chef, that is MOI, you´ll be rewarded with a great and nutricious meal for your lunch time, as well as some points. And perhaps, if you are lucky, you´ll gain "ma confiance", which means my trust. Understood? Parfait. Service is about to start. Go!<</speech>>
+This is NOT a choice. You need a proper apron to remain clean. If you work well and please the chef, that is MOI, you'll be rewarded with a great and nutricious meal for your lunch time, as well as some points. And perhaps, if you are lucky, you'll gain "ma confiance", which means my trust. Understood? Parfait. Service is about to start. Go!<</speech>>
 [[Work badly|Start working][$cooklesson to 1, $sf to 0, $kitchen to 2, $badlunch to random(1, 2)]]
 [[Work well|Start working][$cooklesson to 1, $sf to 1, $kitchen to 2, $goodlunch to random(1, 2)]]<</linkreplace>>
 <<elseif $kitchen is 2>>Holli is already working.
@@ -37,7 +37,7 @@ This is NOT a choice. You need a proper apron to remain clean. If you work well 
 
 <<speech "holli" "''Holli:''">>
 Oh, salut mon garçon. Here, put on the apron. *She puts the apron over your head* There, much better.<</speech>> 
-She tightly grabs the long cock on your apron and leads you to your workplace. You can´t help but feel a tingle on your crotch. You take a look at the sexy way her hand wraps the fake cock...
+She tightly grabs the long cock on your apron and leads you to your workplace. You can't help but feel a tingle on your crotch. You take a look at the sexy way her hand wraps the fake cock...
 
 <<speech "holli" "''Holli:''">>
 Allez, allez! Start your work!<</speech>>
@@ -54,14 +54,14 @@ Okay! Time to change things up a little!
 
 This week you are going to learn how to chop things. You might think that chopping is a simple thing. But NO! There exists multiple ways of cutting food. You will start with some vegetables, like onions, peppers and carrots.
 
-Don´t dissapoint me, mon garçon! This week there are more women on board and we´ve got lots of work to do.
+Don't dissapoint me, mon garçon! This week there are more women on board and we've got lots of work to do.
 
-And, of course, you are changing apron. Maybe it is just me but, you seem a little more... cute than the last time I saw you. That apron with the long dick doesn´t suit you after all. I guess it never really did!
-Let´s see if you can stick with this one:<</speech>>
+And, of course, you are changing apron. Maybe it is just me but, you seem a little more... cute than the last time I saw you. That apron with the long dick doesn't suit you after all. I guess it never really did!
+Let's see if you can stick with this one:<</speech>>
 <<linkreplace "... ...">><img src="classes/cook/apron2.jpg" width="50%">
 
 <<speech "You" "''$name:''">>
-(Everyone keeps calling me girl... I´m a boy!)<</speech>>
+(Everyone keeps calling me girl... I'm a boy!)<</speech>>
 <<speech "holli" "''Holli:''">>
 Some little birdy told me that you needed a little motivation. That message in the apron should help.
 
@@ -81,21 +81,21 @@ Okay! Time to change things up a little!
 
 ''Third Lesson: Ingredient identification.''
 
-Congratulations! I think you are ready to start messing up with the food. Aren´t you excited to actually cook?<</speech>>
+Congratulations! I think you are ready to start messing up with the food. Aren't you excited to actually cook?<</speech>>
 <<speech "You" "''$name:''">>
-Um...aha...(It can´t be worse than cleaning or chopping...)<</speech>>
+Um...aha...(It can't be worse than cleaning or chopping...)<</speech>>
 <<speech "holli" "''Holli:''">>
 What is that aha?! You say YES CHEF! We need to keep a distance between chef and apprentice, understood? I thought I was going to have some help when you came here, but now I have to train you, so you could at least be thankful!<</speech>>
 <<speech "You" "''$name:''">>
-Yes, I´m sorry...<</speech>>
+Yes, I'm sorry...<</speech>>
 <<speech "holli" "''Holli:''">>
-That´s more like it... anyway, you´ll get the hang of it soon enough, but I´ll explain before starting today´s session. This week you´re going to be test tasting a few ingredients. You will try to indentify the ingredient. The purpose of this is to develop your taste and smell senses, as well as to link those smells and tastes to an emotion or a sensation. That way your learning process will go more fluent in the future *smiles*<</speech>>
+That's more like it... anyway, you'll get the hang of it soon enough, but I'll explain before starting today's session. This week you're going to be test tasting a few ingredients. You will try to indentify the ingredient. The purpose of this is to develop your taste and smell senses, as well as to link those smells and tastes to an emotion or a sensation. That way your learning process will go more fluent in the future *smiles*<</speech>>
 She gives you a big smile and searches for something in a drawer.
 
 <<linkreplace "... ...">><img src="classes/cook/apron3.jpg" width="35%">
 
 <<speech "holli" "''Holli:''">>
-Here you go! Just in case something falls from the spoons, you wouldn´t want food dripping onto your clothes, would you? *starts putting the apron on you*<</speech>>
+Here you go! Just in case something falls from the spoons, you wouldn't want food dripping onto your clothes, would you? *starts putting the apron on you*<</speech>>
 <<speech "You" "''$name:''">>
 Hey! My <span class="pink">clit</span> is not that small... *gasp* I mean penis!<</speech>>
 <<speech "holli" "''Holli:''">>

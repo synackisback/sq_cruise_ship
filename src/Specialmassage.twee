@@ -2,7 +2,7 @@
 <<removeclass "html">><<addclass "html" "spa">><<if ndef $specialmassage1>><img src="passengers/special.jpg" width="40%">
 
 <<speech "nobody" "''Achara'':">>
-Hi, you must be $name. I´m Achara. I specialize in stimulating and erotic massages. I offer different types of massages:<</speech>>
+Hi, you must be $name. I'm Achara. I specialize in stimulating and erotic massages. I offer different types of massages:<</speech>>
 <div class="center">[[Sensual (Relaxing & Stimulating)|Specialmassage][$specialmassage1 to 1]] 
 <<if $smassage gte 1>>[[Tantra (Sexual stimulation)|Specialmassage][$specialmassage1 to 5]]<<else>><<linkreplace "Tantra (Sexual stimulation)">>Unlock it by doing the ''Sensual massage''<</linkreplace>><</if>>
 <<if $smassage gte 2>>[[Nuru (Sexual stimulation)|Specialmassage][$specialmassage1 to 6]]<<else>><<linkreplace "Nuru (Sexual stimulation)">>Unlock it by doing the ''Tantra massage''<</linkreplace>><</if>>
@@ -10,54 +10,54 @@ Hi, you must be $name. I´m Achara. I specialize in stimulating and erotic massa
 <<if $smassage gte 4>>[[Prostate (Prostate massage)|Specialmassage][$specialmassage1 to 8]] <<else>><<linkreplace "Prostate (Prostate massage)">>//Not implemented yet//<</linkreplace>><</if>></div><<elseif $specialmassage1 is 1>><img src="passengers/special.jpg" width="40%">
 
 <<speech "nobody" "''Achara'':">>
-I´ll give you the sensual massage, focusing on the relaxing powers and the stimulation of the 5 senses. Take off your clothes, please. You can keep your underwear on if you want to.<</speech>>
+I'll give you the sensual massage, focusing on the relaxing powers and the stimulation of the 5 senses. Take off your clothes, please. You can keep your underwear on if you want to.<</speech>>
 [[Keep underwear on|Specialmassage][$specialmassage1 to 2]]
-[[Take all off|Specialmassage][$specialmassage1 to 3]]<<elseif $specialmassage1 is 2>>You decide to keep your underwear on. You definitely don´t need anyone else laughing at your penis.
+[[Take all off|Specialmassage][$specialmassage1 to 3]]<<elseif $specialmassage1 is 2>>You decide to keep your underwear on. You definitely don't need anyone else laughing at your penis.
 
 <<speech "nobody" "''Achara'':">>
-Oh, you are shy, aren´t you? That´s alright, you can leave them on for this massage, although it might not be compatible with some of my other specialities. Please, lay down on the table.<</speech>>
+Oh, you are shy, aren't you? That's alright, you can leave them on for this massage, although it might not be compatible with some of my other specialities. Please, lay down on the table.<</speech>>
 <<linkreplace "... ...">><img src="stuff/mtable.jpg" width="50%">
 
 You walk through past her to the massage table. You can almost feel her eyes looking closely at your body, up and down. The table is cold, and as you place your butt on it a chill runs through your body and you let out an almost inperceptible moan. 
 
 <<speech "nobody" "''Achara'':">>
-I know it´s cold at first, but it will get warmer. Just lay down and relax.<</speech>>
+I know it's cold at first, but it will get warmer. Just lay down and relax.<</speech>>
 She helps you lay face down. Your face sinks into the face-holder of the couch and you lose all sight of Achara. With decision, she lowers your boxers halfway to your butt. You worry for a moment if your balls may be on sight.
 <<speech "nobody" "''Achara'':">>
-Don´t try to cover yourself, I can see you are worrying. I´m a professional, I won´t peek. You have a lot of stress in your body. You need a thorough treatment. But you have to trust me, ok?<</speech>>
+Don't try to cover yourself, I can see you are worrying. I'm a professional, I won't peek. You have a lot of stress in your body. You need a thorough treatment. But you have to trust me, ok?<</speech>>
 <<speech "You" "''$name'':">>
 Yeah...I understand. *sigh*<</speech>>
 <<speech "nobody" "''Achara'':">>
-That´s it, take it all out. Inhale...and exhale...<</speech>>
+That's it, take it all out. Inhale...and exhale...<</speech>>
 As you follow her voice and do what she says, your body starts to relax and your mind stops thinking.
 
 <<speech "nobody" "''Achara'':">>
  *clap*<</speech>>
-In what seems less than a second, she climbs on your back and starts pouring hot oil over it. The oil smells like a fresh herb that you can´t seem to fully identify, but it is surely intoxicating... Then her strong hands start rubbing it back and forth. After a while she starts going down to the sides, reaching your belly. After she does that a few times, you feel your blood rushing to the penis, which is already hard as a rock and straining against the cage. Having the cage pointing to one side makes your hard penis hurt a little, so you raise your hips and subtly swirl it to the other side.
+In what seems less than a second, she climbs on your back and starts pouring hot oil over it. The oil smells like a fresh herb that you can't seem to fully identify, but it is surely intoxicating... Then her strong hands start rubbing it back and forth. After a while she starts going down to the sides, reaching your belly. After she does that a few times, you feel your blood rushing to the penis, which is already hard as a rock and straining against the cage. Having the cage pointing to one side makes your hard penis hurt a little, so you raise your hips and subtly swirl it to the other side.
 
 <<speech "nobody" "''Achara'':">>
 I see...<</speech>>
-Suddenly her touch gets heavier and when she reaches the belly it almost seems like she´s trying to go lower. You are so horny right now, that you just let go and fall completely into her embrace.
+Suddenly her touch gets heavier and when she reaches the belly it almost seems like she's trying to go lower. You are so horny right now, that you just let go and fall completely into her embrace.
 
 As the massage goes on, her body leans forward, so her face is on top of your head. Then she puts her mouth directly to your ear and starts whispering something in mixed english with another language. You only understand words like "yeah" or "fuck". This really turns you on. Her constant movement makes your cock rub on the table and you feel like you are about to cum.
 
-Her hands keep getting lower and lower, only an inch or two away from your small penis. Then, without warning, her fingers touch the tip. You can´t hold it any longer...
+Her hands keep getting lower and lower, only an inch or two away from your small penis. Then, without warning, her fingers touch the tip. You can't hold it any longer...
 
 <<speech "You" "''$name'':">>
 UUUUGHH!! *moan*<</speech>><<set $lust to 0>><<set $stress to 0>>
 With a smile she gets out of your back. 
 
 <<speech "nobody" "''Achara'':">>
-Yeah, I know... *smiles* Your chakras were really blocked... Here, let me help you get dressed *she puts your clothes on* Next time we can continue with the ''Tantra'' massage. Of course, it´s just a recommendation. You can also have this one again. But scalation is necesary if you want to reach the most intense experiences.
+Yeah, I know... *smiles* Your chakras were really blocked... Here, let me help you get dressed *she puts your clothes on* Next time we can continue with the ''Tantra'' massage. Of course, it's just a recommendation. You can also have this one again. But scalation is necesary if you want to reach the most intense experiences.
 
 Please, come again!<</speech>>
 <span class="notplus">''LUST -100 STRESS -100''</span>
 
-<<click "Get out" "Massage">><<set $specialmassage1 to 4, $smassage to 1>><</click>><</linkreplace>><<elseif $specialmassage1 is 3>>Due to the humiliation you´ve been suffering the last few days, your intimacy and pride are very low. Having your defenses down you take all of your clothes off. It is only when you are naked in the middle of the room that the embarrasment hits you. Achara takes your clothes and puts them aside. 
+<<click "Get out" "Massage">><<set $specialmassage1 to 4, $smassage to 1>><</click>><</linkreplace>><<elseif $specialmassage1 is 3>>Due to the humiliation you've been suffering the last few days, your intimacy and pride are very low. Having your defenses down you take all of your clothes off. It is only when you are naked in the middle of the room that the embarrasment hits you. Achara takes your clothes and puts them aside. 
 
 <<speech "nobody" "''Achara'':">>
-I see you are kind of daring, not everyone decides to go nude on their first massage. You´ve got a beautiful body, but you could get it to be cuter... Oh and by the way, that *she points to the cage* is not allowed on this massage. We´re trying to connect you to your chakras, so it´s best to keep it as vanilla as possible. Here I have a master key for these toys. *she grabs a curved key from a drawer* Here, please, take it off. *smiles*<</speech>>
-You can´t believe it, you´re finally going to see your penis! It takes a while for you to take it off, but when you do, the freedom sensation is almost overwhelming. You take a look at your penis, all stained and shriveled. You almost feel sorry for it, but in a way you feel relieved. These women almost made you think that you didn´t have one!
+I see you are kind of daring, not everyone decides to go nude on their first massage. You've got a beautiful body, but you could get it to be cuter... Oh and by the way, that *she points to the cage* is not allowed on this massage. We're trying to connect you to your chakras, so it's best to keep it as vanilla as possible. Here I have a master key for these toys. *she grabs a curved key from a drawer* Here, please, take it off. *smiles*<</speech>>
+You can't believe it, you're finally going to see your penis! It takes a while for you to take it off, but when you do, the freedom sensation is almost overwhelming. You take a look at your penis, all stained and shriveled. You almost feel sorry for it, but in a way you feel relieved. These women almost made you think that you didn't have one!
 
 All of the sudden Achara touches your shoulder and leads you to the massage table.
 
@@ -68,27 +68,27 @@ Please, lay down on the table.<</speech>>
 You walk through past her to the massage table. You can almost feel her eyes looking closely at your body, up and down. The table is cold, and as you place your butt on it a chill runs through your body and you let out an almost inperceptible moan. 
 
 <<speech "nobody" "''Achara'':">>
-I know it´s cold at first, but it will get warmer. Just lay down and relax.<</speech>>
+I know it's cold at first, but it will get warmer. Just lay down and relax.<</speech>>
 She helps you lay face down. Your face sinks into the face-holder of the couch and you lose all sight of Achara. With decision, she lowers your boxers halfway to your butt. You worry for a moment if your balls may be on sight.
 <<speech "nobody" "''Achara'':">>
-Don´t try to cover yourself, I can see you are worrying. I´m a professional, I won´t peek. You have a lot of stress in your body. You need a thorough treatment. But you have to trust me, ok?<</speech>>
+Don't try to cover yourself, I can see you are worrying. I'm a professional, I won't peek. You have a lot of stress in your body. You need a thorough treatment. But you have to trust me, ok?<</speech>>
 <<speech "You" "''$name'':">>
 Yeah...I understand. *sigh*<</speech>>
 <<speech "nobody" "''Achara'':">>
-That´s it, take it all out. Inhale...and exhale...<</speech>>
+That's it, take it all out. Inhale...and exhale...<</speech>>
 As you follow her voice and do what she says, your body starts to relax and your mind stops thinking.
 
 <<speech "nobody" "''Achara'':">>
  *clap*<</speech>>
-In what seems less than a second, she climbs on your back and starts pouring hot oil over it. The oil smells like a fresh herb that you can´t seem to fully identify, but it is surely intoxicating... Then her strong hands start rubbing it back and forth. After a while she starts going down to the sides, reaching your belly. After she does that a few times, you feel your blood rushing to the penis, which is already hard as a rock. Though it´s not big it feels uncomfortable being face down onto the bed, so with a subtle move you quickly raise your hips so it can relocate to a side.
+In what seems less than a second, she climbs on your back and starts pouring hot oil over it. The oil smells like a fresh herb that you can't seem to fully identify, but it is surely intoxicating... Then her strong hands start rubbing it back and forth. After a while she starts going down to the sides, reaching your belly. After she does that a few times, you feel your blood rushing to the penis, which is already hard as a rock. Though it's not big it feels uncomfortable being face down onto the bed, so with a subtle move you quickly raise your hips so it can relocate to a side.
 
 <<speech "nobody" "''Achara'':">>
 I see...<</speech>>
-Suddenly her touch gets heavier and when she reaches the belly it almost seems like she´s trying to go lower. You are so horny right now, that you just let go and fall completely into her embrace.
+Suddenly her touch gets heavier and when she reaches the belly it almost seems like she's trying to go lower. You are so horny right now, that you just let go and fall completely into her embrace.
 
 As the massage goes on, her body leans forward, so her face is on top of your head. Then she puts her mouth directly to your ear and starts whispering something in mixed english with another language. You only understand words like "yeah" or "fuck". This really turns you on. Her constant movement makes your cock rub on the table and you feel like you are about to cum.
 
-Her hands keep getting lower and lower, only an inch or two away from your small penis. Then, without warning, her fingers touch the tip. You can´t hold it any longer...
+Her hands keep getting lower and lower, only an inch or two away from your small penis. Then, without warning, her fingers touch the tip. You can't hold it any longer...
 
 <<speech "You" "''$name'':">>
 UUUUGHH!! *moan*<</speech>><<set $lust to 0>><<set $stress to 0>>
@@ -99,7 +99,7 @@ Yeah, I know... *smiles* Your chakras were really blocked. Here, let me help you
 She patiently puts your cage on again, as well as your underwear. You continues with the rest.
 
 <<speech "nobody" "''Achara'':">>
-Next time we can continue with the ''Tantra'' massage. Of course, it´s just a recommendation. You can also have this one again. But scalation is necesary if you want to reach the most intense experiences.
+Next time we can continue with the ''Tantra'' massage. Of course, it's just a recommendation. You can also have this one again. But scalation is necesary if you want to reach the most intense experiences.
 
 Please, come again!<</speech>>
 <span class="notplus">''LUST -100 STRESS -100''</span>

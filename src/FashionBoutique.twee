@@ -16,10 +16,10 @@ She looks at you with a condescending smile.
 <<speech "nobody" "''Dependant:''">>
 Are you looking at... panties?<</speech>>
 <<speech "You" "''You:''">>
- *your face turns red* No, I´m just... looking for men´s underwear.<</speech>>
+ *your face turns red* No, I'm just... looking for men's underwear.<</speech>>
 <<speech "nobody" "''Dependant:''">>
-Hm... well, we don´t have men´s clothing here, this is an all women fashion shop. I guess these panties over here are kind of similar to some briefs. They are not designed for men, but in your case... they could do the trick. Tell me when you decide, sweetheart.<</speech>>
-As embarrased as you are right now, you know that if you don´t wear some other underwear next week, Cherry could get mad. And who knows what these crazy women could do to you if that happens...
+Hm... well, we don't have men's clothing here, this is an all women fashion shop. I guess these panties over here are kind of similar to some briefs. They are not designed for men, but in your case... they could do the trick. Tell me when you decide, sweetheart.<</speech>>
+As embarrased as you are right now, you know that if you don't wear some other underwear next week, Cherry could get mad. And who knows what these crazy women could do to you if that happens...
 
 [[Choose clothes|Fashion Boutique][$fashionshop to 0]]<<elseif $fashionshop is 0>><span class="fade-ins"><<nobr>><<set $fdependant to 1>><<if $fdependant is 1>><img src="passengers/dependant2.jpg" width="70%"><<elseif $fdependant is 2>><img src="passengers/dependant3.jpg" width="75%"><</if>><</nobr>>
 
@@ -40,13 +40,13 @@ Hi sweetiepie, can I help you, pretty face?<</speech>><</if>></span>
 <div class="red"><span class="imgpop pinkheels"><<nobr>><<if $buyshoe3 is true>><<linkreplace "High heels">>You already have a pair<</linkreplace>><<else>><<if $points gte 300>><<if $bhheels is true>><<linkreplace "High heels">>Not ready for that yet<</linkreplace>><<else>><<click "High heels">><<set $buyshoe3 to true>><<set $points to $points -300>><<goto "Fashion Boutique">><</click>><</if>><<else>>High heels<</if>><</if>><</nobr>></span></div>Cost: 300 points per unit.</div>
 
 <<click "Return" "Deck 4">><<audio "fashion" stop>><</click>><<elseif $fashionshop is 1>><<speech "You" "''You:''">>
-I... I think I´ll take these ones.<</speech>>
+I... I think I'll take these ones.<</speech>>
 <<speech "nobody" "''Dependant:''">>
-Plain panties? Hm... a bit boring, don´t you think? *winks*<</speech>>
+Plain panties? Hm... a bit boring, don't you think? *winks*<</speech>>
 Swiftly, she grabs the panties and charges them.
 
 <<speech "nobody" "''Dependant:''">>
-All done! Don´t hesitate to come back and try some more of our products.<</speech>>
+All done! Don't hesitate to come back and try some more of our products.<</speech>>
  ''*You received panties*''
 
 <<click "Return" "Deck 4">><<set $fashionshop to 2, $dress1 to "1/2 done">><<audio "fashion" stop>><</click>><<elseif $fashionshop is 2>><span class="fade-ins"><<nobr>><<set $fdependant to random (1,2)>><<if $fdependant is 1>><img src="passengers/dependant2.jpg" width="70%"><<elseif $fdependant is 2>><img src="passengers/dependant3.jpg" width="75%"><</if>><</nobr>>

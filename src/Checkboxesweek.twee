@@ -5,7 +5,7 @@
 ♂︎ You: <<textbox "$name" "Alex">><</ispeech>><<ispeech "mikei" "">>
 ♂︎ Friend: <<textbox "$fname" "Steve">><</ispeech>><<ispeech "gfdi" "">>
 ♀︎ GF: <<textbox "$gfname" "Remy">><</ispeech>><<ispeech "lanadi" "">>
-♀︎ GF´s friend: <<textbox "$gffname" "Lana">><</ispeech>>
+♀︎ GF's friend: <<textbox "$gffname" "Lana">><</ispeech>>
 
 <u>At which ''week'' would you like to continue?</u>:
 

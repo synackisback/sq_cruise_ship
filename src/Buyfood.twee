@@ -32,7 +32,7 @@ Heh... not really. I'll let you know when I need you, my little guinea pig... Me
 \\<<else>><<if $shopitems is 1>><img src="passengers/bartender.jpg" width="40%">
 
 <<speech "nobody" "''Bartender:''">>
-Hi, would you like to spend your points on a treat? Here´s what I have today:<</speech>>
+Hi, would you like to spend your points on a treat? Here's what I have today:<</speech>>
 <div class="red"><<nobr>><<if $points gte 100>><<click "Chocolate Candies" Shopevents>><<set $points to $points - 100>><<set $shopevent to 1>><<set $chococandies to $chococandies +1>><</click>><<else>>Chocolate Candies<</if>><</nobr>></div>Cost: 100 points per unit.
 
 <div class="red"><<nobr>><<if $points gte 80>><<click "Pink Lollipop" Shopevents>><<set $points to $points - 80>><<set $shopevent to 2>><<set $pinklolli to $pinklolli +1>><</click>><<else>>Pink Lollipop<</if>><</nobr>></div>Cost: 80 points per unit.
@@ -53,7 +53,7 @@ Hi, would you like to spend your points on a treat? Here´s what I have today:<<
 \\<<elseif $shopitems is 2>><img src="passengers/bartender.jpg" width="40%">
 
 <<speech "nobody" "''Bartender:''">>
-Hi, would you like to spend your points on a treat? Here´s what I have today:<</speech>>
+Hi, would you like to spend your points on a treat? Here's what I have today:<</speech>>
 <div class="red"><<nobr>><<if $points gte 100>><<click "Chocolate Candies" Shopevents>><<set $points to $points - 100>><<set $shopevent to 1>><<set $chococandies to $chococandies +1>><</click>><<else>>Chocolate Candies<</if>><</nobr>></div>Cost: 100 points per unit.
 
 <div class="red"><<nobr>><<if $points gte 80>><<click "Pink Lollipop" Shopevents>><<set $points to $points - 80>><<set $shopevent to 2>><<set $pinklolli to $pinklolli +1>><</click>><<else>>Pink Lollipop<</if>><</nobr>></div>Cost: 80 points per unit.

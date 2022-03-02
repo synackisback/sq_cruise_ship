@@ -1,7 +1,7 @@
 :: Outside pool [textback] {"position":"1897,528","size":"100,100"}
 <<removeclass "html">><<addclass "html" "pool">><<nobr>><div id="background-wrap"><div class="bubble x1"></div><div class="bubble x2"></div><div class="bubble x3"></div><div class="bubble x4"></div><div class="bubble x5"></div><div class="bubble x6"></div><div class="bubble x7"></div><div class="bubble x8"></div><div class="bubble x9"></div><div class="bubble x10"></div></div><</nobr>><<if ndef $outpool>><<if $poolpics is 0>><div class="center"><img src="passengers/outpool1.jpg" width="60%"></div><<elseif $poolpics is 1>><div class="center"><img src="passengers/outpool2.jpg" width="60%"></div><<elseif $poolpics is 2>><div class="center"><img src="passengers/outpool4.png" width="50%"></div><</if>>
 
-Here´s a beautiful large swimming pool. You are very impressed by its size, as well as its cleanliness. Around the sides you can see some women talking to each other. You are certainly not comfortable here, and although the sun is nice you would prefer to swim in a more intimate area.
+Here's a beautiful large swimming pool. You are very impressed by its size, as well as its cleanliness. Around the sides you can see some women talking to each other. You are certainly not comfortable here, and although the sun is nice you would prefer to swim in a more intimate area.
 
 Just as you start walking along the side of the pool, you notice a woman sitting on the border with a sad face.
 
@@ -45,13 +45,13 @@ Yeah... don't worry about it, I'm kind of getting used to that... *smiles*<</spe
 
 \\<<elseif $outpool is 0>><<if $poolpics is 0>><div class="center"><img src="passengers/outpool1.jpg" width="60%"></div><<elseif $poolpics is 1>><div class="center"><img src="passengers/outpool2.jpg" width="60%"></div><<elseif $poolpics is 2>><div class="center"><img src="passengers/outpool4.png" width="50%"></div><<elseif $poolpics is 3>><div class="center"><img src="passengers/outpool6.jpg" width="50%"></div><<elseif $poolpics is 4>><div class="center"><img src="passengers/outpool7.jpg" width="50%"></div><</if>>
 
-<<if $poolpics is 3>>Here´s a beautiful large swimming pool. Although you're very impressed by its size, you can't help but also feel impressed by the amount of people inside it.
+<<if $poolpics is 3>>Here's a beautiful large swimming pool. Although you're very impressed by its size, you can't help but also feel impressed by the amount of people inside it.
 
 <<speech "You" "''$name'':">>
 (All the white girls with their black guys... at least there seems to be some space left for me.)<</speech>>
 You are certainly not comfortable here, and although the sun is nice you would prefer to swim in a more intimate area.
 
-\\<<elseif $poolpics is 4>>Here´s a beautiful large swimming pool. Although you're very impressed by its size, you can't help but stare at the couple at the stairs.
+\\<<elseif $poolpics is 4>>Here's a beautiful large swimming pool. Although you're very impressed by its size, you can't help but stare at the couple at the stairs.
 
 <<speech "nobody" "''Milf'':">>
  *gag, gag*<</speech>>
@@ -63,7 +63,7 @@ There you go... yeah...<</speech>>
 Hey! *slurp* Mind your own business... *gag, gag*<</speech>>
 You are certainly not comfortable here, and although the sun is nice you would prefer to swim in a more intimate area.
 
-\\<<else>>Here´s a beautiful large swimming pool. You are very impressed by its size, as well as its cleanliness. Around the sides you can see some women talking to each other. You are certainly not comfortable here, and although the sun is nice you would prefer to swim in a more intimate area.<</if>>
+\\<<else>>Here's a beautiful large swimming pool. You are very impressed by its size, as well as its cleanliness. Around the sides you can see some women talking to each other. You are certainly not comfortable here, and although the sun is nice you would prefer to swim in a more intimate area.<</if>>
 
 <<if $suzie is "Active">>You can see Suzie sitting on the border of the pool --> [[Approach her|Outside pool][$outpool to 1]]<<else>><</if>>
 

@@ -1,13 +1,13 @@
 :: Go to the bathroom [textback] {"position":"2147,1378","size":"100,100"}
 <<removeclass "html">><<addclass "html" "lounge">><<if ndef $lounge>><img src="stuff/bathlounge.png" width="37%">
 
-The men´s bathroom is closed. You think about entering the women bathroom, but you hear girls talking inside, and you don´t want to start with the wrong foot. Plus, that sign is not inviting.
+The men's bathroom is closed. You think about entering the women bathroom, but you hear girls talking inside, and you don't want to start with the wrong foot. Plus, that sign is not inviting.
 
 [[Return|Lounge]]<<audio "menus" stop>><<if ndef $mute>><<audio "party" unmute>><<else>><</if>>
 
 \\<<elseif $lounge is 0>><img src="stuff/bathlounge.png" width="37%">
 
-The men´s bathroom is closed.
+The men's bathroom is closed.
 
 [[Return|Lounge]]<<audio "menus" stop>><<if ndef $mute>><<audio "party" unmute>><<else>><</if>>
 

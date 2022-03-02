@@ -1,15 +1,15 @@
 :: Random encounters [noreturn noborder textback] {"position":"2896,141","size":"100,100"}
 <<if $renc is 0>><<audio "myroom" volume 0.2 loop play>><div class="center"><span class="pulse"><img src="tara/tarahall1.jpg" width="60%"></span></div>
 <<speech "tara" "''Tara:''">>
-Hey, honey! How´s everything going? Are you being a good boi...?<</speech>>
+Hey, honey! How's everything going? Are you being a good boi...?<</speech>>
 She puts a hand behind your head and hugs you, sinking your head in her amazing rack.
 
 <<speech "tara" "''Tara:''">>
-I guess we´ll find out on friday, won´t we? huh?<</speech>>
+I guess we'll find out on friday, won't we? huh?<</speech>>
 Your small dick is starting to fill with blood, hardening at an increasingly fast rate. Tara looks down to your crotch.
 
 <<speech "tara" "''Tara:''">>
-I know you are happy to see me, but you must learn some self-control, honey... If you behave like a dog, you will be treated like a dog. I´m gonna let this one slide. Just because I think you are cute *smooch*<</speech>>
+I know you are happy to see me, but you must learn some self-control, honey... If you behave like a dog, you will be treated like a dog. I'm gonna let this one slide. Just because I think you are cute *smooch*<</speech>>
 As you are heading your way, you feel your neck getting a little numb...
 
 <<speech "You" "''You:''">>
@@ -30,7 +30,7 @@ Some images flash on your head:
 \\
 <<elseif $renc is 1>><<if ndef $mutefx>><<audio "heels" loop play>><<else>><</if>><div class="center"><span class="pulse"><img src="cap/caphall.jpg" width="40%"></span></div>
 <<speech "cap" "''Captain T:''">>
-Hey, my boy! I hope you´re not skipping classes, are you?<</speech>>
+Hey, my boy! I hope you're not skipping classes, are you?<</speech>>
 <<speech "You" "''$name:''">>
 No, I, um...<</speech>>
 She is looking at you as if she could really hear your thoughts, and that is making you uncomfortable.
@@ -40,7 +40,7 @@ You better not, I will find out at the end. You are certainly cute...<</speech>>
 She comes close to you and hugs you.
 
 <<speech "You" "''$name:''">>
-(God... what´s with the mood changes!?)<</speech>>
+(God... what's with the mood changes!?)<</speech>>
 <<speech "cap" "''Captain T:''">>
 And this mouth... do you want to come to my class and have something to eat? huh? Mommy has something on the oven for you...<</speech>>
 She puts two of her fingers inside your mouth and plays with your tongue a little.
@@ -48,7 +48,7 @@ She puts two of her fingers inside your mouth and plays with your tongue a littl
 <<speech "You" "''$name:''">>
 I... have to... do things...<</speech>>
 <<speech "cap" "''Captain T:''">>
-Yeah, I bet you have... *grins* Don´t forget to come to class, my boy.
+Yeah, I bet you have... *grins* Don't forget to come to class, my boy.
 <</speech>>
 On that note, she just continues walking. As she leaves, you feel your tongue getting a bit numb and your head aches.
 
@@ -70,25 +70,25 @@ Some images flash on your head:
 \\
 <<elseif $renc is 2>><<audio "style" volume 0.6 loop play>><div class="center"><span class="pulse"><img src="classes/style/cherryhall.jpg" width="70%"></span></div>
 <<speech "style" "''Cherry:''">>
-Hey, cutie! How´s everything going? Do you want me to check you down there and make sure how everything´s going?<</speech>>
+Hey, cutie! How's everything going? Do you want me to check you down there and make sure how everything's going?<</speech>>
 You quickly back out a little, evading her hands.
 
 <<speech "style" "''Cherry:''">>
-Hahaha, don´t worry, honey! We´re not on class, I´m just pulling your leg a bit! What do you think about MY clothes though?<</speech>>
-You can´t help but blush.
+Hahaha, don't worry, honey! We're not on class, I'm just pulling your leg a bit! What do you think about MY clothes though?<</speech>>
+You can't help but blush.
 
 <<speech "You" "''$name:''">>
-Um... *blush* it´s...<</speech>>
+Um... *blush* it's...<</speech>>
 <<speech "style" "''Cherry:''">>
-C´mon, don´t be shy! What do you think of the fabric? do you like my ears?<</speech>>
+C'mon, don't be shy! What do you think of the fabric? do you like my ears?<</speech>>
 <<speech "You" "''$name:''">>
-It´s smooth... (mmm...)<</speech>>
+It's smooth... (mmm...)<</speech>>
 <<speech "style" "''Cherry:''">>
 Do you like it? Here, come closer... *she pulls you a little closer*<</speech>>
 You are getting hornier, but also, your hand is getting a bit numb...
 
 <<speech "style" "''Cherry:''">>
-Well, I knew you´d like the soft fabric... *smiles* I´ll be waiting for the next class.<</speech>>
+Well, I knew you'd like the soft fabric... *smiles* I'll be waiting for the next class.<</speech>>
 She releases you hand and walks away.
 
 <<speech "You" "''You:''">>
@@ -109,14 +109,14 @@ Some images flash on your head:
 
 
 <<elseif $renc is 3>><<audio "girltalk1" volume 0.3 loop play>><div class="center"><span class="pulse"><img src="encounters/3hotties.jpg" width="60%"></span></div>
-As you arrive to the deck you see a group of women walking the opposite direction you are. Although you know that they are just passing by and are probably not going to notice you, you can´t help but feel nervous.
+As you arrive to the deck you see a group of women walking the opposite direction you are. Although you know that they are just passing by and are probably not going to notice you, you can't help but feel nervous.
 
 <<speech "You" "''$name'':">>
 (Oh, god... why am I feeling so ashamed?)<</speech>>
-As you hear them getting closer, you try to keep walking forward and stay as calm as you can. Unconsciously, you progressively lower your head until it´s looking straight to the floor. As you are a few feet away from each other you start hearing their conversation become clearer.
+As you hear them getting closer, you try to keep walking forward and stay as calm as you can. Unconsciously, you progressively lower your head until it's looking straight to the floor. As you are a few feet away from each other you start hearing their conversation become clearer.
 
 <<speech "nobody" "''Brunette girl'':">>
-... I mean, ugh! It´s not that I would care if he is not 6 feet, but he would have to compensate, you know... *giggle*<</speech>>
+... I mean, ugh! It's not that I would care if he is not 6 feet, but he would have to compensate, you know... *giggle*<</speech>>
 <<speech "nobody" "''Blonde girl'':">>
 I hear you, girl, stature is very important, but you gotta pick 'em big where it counts!<</speech>>
 <<speech "nobody" "''Black-haired girl'':">>
@@ -125,10 +125,10 @@ Well, I actually think all that is shit. The taller he is, the bigger it's his j
 Yeah, yeah... tell that into your 5'6'' husband! *giggles*<</speech>>
 <<speech "nobody" "''Blonde girl'':">>
 Hahahaha, Daaaamn!<</speech>>
-As their conversation reaches that point you are almost at the same point of the hall. As they laugh at the brunette´s response, you try to sneak to the side and walk quicker. Your heart is pounding and you hope they don´t notice you.
+As their conversation reaches that point you are almost at the same point of the hall. As they laugh at the brunette's response, you try to sneak to the side and walk quicker. Your heart is pounding and you hope they don't notice you.
 
 <<speech "nobody" "''Blonde girl'':">>
-Hey, look, it´s our stowaway! Do you think he knows the answer to our dilemma?<</speech>>
+Hey, look, it's our stowaway! Do you think he knows the answer to our dilemma?<</speech>>
 You face immediately turns red as your way is blocked and are forced to stop. You turn your body to them, but you still keep your face down.
 
 <<speech "nobody" "''Black-haired girl'':">>
@@ -140,7 +140,7 @@ You are stunned with the question.
 <<speech "You" "''$name'':">>
 W-what do you mean if I h-had a guy...?<</speech>>
 <<speech "nobody" "''Blonde girl'':">>
-C´mon honey... you know... *mimics a blowjob*<</speech>>
+C'mon honey... you know... *mimics a blowjob*<</speech>>
 They laugh at their friend's joke and you just feel more embarrased.
 
 <<speech "You" "''$name'':">>
@@ -248,14 +248,14 @@ You take a look her way, but keep on walking.
 
 <<speech "nobody" "''Blonde Milf'':">>
 Hey, cutie-cutie... *smooch* come here, I want to tell you a secret...<</speech>>
-You don´t know if you should go near her, she´s really giving you a creepy vibe.
+You don't know if you should go near her, she's really giving you a creepy vibe.
 
 <<speech "You" "''$name'':">>
 (I'll just get a little bit closer...)<</speech>>
 You stop walking forward and start going near the couch.
 
 <<speech "nobody" "''Blonde Milf'':">>
-Yeah, that´s right... come here, closer to mommy...<</speech>>
+Yeah, that's right... come here, closer to mommy...<</speech>>
 Her inviting hand is making you feel attracted to her. As you get closer, her scent gets clearer. You can notice a very marked perfume scent, as well as some other that you can't quite identify, but it's very familiar...
 
 <<speech "nobody" "''Blonde Milf'':">>
