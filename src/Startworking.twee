@@ -14,7 +14,7 @@ You effectively wash the dishes for two hours straight.
 <<elseif $cooklesson is 2>><<if $sf is 0>>
 <img src="classes/cook/bad2.gif" width="60%">
 
-You can´t even chop a tomatoe, WTF...
+You can't even chop a tomatoe, WTF...
 
 [[Lunch Time][$lunch to 0]]<<run $gameDate.setHours (15) and $gameDate.setMinutes (0)>>
 <<elseif $sf is 1>>

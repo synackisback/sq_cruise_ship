@@ -1,7 +1,7 @@
 :: 11 [phone] {"position":"19,2722","size":"100,100"}
 <<removeclass "html">><<addclass "html" "spades">><<if ndef $elevenvariable>><div class="center"><img src="gf/juliogomez.jpg" width="25%">
 
-<span class="hugeletter">''CUCKY´S NIGHTMARE''</span></div>
+<span class="hugeletter">''CUCKY'S NIGHTMARE''</span></div>
 <<speech "gfd" "''$gfname:''">>
 So tell me guys, which one you like better?<</speech>>
 <div class="center"><div class="row">

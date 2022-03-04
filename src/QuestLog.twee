@@ -78,13 +78,13 @@ Status: <<print $walkpark>>.</span><</if>>
 ''Status:'' <<print $dress1>>.
 <div class="right">[[Erase|Quest Log][$dress1 to "Unstarted"]]</div></span><</if>>
 \\
-<<if $lab1 is "Unstarted">><<elseif $lab1 is "Active">><span class="active"><div class="center">__''WHAT´S THAT LAB?:''__</div>''Description:'' Get in that lab and unravel the mistery.
+<<if $lab1 is "Unstarted">><<elseif $lab1 is "Active">><span class="active"><div class="center">__''WHAT'S THAT LAB?:''__</div>''Description:'' Get in that lab and unravel the mistery.
 ''Status:'' <<print $lab1>>.
-<div class="meter"><span style="width: 4%"><span>0%</span></span></div></span><<elseif $lab1 is "1/2 done">><span class="active"><div class="center">__''WHAT´S THAT LAB?:''__</div>''Description:'' Use your new Level 2 staff card and get into the lab on Deck 8.
+<div class="meter"><span style="width: 4%"><span>0%</span></span></div></span><<elseif $lab1 is "1/2 done">><span class="active"><div class="center">__''WHAT'S THAT LAB?:''__</div>''Description:'' Use your new Level 2 staff card and get into the lab on Deck 8.
 ''Status:'' <<print $lab1>>.
-<div class="meter"><span style="width: 50%"><span>50%</span></span></div></span><<elseif $lab1 is "Finished">><span class="finished"><div class="center">__''WHAT´S THAT LAB?:''__</div>''Description:'' Use your new Level 2 staff card and get into the lab on Deck 8.
+<div class="meter"><span style="width: 50%"><span>50%</span></span></div></span><<elseif $lab1 is "Finished">><span class="finished"><div class="center">__''WHAT'S THAT LAB?:''__</div>''Description:'' Use your new Level 2 staff card and get into the lab on Deck 8.
 ''Status:'' <<print $lab1>>.
-<div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $lab1 to "Unstarted">><<elseif $lab1 is "Failed">><span class="failed"><div class="center">__''WHAT´S THAT LAB?:''__</div>''Description:'' Get in that lab and unravel the mistery.
+<div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $lab1 to "Unstarted">><<elseif $lab1 is "Failed">><span class="failed"><div class="center">__''WHAT'S THAT LAB?:''__</div>''Description:'' Get in that lab and unravel the mistery.
 ''Status:'' <<print $anatomy1>>.</span><</if>>
 \\
 <<if $anatomy1 is "Unstarted">><<elseif $anatomy1 is "Active">><span class="active"><div class="center">__''GET WET:''__</div>''Description:'' Make Captain T cum. That may soften her heart.
@@ -153,26 +153,26 @@ Status: <<print $walkpark>>.</span><</if>>
 <div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $cum to "Unstarted">><<elseif $cum is "Failed">><span class="failed"><div class="center">__''ALTERNATIVE MASTURBATION:''__</div>''Description:'' Find an alternative way to cum on a regular basis.
 ''Status:'' <<print $cum>>.</span><</if>>
 \\
-<<if $flasks is "Unstarted">><<elseif $flasks is "Active">><span class="active"><div class="center">__''STAY AWAKE:''__</div>''Description:'' Drink the stolen flask before Stoya´s review.
+<<if $flasks is "Unstarted">><<elseif $flasks is "Active">><span class="active"><div class="center">__''STAY AWAKE:''__</div>''Description:'' Drink the stolen flask before Stoya's review.
 ''Status:'' <<print $flasks>>.
-<div class="meter"><span style="width: 4%"><span>0%</span></span></div></span><<elseif $flasks is "1/2 done">><span class="active"><div class="center">__''STAY AWAKE:''__</div>''Description:'' Drink the stolen flask before Stoya´s review.
+<div class="meter"><span style="width: 4%"><span>0%</span></span></div></span><<elseif $flasks is "1/2 done">><span class="active"><div class="center">__''STAY AWAKE:''__</div>''Description:'' Drink the stolen flask before Stoya's review.
 ''Status:'' <<print $flasks>>.
-<div class="meter"><span style="width: 50%"><span>50%</span></span></div></span><<elseif $flasks is "Finished">><span class="finished"><div class="center">__''STAY AWAKE:''__</div>''Description:'' Drink the stolen flask before Stoya´s review.
+<div class="meter"><span style="width: 50%"><span>50%</span></span></div></span><<elseif $flasks is "Finished">><span class="finished"><div class="center">__''STAY AWAKE:''__</div>''Description:'' Drink the stolen flask before Stoya's review.
 ''Status:'' <<print $flasks>>.
-<div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $flasks to "Unstarted">><<elseif $flasks is "Failed">><span class="failed"><div class="center">__''STAY AWAKE:''__</div>''Description:'' Drink the stolen flask before Stoya´s review.
+<div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $flasks to "Unstarted">><<elseif $flasks is "Failed">><span class="failed"><div class="center">__''STAY AWAKE:''__</div>''Description:'' Drink the stolen flask before Stoya's review.
 ''Status:'' <<print $flasks>>.
 <div class="right">[[Erase|Quest Log][$flasks to "Unstarted"]]</div></span><</if>>
 \\
-<<if $m1 is "Unstarted">><<elseif $m1 is "Active">><span class="active"><div class="center">__''WHO´S "M"?:''__</div>''Description:'' Ask Anastasia about "M".
+<<if $m1 is "Unstarted">><<elseif $m1 is "Active">><span class="active"><div class="center">__''WHO'S "M"?:''__</div>''Description:'' Ask Anastasia about "M".
 ''Status:'' <<print $m1>>.
-<div class="meter"><span style="width: 4%"><span>0%</span></span></div></span><<elseif $m1 is "1/2 done">><span class="active"><div class="center">__''WHO´S "M"?:''__</div>''Description:'' Ask Anastasia about "M".
+<div class="meter"><span style="width: 4%"><span>0%</span></span></div></span><<elseif $m1 is "1/2 done">><span class="active"><div class="center">__''WHO'S "M"?:''__</div>''Description:'' Ask Anastasia about "M".
 ''Status:'' <<print $m1>>.
-<div class="meter"><span style="width: 50%"><span>50%</span></span></div></span><<elseif $m1 is "Finished">><span class="finished"><div class="center">__''WHO´S "M"?:''__</div>''Description:'' Find Doctor M.
+<div class="meter"><span style="width: 50%"><span>50%</span></span></div></span><<elseif $m1 is "Finished">><span class="finished"><div class="center">__''WHO'S "M"?:''__</div>''Description:'' Find Doctor M.
 ''Status:'' <<print $m1>>.
-<div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $m1 to "Unstarted">><<elseif $m1 is "Failed">><span class="failed"><div class="center">__''WHO´S "M"?:''__</div>''Description:'' Find Doctor M.
+<div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $m1 to "Unstarted">><<elseif $m1 is "Failed">><span class="failed"><div class="center">__''WHO'S "M"?:''__</div>''Description:'' Find Doctor M.
 ''Status:'' <<print $m1>>.</span><</if>>
 \\
-<<if $fritz1 is "Unstarted">><<elseif $fritz1 is "Active">><span class="active"><div class="center">__''CALLUM FRITZ:''__</div>''Description:'' Find out more about Anastasia´s dad.
+<<if $fritz1 is "Unstarted">><<elseif $fritz1 is "Active">><span class="active"><div class="center">__''CALLUM FRITZ:''__</div>''Description:'' Find out more about Anastasia's dad.
 ''Status:'' <<print $fritz1>>.
 <div class="meter"><span style="width: 4%"><span>0%</span></span></div></span><<elseif $fritz1 is "1/2 done">><span class="active"><div class="center">__''CALLUM FRITZ:''__</div>''Description:'' Use the information to trigger Anastasia memories.
 ''Status:'' <<print $fritz1>>.
@@ -209,13 +209,13 @@ Status: <<print $walkpark>>.</span><</if>>
 <div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $cum to "Unstarted">><<elseif $cum2 is "Failed">><span class="failed"><div class="center">__''STRETCH IT:''__</div>''Description:'' Ask Ms. Foster for help with your "tightness" problems on Monday.
 ''Status:'' <<print $cum2>>.</span><</if>>
 \\
-<<if $tinder2 is "Unstarted">><<elseif $tinder2 is "Active">><span class="active"><div class="center">__''IT´S A DATE:''__</div>''Description:'' Go to your date at Italy with <<if $tprofile is 1>>''Aryana''<<elseif $tprofile is 2>>''Lelu''<<elseif $tprofile is 3>>that ''Netflix'' guy...<</if>>
+<<if $tinder2 is "Unstarted">><<elseif $tinder2 is "Active">><span class="active"><div class="center">__''IT'S A DATE:''__</div>''Description:'' Go to your date at Italy with <<if $tprofile is 1>>''Aryana''<<elseif $tprofile is 2>>''Lelu''<<elseif $tprofile is 3>>that ''Netflix'' guy...<</if>>
 ''Status:'' <<print $tinder2>>.
-<div class="meter"><span style="width: 4%"><span>0%</span></span></div></span><<elseif $tinder2 is "1/2 done">><span class="active"><div class="center">__''IT´S A DATE:''__</div>''Description:'' Go to your date at Italy with <<if $tprofile is 1>>''Aryana''<<elseif $tprofile is 2>>''Lelu''<<elseif $tprofile is 3>>that ''Netflix'' guy...<</if>>
+<div class="meter"><span style="width: 4%"><span>0%</span></span></div></span><<elseif $tinder2 is "1/2 done">><span class="active"><div class="center">__''IT'S A DATE:''__</div>''Description:'' Go to your date at Italy with <<if $tprofile is 1>>''Aryana''<<elseif $tprofile is 2>>''Lelu''<<elseif $tprofile is 3>>that ''Netflix'' guy...<</if>>
 ''Status:'' <<print $tinder2>>.
-<div class="meter"><span style="width: 50%"><span>50%</span></span></div></span><<elseif $tinder2 is "Finished">><span class="finished"><div class="center">__''IT´S A DATE:''__</div>''Description:'' Go to your date at Italy with <<if $tprofile is 1>>''Aryana''<<elseif $tprofile is 2>>''Lelu''<<elseif $tprofile is 3>>that ''Netflix'' guy...<</if>>
+<div class="meter"><span style="width: 50%"><span>50%</span></span></div></span><<elseif $tinder2 is "Finished">><span class="finished"><div class="center">__''IT'S A DATE:''__</div>''Description:'' Go to your date at Italy with <<if $tprofile is 1>>''Aryana''<<elseif $tprofile is 2>>''Lelu''<<elseif $tprofile is 3>>that ''Netflix'' guy...<</if>>
 ''Status:'' <<print $tinder2>>.
-<div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $tinder2 to "Unstarted">><<elseif $tinder2 is "Failed">><span class="failed"><div class="center">__''IT´S A DATE:''__</div>''Description:'' Go to your date at Italy with <<if $tprofile is 1>>''Aryana''<<elseif $tprofile is 2>>''Lelu''<<elseif $tprofile is 3>>that ''Netflix'' guy...<</if>>
+<div class="meter"><span style="width: 100%"><span>100%</span></span></div></span><<set $tinder2 to "Unstarted">><<elseif $tinder2 is "Failed">><span class="failed"><div class="center">__''IT'S A DATE:''__</div>''Description:'' Go to your date at Italy with <<if $tprofile is 1>>''Aryana''<<elseif $tprofile is 2>>''Lelu''<<elseif $tprofile is 3>>that ''Netflix'' guy...<</if>>
 ''Status:'' <<print $tinder2>>.</span><</if>>
 \\
 <<if $missionbar1 is "Unstarted">><<elseif $missionbar1 is "Active">><span class="actives"><div class="center">__''WORKAHOLIC:''__</div>''Description:'' Make that business woman at the bar relax.

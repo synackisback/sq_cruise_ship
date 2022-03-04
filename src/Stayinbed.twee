@@ -15,7 +15,7 @@ What...? N-no... I just...<</speech>>
 <<speech "gfd" "''$gfname:''">>
 I know exactly where these panties were when I left...<</speech>>
 <<speech "You" "''$name:''">>
-It´s not like that, honey... They were on the floor so I just put them in the drawer.<</speech>>
+It's not like that, honey... They were on the floor so I just put them in the drawer.<</speech>>
 <<speech "gfd" "''$gfname:''">>
 You don't need to go wandering around in my room.<</speech>>
 <<speech "You" "''$name:''">>
@@ -23,9 +23,9 @@ No honey... I just wanted to make everything tidy for when you arrived. You seem
 She seems to relax a bit.
 
 <<speech "gfd" "''$gfname:''">>
- *sigh* I´m sorry... but you shouldn´t have come into my room.<</speech>>
+ *sigh* I'm sorry... but you shouldn't have come into my room.<</speech>>
 <<speech "You" "''$name:''">>
-...Well, you are right about that. I´m sorry too.<</speech>><<addmins 15>>
+...Well, you are right about that. I'm sorry too.<</speech>><<addmins 15>>
 
 \\<<else>><div class="center"><img src="gf/disappointedgf.jpg" width="50%"></div>
 <<speech "gfd" "''$gfname:''">>
@@ -44,7 +44,7 @@ Sure! (I'll save the Cruise surprise for later!)<</speech>>
 
 
 
-\\<<elseif $reception is 1>><<audio "mystery" loop play>>You decide that it´s better to at least go and say something to her and try to fix things.
+\\<<elseif $reception is 1>><<audio "mystery" loop play>>You decide that it's better to at least go and say something to her and try to fix things.
 
 <div class="center"><img src="gf/neutralgf.jpg" width="60%"></div>
 She receives you with an incredibly inexpressive look. 

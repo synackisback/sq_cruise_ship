@@ -11,7 +11,7 @@ Without knowing what to expect, you enter the <<linkappend "door to the stage." 
 
 <img src="places2/stage.png" width="70%">
 
-The luxury and awesomeness of the theater catches you completely by surprise. You certainly weren´t expecting something as big as this inside a ship. As you are the first one to arrive, you choose to sit in the front row so you get the best view.
+The luxury and awesomeness of the theater catches you completely by surprise. You certainly weren't expecting something as big as this inside a ship. As you are the first one to arrive, you choose to sit in the front row so you get the best view.
 
 Little by little the crowd fills the theater. Each woman that comes in seems hotter and sexier than the last one. They all come in pair or in groups of three or more. All this is making you feel regretful about sitting in the front row. Every girl that comes in has a full view of you, and every giggle you hear them make, makes you blush even redder. You feel embarrased just for being there. You try to keep your cool and just look ahead to not call unnecesary attention upon yourself.
 
@@ -30,30 +30,30 @@ Now, with all of you: the woman that makes this all posible, the Queen between Q
  *Gracefully comes in, walking to the mic with a smile*
  
 <<speech "cap" "''Captain T:''">>
-Well Hello! I see some familiar faces, don´t I? *laughs*<</speech>>
+Well Hello! I see some familiar faces, don't I? *laughs*<</speech>>
 <span class="shudder"><span class="onomatopeya">*CROWD CHEERS*</span></span>
  
 <<speech "cap" "''Captain T:''">>
-I give my warmest welcome to the new ones, I hope you´ll have the time of your lifes here. Trust me: you will.<</speech>>
+I give my warmest welcome to the new ones, I hope you'll have the time of your lifes here. Trust me: you will.<</speech>>
 <span class="shudder"><span class="onomatopeya">*CROWD CHEERS*</span></span>
  
 <<speech "cap" "''Captain T:''">>
-Ok, ladies, I won´t retain you much more from the party at the pub on the back of the theater, but I have one surprise more for you...you´ve all got A FREE ROUND OF DRINKS FOR EACH ONE!<</speech>>
+Ok, ladies, I won't retain you much more from the party at the pub on the back of the theater, but I have one surprise more for you...you've all got A FREE ROUND OF DRINKS FOR EACH ONE!<</speech>>
 <span class="shudder"><span class="onomatopeya">*CROWD CHEERS*</span></span>
  
 <<speech "cap" "''Captain T:''">>
 So, without further ado...- her eyes heavily stop right into yours.
-Well, girls, looks like we have an unexpected passenger. IT´S A BOY!<</speech>>
+Well, girls, looks like we have an unexpected passenger. IT'S A BOY!<</speech>>
 <span class="shudder"><span class="onomatopeya">*CROWD CHEERS*</span></span>
 
 <img src="cap/caphand.jpg" width="50%">
 
 <<speech "cap" "''Captain T:''">>
-Come up with me, so we can all see you. No?...Ah, you´re shy? Well that´s a shame.<</speech>>
+Come up with me, so we can all see you. No?...Ah, you're shy? Well that's a shame.<</speech>>
 <span class="shudder"><span class="onomatopeya">*CROWD BOOES*</span></span>
 
 <<speech "cap" "''Captain T:''">>
-Now, now... treat him properly, ladies. I know there weren´t supposed to be men until further on in the trip, but oh well... Make him feel like he is at home, and worship him like the man we hope he is.<</speech>>
+Now, now... treat him properly, ladies. I know there weren't supposed to be men until further on in the trip, but oh well... Make him feel like he is at home, and worship him like the man we hope he is.<</speech>>
 Without further ado, let the party <<click "BEGIN!" Lounge>><<addhours 1>><<set $stage to 0>><</click>><</if>>
 
 
@@ -64,7 +64,7 @@ Hi sweetie, we were just waiting for you! Can I have your card?<</speech>>
 Your eyes open wide. Just when you are about to make up any excuse for leaving it at the room or something, she interrupts your thoughts.
  
 <<speech "nobody" "''Lady:''">>
-Oh, she´s going to get into the stage now, just go in. C´mon, c´mon!<</speech>>
+Oh, she's going to get into the stage now, just go in. C'mon, c'mon!<</speech>>
 The woman takes you by the hand and leads you to one of the last seats left.
 
 <div class="center"><img src="cap/capcute.jpg" width="50%"></div>
@@ -922,7 +922,7 @@ You take you clothes and get out the lounge and through the dark stage back into
 
 
 \\<<elseif $zack is 3>><div class="center"><img src="stuff/showlist.png" width="40%"></div>
-//There´s no show today...//
+//There's no show today...//
 
 [[Return|Deck 4]]<</if>>
 
@@ -939,7 +939,7 @@ You take you clothes and get out the lounge and through the dark stage back into
 
 
 \\<<else>><div class="center"><img src="stuff/showlist.png" width="40%"></div>
-//There´s no show today...//
+//There's no show today...//
 
 [[Return|Deck 4]]<</if>><</if>><<audio "menus" stop>>
 

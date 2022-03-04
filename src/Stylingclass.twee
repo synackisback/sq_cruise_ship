@@ -2,7 +2,7 @@
 <<removeclass "html">><<addclass "html" "cherry">><<audio ":back" mute>><<audio "style" volume 0.6 loop play>><<if ndef $styleclass>><<set $wardrobe to true>><span class="pulse"><img src="classes/style/cherry1.jpg" width="80%"></span>
 
 <<speech "style" "''Cherry:''">>
-Weeeeeee, you must be $name! Nice to see you at last!! I´m Cherry! Come and give me a kiss.<</speech>>
+Weeeeeee, you must be $name! Nice to see you at last!! I'm Cherry! Come and give me a kiss.<</speech>>
 <<speech "You" "''$name:''">>
 Wha-<</speech>>
 In a moment she walks next to you and hugs you with a surprising strength. While she hugs you, you feel a hand grabbing your butt.
@@ -10,13 +10,13 @@ In a moment she walks next to you and hugs you with a surprising strength. While
 <<speech "style" "''Cherry:''">>
 Hmm, maybe we can work something out... So, you tell me first! What would you like to enhance about your appearance?<</speech>>
 <<speech "You" "''$name:''">>
-I don´t know. I guess I could look cooler, maybe something that would make me more attractive as a man.<</speech>>
+I don't know. I guess I could look cooler, maybe something that would make me more attractive as a man.<</speech>>
 <<speech "style" "''Cherry:''">>
-A man...? Um, yeah sure! Right now you´re looking a little boring. There´s not much color, and it doesn´t tell me anything about you. Maybe that you are boring, but I don´t think you want that! *giggles* So, first of all, let´s try on stuff!!<</speech>>
-She runs to her huge wardrobe, waving her hands in the air. She´s definitely more excited about this that you are.
+A man...? Um, yeah sure! Right now you're looking a little boring. There's not much color, and it doesn't tell me anything about you. Maybe that you are boring, but I don't think you want that! *giggles* So, first of all, let's try on stuff!!<</speech>>
+She runs to her huge wardrobe, waving her hands in the air. She's definitely more excited about this that you are.
 
 <<speech "style" "''Cherry:''">>
-Here, take this. *She stacks pieces of clothing on your arms, until you can´t see her face anymore.* Ok! Let´s start trying this ones!<</speech>>
+Here, take this. *She stacks pieces of clothing on your arms, until you can't see her face anymore.* Ok! Let's start trying this ones!<</speech>>
 <<speech "You" "''$name:''">>
 (Jesus... why is she so loud?)<</speech>>
 You leave all the clothes on the bed and pick the choice that you think would suit you better:
@@ -26,13 +26,13 @@ You leave all the clothes on the bed and pick the choice that you think would su
 <<linkreplace "Pink dress">>Not enough Fem.<</linkreplace>><<elseif $styleclass is 1>><<speech "You" "''$name:''">>
 I prefer this outfit.<</speech>>
 <<speech "style" "''Cherry:''">>
-Umm...well, ok. It´s not what I would have chosen, but go ahead and try it on!<</speech>>
+Umm...well, ok. It's not what I would have chosen, but go ahead and try it on!<</speech>>
 She stands there looking right at you.
 
 <<speech "You" "''$name:''">>
 Can you...turn around for a moment?<</speech>>
 <<speech "style" "''Cherry:''">>
-Oh, c´mon! Don´t be ashamed. You don´t have anything I haven´t already seen. I have a little brother, you know?<</speech>>
+Oh, c'mon! Don't be ashamed. You don't have anything I haven't already seen. I have a little brother, you know?<</speech>>
 <<speech "You" "''$name:''">>
 I-<</speech>>
 <<speech "style" "''Cherry:''">>
@@ -40,11 +40,11 @@ Ok! Ugh... you boys are the worst! *turns around*<</speech>>
 You get your clothes off and try the new outfit. Without asking she turns around and walks around you watching you closely.
 
 <<speech "style" "''Cherry:''">>
-Hm... I don´t think this is really suiting you... Let´s try something else. Here. *She gives you the stylish shirt*<</speech>>
+Hm... I don't think this is really suiting you... Let's try something else. Here. *She gives you the stylish shirt*<</speech>>
 <<speech "You" "''$name:''">>
 Umm...ok. But I was comfortable with the other one...<</speech>>
 <<speech "style" "''Cherry:''">>
-No buts, cutie! I´m going to make a fashion icon out of you. *Teehee* Don´t forget this is a class, after all...<</speech>>
+No buts, cutie! I'm going to make a fashion icon out of you. *Teehee* Don't forget this is a class, after all...<</speech>>
 You try to put the shirt on, but it is too tight for you.
 
 <<speech "You" "''$name:''">>
@@ -56,15 +56,15 @@ Oh, hum... I could have sworn that was your size... Well then, try this other on
 <<speech "You" "''$name:''">>
 What?! Pink?! No, no... this is too much.<</speech>>
 <<speech "style" "''Cherry:''">>
-I guess you don´t want my points then. But I´m telling you: If you don´t get enough points at the end of the week, Tara won´t like it... What do you prefer, to try some things for me or suffer Tara´s wrath?<</speech>>
+I guess you don't want my points then. But I'm telling you: If you don't get enough points at the end of the week, Tara won't like it... What do you prefer, to try some things for me or suffer Tara's wrath?<</speech>>
 <<speech "You" "''$name:''">>
-Umm... ok, I´ll do it. (This is so emmasculating...)<</speech>>
+Umm... ok, I'll do it. (This is so emmasculating...)<</speech>>
 <<speech "style" "''Cherry:''">>
 Good boi! I just want to help you, really... Bois like you need to exploit their cuteness. That is your strong point to get girls.<</speech>>
 You put on the shirt. It is still tight, but you can at least fit in it.
 
 <<speech "style" "''Cherry:''">>
-Hmm... not bad. There´s kind of a contrast between these arm hairs and the soft fabric. That is not too apealing... But the color definitely suits you! Time for the legs and underwear!<</speech>>
+Hmm... not bad. There's kind of a contrast between these arm hairs and the soft fabric. That is not too apealing... But the color definitely suits you! Time for the legs and underwear!<</speech>>
 <<speech "You" "''$name:''">>
 Un-underweaar?!<</speech>>
 Without paying attention to your whimper, Cherry brings out a pair of skinny jeans and some small boyish briefs.
@@ -72,13 +72,13 @@ Without paying attention to your whimper, Cherry brings out a pair of skinny jea
 <img src="clothes/jeans.png" width="15%">
 
 <<speech "style" "''Cherry:''">>
-Don´t make that face... this is all for you! and free! You should be thankfull... So, this are some skinny jeans, which a lot of boys wear now. And boxers are outdated, you know? You should be wearing briefs, like this one.<</speech>>
+Don't make that face... this is all for you! and free! You should be thankfull... So, this are some skinny jeans, which a lot of boys wear now. And boxers are outdated, you know? You should be wearing briefs, like this one.<</speech>>
 <img src="clothes/under1.jpg" width="40%">
 
 <<speech "You" "''$name:''">>
 That looks way too small...<</speech>>
 <<speech "style" "''Cherry:''">>
-That´s what she said! Hahahaha C´mon, let me help you try this stuff.<</speech>>
+That's what she said! Hahahaha C'mon, let me help you try this stuff.<</speech>>
 She grabs your pants and with a single movement takes them off. Then she goes straight to your underwear.
 
 <<speech "You" "''$name:''">>
@@ -88,25 +88,25 @@ You try to stop her but she has cought you by surprise.
 <<linkreplace "Boxers off">><img src="classes/style/pantsoff.jpg" width="50%">
 
 <<speech "style" "''Cherry:''">>
-OOoohh... pretty, pretty! *giggles* That is actually not that bad... you are almost as big as my little bro! Hahahaha It´s just a joooooke, don´t be a partypooper!<</speech>>
-She slides the briefs on your legs, but it is so small that they won´t even come up the knees.
+OOoohh... pretty, pretty! *giggles* That is actually not that bad... you are almost as big as my little bro! Hahahaha It's just a joooooke, don't be a partypooper!<</speech>>
+She slides the briefs on your legs, but it is so small that they won't even come up the knees.
 
 <<speech "You" "''$name:''">>
 Fucking christ...<</speech>>
 <<speech "style" "''Cherry:''">>
-Hey, stop it! Just a bit of effort and it´s in!<</speech>>
+Hey, stop it! Just a bit of effort and it's in!<</speech>>
 She puts them on. You actually feel more comfortable than with the boxers. These wrap on your penis and balls just as a proper underwear should. They feel too tight though.
 
 <<speech "You" "''$name:''">>
-It´s... ok, I guess. I don´t like the color though.<</speech>>
+It's... ok, I guess. I don't like the color though.<</speech>>
 <<speech "style" "''Cherry:''">>
-You´ll come to like it, sweetie! *she turns you around and starts putting the skinny jeans on you*<</speech>>
+You'll come to like it, sweetie! *she turns you around and starts putting the skinny jeans on you*<</speech>>
 <<speech "You" "''$name:''">>
 (Why does everything have to be so small!?)<</speech>>
 Finally, the jeans are almost on, except for your ass.
 
 <<speech "style" "''Cherry:''">>
-Wow! You´ve got a great ass! Did anyone tell you that? So fluffy... *rub, rub, SLAP*<</speech>>
+Wow! You've got a great ass! Did anyone tell you that? So fluffy... *rub, rub, SLAP*<</speech>>
 You jump a little when she slaps you.
 
 <<speech "style" "''Cherry:''">>
@@ -120,14 +120,14 @@ You take a look at the mirror. You certainly look like a cute boy. And not a ver
 <<speech "style" "''Cherry:''">>
 See?! You look so fresh! So nice and pretty! *she comes behind you and rubs your shoulders*<</speech>>
 <<speech "You" "''$name:''">>
-I´m not sure... I guess it´s just not my style.<</speech>>
+I'm not sure... I guess it's just not my style.<</speech>>
 <<speech "style" "''Cherry:''">>
-Not YET! We´ll change your style, that what this class is for! *she suddenly puts a serious face* Now it´s time for the weekly errand! ''You have to buy and wear some other kind of underwear.'' You know, just because I think that briefs are not very trendy these days...
+Not YET! We'll change your style, that what this class is for! *she suddenly puts a serious face* Now it's time for the weekly errand! ''You have to buy and wear some other kind of underwear.'' You know, just because I think that briefs are not very trendy these days...
 
 Class is over, bye-bye. *she leads you out of the room and closes the door*<</speech>>
 <<speech "You" "''$name:''">>
 Hey! My other clothes are in there!<</speech>>
-... ... ... She´s not giving your clothes back.
+... ... ... She's not giving your clothes back.
 
 <<click "Return" "Deck 2">><<set $dress1 to "Active">><<set $badge to $badge +1>><<set $wardrobe to true>><<set $buyshoe1 to true>><<set $buyleg1 to true>><<set $buyupper1 to true>><<set $buyunder1 to true>><<set $shoe to 1>><<set $leg to 1>><<set $under to 1>><<set $upper to 1>><<set $dinner to 0>><<set $fashionbuy to 0>><<set $bflats to false, $bdress to true, $bpdress to true, $bedress to true, $bhheels to true, $bswim to false>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><</click>><</linkreplace>><</linkreplace>>
 
@@ -155,7 +155,7 @@ Well, you know... just girl stuff hehehe Anyway, enough chitchat. Soooo? Did you
 Yes, I did...<</speech>>
 <<speech "style" "''Cherry:''">>
 Woohoo!! Let me see!<</speech>>
-She quickly pulls you over and opens your skinny jeans. You try to resist a little bit, but she is stronger than she looks. Or maybe you´re getting weaker...
+She quickly pulls you over and opens your skinny jeans. You try to resist a little bit, but she is stronger than she looks. Or maybe you're getting weaker...
 
 <<speech "style" "''Cherry:''">>
 OMG... they look so cute on you! You are wearing them even better than I thought!<</speech>>
@@ -166,29 +166,29 @@ Let me see the whole thing in context. Let me take these jeans off...<</speech>>
 She take your skinny jeans off with some trouble. When the jeans touch the floor she gives a step back and squints her eyes.
 
 <<speech "style" "''Cherry:''">>
-Hmm... not bad... but something´s not right here... What could it be?...I know! Of course!<</speech>>
+Hmm... not bad... but something's not right here... What could it be?...I know! Of course!<</speech>>
 She now walks from one side of the room to another, thinking about something and mumbling "of course, of course" multiple times.
 
 <<speech "You" "''$name:''">>
 (This girl is out of her mind...)<</speech>>
 <<speech "style" "''Cherry:''">>
-I know what you´re going to do! Those yucky boy hairs you have in your legs need to go. It is not visually appealing to have the soft fabric of the panties mixed with the vulgarity of the body hair.<</speech>>
+I know what you're going to do! Those yucky boy hairs you have in your legs need to go. It is not visually appealing to have the soft fabric of the panties mixed with the vulgarity of the body hair.<</speech>>
 <<speech "You" "''$name:''">>
-But- but I´ve never shaven any part of my body!<</speech>>
+But- but I've never shaven any part of my body!<</speech>>
 <<speech "style" "''Cherry:''">>
-Of course you have! You must´ve shaven your beard lots of times!<</speech>>
+Of course you have! You must've shaven your beard lots of times!<</speech>>
 <<speech "You" "''$name:''">>
-Actually... my beard didn´t come out...<</speech>>
+Actually... my beard didn't come out...<</speech>>
 <<speech "style" "''Cherry:''">>
-...Hahahaha... well, of course it didn´t.<</speech>>
+...Hahahaha... well, of course it didn't.<</speech>>
 <<speech "You" "''$name:''">>
 (That condescension is not necessary...)<</speech>>
 <<speech "style" "''Cherry:''">>
-Well, you´ll get the hang of it. Here, have this cream. You put it in the shower and keep it for 10 minutes. It will make all the hairs fall off, no need to use razors!<</speech>>
+Well, you'll get the hang of it. Here, have this cream. You put it in the shower and keep it for 10 minutes. It will make all the hairs fall off, no need to use razors!<</speech>>
 <<speech "You" "''$name:''">>
-Wait! I didn´t say I would do this... And is that really safe?<</speech>>
+Wait! I didn't say I would do this... And is that really safe?<</speech>>
 <<speech "style" "''Cherry:''">>
-C´mon, you´re already wearing panties. It´s better if you improve the whole look. And of course it´s safe! I use it myself!<</speech>>
+C'mon, you're already wearing panties. It's better if you improve the whole look. And of course it's safe! I use it myself!<</speech>>
 <<speech "You" "''$name:''">>
 Hm...<</speech>>
  ''*Shaving cream was added directly to the Bathroom*''
@@ -196,12 +196,12 @@ Hm...<</speech>>
 <<click "Return" "Deck 2">><<set $dress1 to "Finished">><<run $gameDate.setHours (20)>><<set $shave to "Active">><<set $shavebath to true>><<set $badge to $badge +1>><<set $shaving to 0>><<set $styleclass to 3>><</click>><<elseif $under is 1>><<speech "You" "''$name:''">>
 I...just...<</speech>>
 <<speech "style" "''Cherry:''">>
-C´mon, don´t be so shy... Let me see...<</speech>>
+C'mon, don't be so shy... Let me see...<</speech>>
 She grabs you and starts unbuttoning your skinny jeans. You jump to the side, getting away from her grip.
 
 <<speech "You" "''$name:''">>
-No! You don´t need to rip my pants off!
-I´m not wearing them, ok?! I just don´t think I should be wearing girly underwear. It´s just not right! And it doesn´t fit well either.<</speech>>
+No! You don't need to rip my pants off!
+I'm not wearing them, ok?! I just don't think I should be wearing girly underwear. It's just not right! And it doesn't fit well either.<</speech>>
 <<speech "style" "''Cherry:''">>
 But why...? I thought you liked them, maybe the hard-on you had the other day gave me the wrong idea...<</speech>>
 <div class="center"><span class="notplus">SUB -1</span><<set $sub to $sub -1>></div>
@@ -211,13 +211,13 @@ Well, yeah.<</speech>>
 Yeah, huh? Well, you are hurting my feelings! Minus 50 points!<</speech>>
 <<set $points to $points -50>><div class="center"><span class="notless">''POINTS -50''</span></div>
 <<speech "style" "''Cherry:''">>
-You know what? I live for clothes. My whole life is about style. It´s my passion and my job. And for someone like you to come and behave like this while I´m doing what I think is the best job in the world... it really hurts<</speech>>
-For a moment there you think she´s going to cry. But suddenly, all her cuteness goes away, leaving a deep frown on her face.
+You know what? I live for clothes. My whole life is about style. It's my passion and my job. And for someone like you to come and behave like this while I'm doing what I think is the best job in the world... it really hurts<</speech>>
+For a moment there you think she's going to cry. But suddenly, all her cuteness goes away, leaving a deep frown on her face.
 
 <<speech "You" "''$name:''">>
-Well... I´m sorry... But it´s not like I asked for it, you know? I actually didn´t ask for any of this.<</speech>>
+Well... I'm sorry... But it's not like I asked for it, you know? I actually didn't ask for any of this.<</speech>>
 <<speech "style" "''Cherry:''">>
-If you don´t like clothes, get them off.<</speech>>
+If you don't like clothes, get them off.<</speech>>
 <<speech "You" "''$name:''">>
 What?<</speech>>
 <<speech "style" "''Cherry:''">>
@@ -225,11 +225,11 @@ You heard me! If you are going to question my job, you might as well not wear an
 You stand in place, not knowing where she is going with this.
 
 <<speech "You" "''$name:''">>
-(She can´t really expect me to take all my clothes off)<</speech>>
+(She can't really expect me to take all my clothes off)<</speech>>
 With a cute high pitched voice, Cherry grabs your shirt and starts unbottoning it.
 
 <<speech "style" "''Cherry:''">>
-If you are not liking my clothes, then you aren´t getting any!<</speech>>
+If you are not liking my clothes, then you aren't getting any!<</speech>>
 <<speech "You" "''$name:''">>
 No, wait...!<</speech>>
 After just a couple seconds, Cherry has managed to take your shirt off, leaving your chest open. You jump backwards trying to scape her grip and bring her to her senses. 
@@ -238,22 +238,22 @@ After just a couple seconds, Cherry has managed to take your shirt off, leaving 
 Ok, ok! Enough! I- I can take it off, just relax...<</speech>>
 <<speech "style" "''Cherry:''">>
  *angry face* He! Ok, but do it quick!<</speech>>
-Although she´s already seen your small penis before, you can´t help but feel embarrased by the thought of being naked in front of her. With a little bit if trouble you take off the skinny jeans.
+Although she's already seen your small penis before, you can't help but feel embarrased by the thought of being naked in front of her. With a little bit if trouble you take off the skinny jeans.
 
 <<speech "style" "''Cherry:''">>
 ... Go on.<</speech>>
 <<speech "You" "''$name:''">>
-(I thought she´d at least let me keep the underwear... jeez...)<</speech>>
+(I thought she'd at least let me keep the underwear... jeez...)<</speech>>
 Trembling, you slide the briefs down your naked legs. After you finish taking it off, you cover your genitals with your hands. Cherry take her time looking at your naked body.
 
 <<speech "style" "''Cherry:''">>
-Hm... so many possibilities... $name, it´s a shame you can´t appreciate fashion. You have a body made for lingerie...<</speech>>
+Hm... so many possibilities... $name, it's a shame you can't appreciate fashion. You have a body made for lingerie...<</speech>>
 <<speech "You" "''$name:''">>
 (I feel offended... but... also... <span class="pink">complimented</span>)<</speech>>
 In one move, Cherry crouches and takes your briefs.
 
 <<speech "style" "''Cherry:''">>
-If you don´t want to wear panties, you might as well not wear any underwear. *smiles devilishly* You can dress up again.<</speech>>
+If you don't want to wear panties, you might as well not wear any underwear. *smiles devilishly* You can dress up again.<</speech>>
 You feel broken as Cherry watches your naked body crouching to the floor grabbing the clothes. Then you put on the jeans and the shirt.
 
 <<speech "You" "''$name:''">>
@@ -261,13 +261,13 @@ You feel broken as Cherry watches your naked body crouching to the floor grabbin
 Cherry moves closer to you.
 
 <<speech "style" "''Cherry:''">>
-There. You like feeling naked? You should get used to being like this in public if you don´t want to wear panties... <<if $cage is true>>This cage *tap, tap* is really protrubing now. Everyone will know... that is what you want, isn´t it...?<<else>>This little dick is really protrubing now. Everyone will see your boners if you´re not careful... *tap, tap* Don´t get too horny...<</if>><</speech>>
+There. You like feeling naked? You should get used to being like this in public if you don't want to wear panties... <<if $cage is true>>This cage *tap, tap* is really protrubing now. Everyone will know... that is what you want, isn't it...?<<else>>This little dick is really protrubing now. Everyone will see your boners if you're not careful... *tap, tap* Don't get too horny...<</if>><</speech>>
 As she pokes on your pants, your penis twitches involuntarily. Her scent and cuteness is having an effect on you.
 
 <<speech "style" "''Cherry:''">>
-If that´s what you want, that´s what you´ll have. Altough those panties would look better on a shaved booty. Take this shaving kit, you better be hairless and dressed properly for next week. We´ve got lots of work to do...
+If that's what you want, that's what you'll have. Altough those panties would look better on a shaved booty. Take this shaving kit, you better be hairless and dressed properly for next week. We've got lots of work to do...
 
-That´ll teach you how to appreciate fashion. Get out!<</speech>>
+That'll teach you how to appreciate fashion. Get out!<</speech>>
  ''*Shaving cream was added directly to the Bathroom*''
 
 <<click "Return" "Deck 2">><<set $shave to "Active">><<set $badge to $badge +1>><<set $shavebath to true>><<set $shaving to 0>><<set $buyunder1 to false>><<unset $under>><<run $gameDate.setHours (20)>><<set $dress1 to "Failed">><<set $styleclass to 3>><</click>><</if>>
@@ -277,10 +277,10 @@ That´ll teach you how to appreciate fashion. Get out!<</speech>>
 
 <<speech "style" "''Cherry:''">>
 Hi, there!! *smiles* Let me see your kawaii little tail!<</speech>>
-She quickly pulls you over and opens your skinny jeans. You try to resist a little bit, but she is stronger than she looks. Or maybe you´re getting weaker...
+She quickly pulls you over and opens your skinny jeans. You try to resist a little bit, but she is stronger than she looks. Or maybe you're getting weaker...
 
 <<if ndef $under>><<speech "style" "''Cherry:''">>
-Wow! You really like not wearing anything, huh? Well I think that´s enough punishment... I´ll just give you these cute panties I have for you to put on!<</speech>>
+Wow! You really like not wearing anything, huh? Well I think that's enough punishment... I'll just give you these cute panties I have for you to put on!<</speech>>
  ''*You received panties*''<<set $under to 2, $buyunder2 to true>><<elseif $under is 2>><<speech "style" "''Cherry:''">>
 Those panties look good on you, are you coming to like them? I bet you are, cute little thing...<</speech>><<elseif $under gte 3>><<speech "style" "''Cherry:''">>
 Wow! You go, gurl! That thong really looks good on you, you might be even getting some fashion taste from these classes. Good job! Here you have some extra points:<</speech>>
@@ -295,7 +295,7 @@ Mmm... is that your cage or are you happy to see me? *giggle*<</speech>>
 You try to resist, but Cherry is very quick and has a lot of nerve, so she lowers your underwear before you can react.
 
 <<speech "style" "''Cherry:''">>
-<<if $shaving gt 0>><<set $shave to "Finished">>Oh, god, yes!! You DID shave! This is fantastic!<<elseif $shaving is 0>><<set $shave to "Failed">>WHAT? Is this... hair?! You really didn´t shave?! Oh... you are into so much trouble...<</if>><</speech>>
+<<if $shaving gt 0>><<set $shave to "Finished">>Oh, god, yes!! You DID shave! This is fantastic!<<elseif $shaving is 0>><<set $shave to "Failed">>WHAT? Is this... hair?! You really didn't shave?! Oh... you are into so much trouble...<</if>><</speech>>
 <<if $shaving gt 0>>She rubs her hand on your tummy and pubic area with a grin on her face. A stream of blood runs to your caged tiny dick, which engorges by the second.
 
 <<speech "style" "''Cherry:''">>
@@ -310,101 +310,101 @@ Come here, $name.<</speech>>
 Her voice sound a lot more serious than usual, and that is not a good sign. You decide to comply and not make it worse. On you get to the bathroom she resumes talking.
 
 <<speech "style" "''Cherry:''">>
-I am not happy, and no. Everything is NOT alright. Do you know how important it is for you to take care of your body? People are not going to want to be around you if you don´t even care about your hygiene.
+I am not happy, and no. Everything is NOT alright. Do you know how important it is for you to take care of your body? People are not going to want to be around you if you don't even care about your hygiene.
 
-But it´s not only about hygiene, it´s also about the disrespect to my aesthetic world. When you act like this, you´re just telling me that you don´t care about my advices. You don´t want them and you even think that I don´t know what I´m doing.
+But it's not only about hygiene, it's also about the disrespect to my aesthetic world. When you act like this, you're just telling me that you don't care about my advices. You don't want them and you even think that I don't know what I'm doing.
 
-Well, let me tell you: I know exactly what I´m doing. You have so much potential, but you need to follow my advices. If we don´t work together, we are not going to achieve anything!<</speech>>
+Well, let me tell you: I know exactly what I'm doing. You have so much potential, but you need to follow my advices. If we don't work together, we are not going to achieve anything!<</speech>>
 <<speech "You" "''$name:''">>
-I... I just don´t see why-<</speech>>
+I... I just don't see why-<</speech>>
 <<speech "style" "''Cherry:''">>
-You will see it eventually, but you are obviously not going to understand NOW. That´s why you need to trust me, $name. Do you trust my judgement or not?<</speech>>
+You will see it eventually, but you are obviously not going to understand NOW. That's why you need to trust me, $name. Do you trust my judgement or not?<</speech>>
 <<speech "You" "''$name:''">>
-It´s not that I don´t trust you, Cherry, I´ve just never done anything like that...<</speech>>
+It's not that I don't trust you, Cherry, I've just never done anything like that...<</speech>>
 <<speech "style" "''Cherry:''">>
 Well, then. If you never get out of your comfort zone you are always going to stay as you are. Do you want to change? Then you need to trust what we say.<</speech>>
 <<speech "You" "''$name:''">>
 I... I guess you are right.<</speech>>
 <<speech "style" "''Cherry:''">>
-I´m not going to leave a task like that to you again, so we´re doing it right now. Get inside the shower and let´s do it.<</speech>>
-You get whatever clothes you still had on and get into the shower. You feel very exposed and a bit cold since you are naked. Cherry then grabs the shower head and tries the water temperature on her hand to make sure it´s not too cold or too hot.
+I'm not going to leave a task like that to you again, so we're doing it right now. Get inside the shower and let's do it.<</speech>>
+You get whatever clothes you still had on and get into the shower. You feel very exposed and a bit cold since you are naked. Cherry then grabs the shower head and tries the water temperature on her hand to make sure it's not too cold or too hot.
 
 <<speech "You" "''$name:''">>
 (<span class="pink">Aw... so thoughtful</span>)<</speech>>
-Then she wets your body, from your feet to the tummy. Then she spreads the white foam all over your body and brings out the razor. You really don´t feel comfortable with a not very stable person pointing a razor at you, so you flinch a bit when she starts shaving your legs.
+Then she wets your body, from your feet to the tummy. Then she spreads the white foam all over your body and brings out the razor. You really don't feel comfortable with a not very stable person pointing a razor at you, so you flinch a bit when she starts shaving your legs.
 
 <<speech "style" "''Cherry:''">>
- *smiles ironically* Don´t worry, brave man. I´m only going to shave you, see? It feels nice, doesn´t it?<</speech>>
+ *smiles ironically* Don't worry, brave man. I'm only going to shave you, see? It feels nice, doesn't it?<</speech>>
 <<speech "You" "''$name:''">>
 Yes... (<span class="pink">Makes me feel, like... girly...</span>)<</speech>>
-Cherry only spends about a couple of minutes shaving your legs, since you already didn´t have much hair on them. After finishing with that, she goes right into your tummy and goes down to your crotch.
+Cherry only spends about a couple of minutes shaving your legs, since you already didn't have much hair on them. After finishing with that, she goes right into your tummy and goes down to your crotch.
 
 <<speech "style" "''Cherry:''">>
 Ok, cutie, I need you to crouch a little and open your legs. Yeah, just like that. Stay still, baby.<</speech>>
-She goes on the front of your cage. At this moment you feel lucky to have some kind of protection and your penis. But she doesn´t stop there. After shaving the small amount of hair in your tiny balls, she slides the razor further into the perineum.
+She goes on the front of your cage. At this moment you feel lucky to have some kind of protection and your penis. But she doesn't stop there. After shaving the small amount of hair in your tiny balls, she slides the razor further into the perineum.
 
 <<speech "You" "''$name:''">>
 Ooooh!<</speech>>
 <<speech "style" "''Cherry:''">>
-You weren´t expecting that, huh? *smiles* We´ve got to make it smooth and shiny everywhere! Even if you don´t see it, you don´t know who´ll get to...<</speech>>
-After she´s done shaving, you wash the excess foam off with some water. You are surprised by the shiny result. Cherry helps you dry your body and lets you put your clothes on again, so you can warm yourself up.<</if>>
+You weren't expecting that, huh? *smiles* We've got to make it smooth and shiny everywhere! Even if you don't see it, you don't know who'll get to...<</speech>>
+After she's done shaving, you wash the excess foam off with some water. You are surprised by the shiny result. Cherry helps you dry your body and lets you put your clothes on again, so you can warm yourself up.<</if>>
 
 <<speech "style" "''Cherry:''">>
-Anyway, for today´s class we´re going to concentrate on practicality for a change. Because, you know, clothes has to serve a purpose. If you are going to have an active day, you may need clothes that are comfortable enough, but I know you also want to look pretty. So you should take the clothes you want to wear, but have a proper underwear set that supports you during your active life. Here, let me see:<</speech>>
+Anyway, for today's class we're going to concentrate on practicality for a change. Because, you know, clothes has to serve a purpose. If you are going to have an active day, you may need clothes that are comfortable enough, but I know you also want to look pretty. So you should take the clothes you want to wear, but have a proper underwear set that supports you during your active life. Here, let me see:<</speech>>
 Cherry raises your shirt and takes it off.
 
 <<speech "style" "''Cherry:''">>
-See, now this is what I´m talking about... these cuties may need some support.<</speech>>
+See, now this is what I'm talking about... these cuties may need some support.<</speech>>
 <div class="center"><img src="classes/style/tits.gif" width="50%"></div>
 <<speech "You" "''$name:''">>
 What are you talking about??<</speech>>
 <<speech "style" "''Cherry:''">>
 Oh well, you know... these are bigger than they usually are, and they seem to be growing. Have you really not noticed?<</speech>>
 <<speech "You" "''$name:''">>
-(I have... but I thought I was just seeing things... Maybe it´s because of the gym or something??)<</speech>>
+(I have... but I thought I was just seeing things... Maybe it's because of the gym or something??)<</speech>>
 Cherry takes one of your "pecs" and squeezes it. The consistency is not of a muscle, you can certainly tell that...
 
 <<speech "style" "''Cherry:''">>
-See? It´s soft and squishy... it´s sooo sexy, but it can also bother you, especially if it grows even further. So how about you try THIS:<</speech>>
+See? It's soft and squishy... it's sooo sexy, but it can also bother you, especially if it grows even further. So how about you try THIS:<</speech>>
 <<linkreplace "... ...">><img src="clothes/bra1.jpg" width="45%">
 
 <<speech "You" "''$name:''">>
-No way! There´s no way I´m putting that on right now.<</speech>>
+No way! There's no way I'm putting that on right now.<</speech>>
 <<speech "style" "''Cherry:''">>
-C´mon... just let me try it on... pretty please?<</speech>>
+C'mon... just let me try it on... pretty please?<</speech>>
 [[Ok...|Stylingclass][$styleclass to 4]]
 [[No way!|Stylingclass][$styleclass to 5]]<</linkreplace>><<elseif $styleclass is 4>><<speech "You" "''$name:''">>
-Well... ok. But I don´t like it.<</speech>>
+Well... ok. But I don't like it.<</speech>>
 <<speech "style" "''Cherry:''">>
-Oh, I´m sure you don´t, cutie... *giggles*<</speech>>
-Cherry grabs the bra and gets on your back. She puts on the cups on your "pecs" and hook it in an sockingly short amount of time. Although it feels very weird, you have to admit that the bra is helping. You didn´t notice it before, but your growing tits had started weighting you down a little. And the feeling of it comforts you in a way you didn´t expect.
+Oh, I'm sure you don't, cutie... *giggles*<</speech>>
+Cherry grabs the bra and gets on your back. She puts on the cups on your "pecs" and hook it in an sockingly short amount of time. Although it feels very weird, you have to admit that the bra is helping. You didn't notice it before, but your growing tits had started weighting you down a little. And the feeling of it comforts you in a way you didn't expect.
 
 <<speech "style" "''Cherry:''">>
 Soo...?<</speech>>
 <<speech "You" "''$name:''">>
-It´s... (should I tell her the truth?) I don´t mind it.<</speech>>
+It's... (should I tell her the truth?) I don't mind it.<</speech>>
 <<speech "style" "''Cherry:''">>
-Weeeeee! I knew you would like it! Now we´ve got to try much more things, I can´t wait to try everything on you!<</speech>>
+Weeeeee! I knew you would like it! Now we've got to try much more things, I can't wait to try everything on you!<</speech>>
 Cherry playfully grabs your boobs and squeezes them together.
 
 <<speech "style" "''Cherry:''">>
 Mmmm... nice boobs, gurl. Do yourself a favour and buy a fucking bra. *Suddenly take off the bra* This one is mine. I also want to see that next week, so if you want my points, you know what to do. Also, feel free to surprise me with your clothes... I think that shirt and pants are getting a bit old on you too... *wink*<</speech>>
 <<click "Finish" "Deck 2">><<set $womensbuy to 0>><<set $buyunder1 to false>><<set $under to 2>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><<set $bbra to false, $buyunder21 to false, $bgstring to false, $bdress to false, $bnpanties to false, $bleggings to false, $bbikini to true, $bpushup to true, $dress2 to "Active", $badge to $badge +1>><<set $styleclass to 3>><</click>><<elseif $styleclass is 5>><<speech "You" "''$name:''">>
-I don´t have tits! There´s no way I´m wearing that!<</speech>>
+I don't have tits! There's no way I'm wearing that!<</speech>>
 <<speech "style" "''Cherry:''">>
 Are you sure about that... *wiggles your tits again* And your nipples feel harder...<</speech>>
-Cherry grabs your tits and plays with them, pinching your nipples and squeezing them. You can´t recall ever playing with your nipples, but the pleasure that you´re experiencing now is very special. It´s not as intense as masturbating, but it´s really putting you in the mood. You remember last week´s anatomy class, and how one of the three main erogenous spots of women is the nipples.
+Cherry grabs your tits and plays with them, pinching your nipples and squeezing them. You can't recall ever playing with your nipples, but the pleasure that you're experiencing now is very special. It's not as intense as masturbating, but it's really putting you in the mood. You remember last week's anatomy class, and how one of the three main erogenous spots of women is the nipples.
 
 <<speech "You" "''$name:''">>
 Mmm...<</speech>>
 <<speech "style" "''Cherry:''">>
-Hahaha. I know you like it... and you are going to still be telling me that these are not tits? There´s nothing wrong with it! You are just sensitive here, just another thing to play with.<</speech>>
+Hahaha. I know you like it... and you are going to still be telling me that these are not tits? There's nothing wrong with it! You are just sensitive here, just another thing to play with.<</speech>>
 <<speech "You" "''$name:''">>
-I like it, but... I don´t need to wear a bra!<</speech>>
+I like it, but... I don't need to wear a bra!<</speech>>
 Cherry playfully grabs your boobs and squeezes them together.
 
 <<speech "style" "''Cherry:''">>
-Well, I see I can´t force you to do it. But I´m just going to give this bra, just in case you need it. Because, you know, sometimes boobs can bother you. But, just so you know, I expect you to wear it next week, or else you won´t earn any points.<</speech>>
+Well, I see I can't force you to do it. But I'm just going to give this bra, just in case you need it. Because, you know, sometimes boobs can bother you. But, just so you know, I expect you to wear it next week, or else you won't earn any points.<</speech>>
 <<click "Finish" "Deck 2">><<set $womensbuy to 0>><<set $buyunder1 to false>><<set $under to 2>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><<set $bbra to true, $buyunder21 to true, $bgstring to false, $bdress to false, $bnpanties to false, $bleggings to false, $bbikini to true, $bpushup to true, $dress2 to "Active", $badge to $badge +1>><<set $styleclass to 3>><</click>>
 
 

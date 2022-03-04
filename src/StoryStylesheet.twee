@@ -426,9 +426,7 @@ background-attachment:fixed;}
 
 
 #ui-bar {background-color:black;
-background-image:url(backgrounds/uiback.png);
 background-size: cover;
-  border-image-source: url(backgrounds/uiborder.png);
   border-image-slice: 1000;
   border-image-width: 6%;
   border-image-outset: 1;

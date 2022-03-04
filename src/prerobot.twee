@@ -1,5 +1,5 @@
 :: prerobot [noborder noreturn textback] {"position":"1315,1781","size":"100,100"}
-<<removeclass "html">><<addclass "html" "spades">><<if ndef $prerobot>>You reach to your phone like you always do when you masturbate, just to notice that it´s not your phone anymore... There´s not even any pictures you can fap to... Then you notice a red button on the bedside table...
+<<removeclass "html">><<addclass "html" "spades">><<if ndef $prerobot>>You reach to your phone like you always do when you masturbate, just to notice that it's not your phone anymore... There's not even any pictures you can fap to... Then you notice a red button on the bedside table...
 
 <div class="center"><span class="fade-ins"><span class="noshit"><a data-passage="prerobot"><img src="stuff/button.png" width="30%"><<set $prerobot to 0>></a></span><area shape="rect" coords="25,25,75,75" data-passage="prerobot"></span></div>
 <<elseif $prerobot is 0>><<audio "button" play>><span class="pulse"><img src="porn/vrgoggles.png" width="100%"></span>

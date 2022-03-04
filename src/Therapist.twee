@@ -6,17 +6,17 @@ Hi. Please, come in and have a seat.<</speech>>
 You walk in the room and close the door behind you. You go to the big couch in the corner and sit down.
 
 <<speech "psycho" "''Jada:''">>
-Make it feel like if you were home. Lay down if it´s what you want.<</speech>>
+Make it feel like if you were home. Lay down if it's what you want.<</speech>>
 <<speech "You" "''$name:''">>
 Ok...<</speech>>
 <<speech "psycho" "''Jada:''">>
-Nice, isn´t it?<</speech>>
+Nice, isn't it?<</speech>>
 <<speech "You" "''$name:''">>
 Yes... yes it is.<</speech>>
 She seems like the nicest woman on this ship.
 
 <<speech "psycho" "''Jada:''">>
-So, I bet you are wondering if I can be a friend. And you are the one who has to answer to that. I´ll prove to you that I´m here to listen to you. We need to trust one another for the therapy to work better.<</speech>>
+So, I bet you are wondering if I can be a friend. And you are the one who has to answer to that. I'll prove to you that I'm here to listen to you. We need to trust one another for the therapy to work better.<</speech>>
 <<speech "You" "''$name:''">>
 Ok. I- I think you are nice.<</speech>>
 <<speech "psycho" "''Jada:''">>
@@ -25,21 +25,21 @@ Ok. I- I think you are nice.<</speech>>
 [[Size matters?|Therapist][$talkjada1 to 3]]<<elseif $talkjada1 is 1>><<speech "You" "''$name:''">>
 Well, I have- had a girlfriend...<</speech>>
 <<speech "psycho" "''Jada:''">>
-I know, Captain T already told me. But I don´t know the details, tell me more about it. How was your relationship?<</speech>>
+I know, Captain T already told me. But I don't know the details, tell me more about it. How was your relationship?<</speech>>
 <<speech "You" "''$name:''">>
 When we met each other, we thought that we were meant for each other. We talked a lot and kind of fell in love. It was a slow process.<</speech>>
 <<speech "psycho" "''Jada:''">>
 And what do you think made your relation tumble?<</speech>>
 <<speech "You" "''$name:''">>
-I... don´t know...<</speech>>
+I... don't know...<</speech>>
 <<speech "psycho" "''Jada:''">>
 Well, you tell me that you two understood each other, so maybe your problems have its roots in other aspect. How was your sexual activity commonly?<</speech>>
 <<speech "You" "''$name:''">>
 Um...<</speech>>
 <<speech "psycho" "''Jada:''">>
-You can trust me, $name. Don´t worry.<</speech>>
+You can trust me, $name. Don't worry.<</speech>>
 <<speech "You" "''$name:''">>
-We weren´t the most active pair, I guess... But I think when we did it, it was very intimate and special.<</speech>>
+We weren't the most active pair, I guess... But I think when we did it, it was very intimate and special.<</speech>>
 <<speech "psycho" "''Jada:''">>
 Did she ever seem distracted or indifferent?<</speech>>
 Now that you think about it, most of the time you both had sex, she looked like she was falling asleep and she used to be confused wether or not you had "put it in".
@@ -48,32 +48,32 @@ Now that you think about it, most of the time you both had sex, she looked like 
 Yes... most of the time she looks tired. She works a lot and comes home late-<</speech>>
 <<speech "psycho" "''Jada:''">>
 Hmm I see... Have you ever felt her having an orgasm?<</speech>>
-You think about it but you can´t recall her screaming and making those faces you´ve seen in porn.
+You think about it but you can't recall her screaming and making those faces you've seen in porn.
 <<speech "You" "''$name:''">>
-I... don´t know. I think... maybe...<</speech>>
+I... don't know. I think... maybe...<</speech>>
 <<speech "psycho" "''Jada:''">>
-$name, if you can´t tell if she is having an orgasm, she is not having one. If that´s the case, we´ve found the problem. Just like the girls on this ship, your girlfriend has a vagina. Us girls feel pleasure when we get filled up and the clitoris is stimulated. If one of those things is missing, sex may become tedious.
+$name, if you can't tell if she is having an orgasm, she is not having one. If that's the case, we've found the problem. Just like the girls on this ship, your girlfriend has a vagina. Us girls feel pleasure when we get filled up and the clitoris is stimulated. If one of those things is missing, sex may become tedious.
 
-You see, it´s not your fault. But you have to understand that she might need something you can´t give her to be happy.<</speech>>
+You see, it's not your fault. But you have to understand that she might need something you can't give her to be happy.<</speech>>
 <<speech "You" "''$name:''">>
-I... think I understand. It´s not her fault either.<</speech>>
+I... think I understand. It's not her fault either.<</speech>>
 <<speech "psycho" "''Jada:''">>
-Exactly. It´s nobody´s fault. The feminine body is how it is. We have the need to be protected, filled and embraced in order to feel happy. Sex is the best way to say "I love you" to somebody without words.<</speech>>
+Exactly. It's nobody's fault. The feminine body is how it is. We have the need to be protected, filled and embraced in order to feel happy. Sex is the best way to say "I love you" to somebody without words.<</speech>>
 The more you think about it, the more you understand her point.
 
 <<speech "You" "''$name:''">>
 So, what can I do to make her happy?<</speech>>
 <<speech "psycho" "''Jada:''">>
-Well, you have to accept the fact that you can´t give her some things. Then work on the things you CAN. You can give her love, care, comprehension... Embrace her dreams and be with her through the journey.<</speech>>
+Well, you have to accept the fact that you can't give her some things. Then work on the things you CAN. You can give her love, care, comprehension... Embrace her dreams and be with her through the journey.<</speech>>
 <<speech "You" "''$name:''">>
 Hmm...ok. I understand. But how can I work on the...you know... sexual stuff?<</speech>>
 <<speech "psycho" "''Jada:''">>
-What you CAN do is learn how to give good oral sex. We can cum with enough stimulus on the clitoris. It should also be done with a dildo. It´s easy to cum that way.<</speech>>
+What you CAN do is learn how to give good oral sex. We can cum with enough stimulus on the clitoris. It should also be done with a dildo. It's easy to cum that way.<</speech>>
 <<speech "You" "''$name:''">>
-Oh, ok. We´ve only done oral twice... I guess I could do it more, for her.
+Oh, ok. We've only done oral twice... I guess I could do it more, for her.
 <</speech>>
 <<speech "psycho" "''Jada:''">>
-If you do that and support her every decision, she´ll be with you for a long long time. Is there something else, or should we start with the tests?<</speech>>
+If you do that and support her every decision, she'll be with you for a long long time. Is there something else, or should we start with the tests?<</speech>>
 [[Size matters?|Therapist][$talkjada1 to 2]]
 
 [[Tests|Psychotests][$psychotests to 1]]
@@ -83,58 +83,58 @@ These last days have been a nightmare... And I am starting to not feel confident
 That is a normal and good question for a man to ask. To answer it, here is a graph of the desired penis size by women:
 
 <div class="center"><img src="classes/psycho/sqchart.jpg" width="40%"></div>
-As you see, the "enjoyable" mark is way over your size. There are a few methods for growing your penis, although they are only for a maximum of 2 inch growth, which wouldn´t really solve your problem and may have repercussions on the quality of your erections. Are your erections strong right now?<</speech>>
+As you see, the "enjoyable" mark is way over your size. There are a few methods for growing your penis, although they are only for a maximum of 2 inch growth, which wouldn't really solve your problem and may have repercussions on the quality of your erections. Are your erections strong right now?<</speech>>
 <<speech "You" "''$name:''">>
 (Should I be honest...?) Umm... I think they are average... maybe 50% of the time...<</speech>> 
 <<speech "psycho" "''Jada:''">>
-Well then, if you apply any of these methods you might become completely impotent. So, yeah: Size Matters. Is it the only thing that matters? No. A lot of girls break with their big-dicked BF´s beacause they are too cocky. We love big ones, but we also hate assholes.<</speech>>
+Well then, if you apply any of these methods you might become completely impotent. So, yeah: Size Matters. Is it the only thing that matters? No. A lot of girls break with their big-dicked BF's beacause they are too cocky. We love big ones, but we also hate assholes.<</speech>>
 <<speech "You" "''$name:''">>
 I understand...<</speech>>
 <<speech "psycho" "''Jada:''">>
-That´s where you can come in! We love kind and loving men. It´s such a change from our usual Alpha male lovers. But when it comes to having sex, being filled is essential. Does that answer your question?<</speech>>
+That's where you can come in! We love kind and loving men. It's such a change from our usual Alpha male lovers. But when it comes to having sex, being filled is essential. Does that answer your question?<</speech>>
 <<speech "You" "''$name:''">>
-I think it´s clear enough now... (It´s a bit harsh, but makes sense, doesn´t it?)<</speech>>
+I think it's clear enough now... (It's a bit harsh, but makes sense, doesn't it?)<</speech>>
 <<speech "psycho" "''Jada:''">>
-Nice! Now that that´s settled, time for the treatment.<</speech>>
+Nice! Now that that's settled, time for the treatment.<</speech>>
 [[Tests|Psychotests][$psychotests to 1]]<<elseif $talkjada1 is 3>><<speech "You" "''$name:''">>
 These last days have been a nightmare... And I am starting to not feel confident with... my body. Does size really matter to women?<</speech>>
 <<speech "psycho" "''Jada:''">>
 That is a normal and good question for a man to ask. To answer it, here is a graph of the desired penis size by women:
 
 <div class="center"><img src="classes/psycho/sqchart.jpg" width="60%"></div>
-As you see, the "enjoyable" mark is way over your size. There are a few methods for growing your penis, although they are only for a maximum of 2 inch growth, which wouldn´t really solve your problem and may have repercussions on the queality of your erections. Are your erections strong right now?<</speech>>
+As you see, the "enjoyable" mark is way over your size. There are a few methods for growing your penis, although they are only for a maximum of 2 inch growth, which wouldn't really solve your problem and may have repercussions on the queality of your erections. Are your erections strong right now?<</speech>>
 <<speech "You" "''$name:''">>
 (Should I be honest...?) Umm... I think they are average... aybe 50% of the time...<</speech>> 
 <<speech "psycho" "''Jada:''">>
-Well then, if you apply any of these methods you might become completely impotent. So, yeah: Size Matters. Is it the only thing that matters? No. A lot of girls break with their big-dicked BF´s beacause they are too cocky. We love big ones, but we also hate assholes.<</speech>>
+Well then, if you apply any of these methods you might become completely impotent. So, yeah: Size Matters. Is it the only thing that matters? No. A lot of girls break with their big-dicked BF's beacause they are too cocky. We love big ones, but we also hate assholes.<</speech>>
 <<speech "You" "''$name:''">>
 I understand...<</speech>>
 <<speech "psycho" "''Jada:''">>
-That´s where you can come in! We love kind and loving men. It´s such a change from our usual Alpha male lovers. But when it comes to having sex, being filled is essential. Does that answer your question?<</speech>>
+That's where you can come in! We love kind and loving men. It's such a change from our usual Alpha male lovers. But when it comes to having sex, being filled is essential. Does that answer your question?<</speech>>
 <<speech "You" "''$name:''">>
-I think it´s clear enough now... (It´s a bit harsh, but makes sense, doesn´t it?)<</speech>>
+I think it's clear enough now... (It's a bit harsh, but makes sense, doesn't it?)<</speech>>
 <<speech "psycho" "''Jada:''">>
-Nice! Now that that´s settled, time for the treatment.<</speech>>
+Nice! Now that that's settled, time for the treatment.<</speech>>
 <<if $setcuckpath is 1>><<else>>[[$gfname|Therapist][$talkjada1 to 4]]<</if>>
 
 [[Tests|Psychotests][$psychotests to 1]]<<elseif $talkjada1 is 4>><<speech "You" "''$name:''">>
 Well, I have- had a girlfriend...<</speech>>
 <<speech "psycho" "''Jada:''">>
-I know, Captain T already told me. But I don´t know the details, tell me more about it. How was your relationship?<</speech>>
+I know, Captain T already told me. But I don't know the details, tell me more about it. How was your relationship?<</speech>>
 <<speech "You" "''$name:''">>
 When we met each other, we thought that we were meant for each other. We talked a lot and kind of fell in love. It was a slow process.<</speech>>
 <<speech "psycho" "''Jada:''">>
 And what do you think made your relation tumble?<</speech>>
 <<speech "You" "''$name:''">>
-I... don´t know...<</speech>>
+I... don't know...<</speech>>
 <<speech "psycho" "''Jada:''">>
 Well, you tell me that you two understood each other, so maybe your problems have its roots in other aspect. How was your sexual activity commonly?<</speech>>
 <<speech "You" "''$name:''">>
 Um...<</speech>>
 <<speech "psycho" "''Jada:''">>
-You can trust me, $name. Don´t worry.<</speech>>
+You can trust me, $name. Don't worry.<</speech>>
 <<speech "You" "''$name:''">>
-We weren´t the most active pair, I guess... But I think when we did it, it was very intimate and special.<</speech>>
+We weren't the most active pair, I guess... But I think when we did it, it was very intimate and special.<</speech>>
 <<speech "psycho" "''Jada:''">>
 Did she ever seem distracted or indifferent?<</speech>>
 Now that you think about it, most of the time you both had sex, she looked like she was falling asleep and she used to be confused wether or not you had "put it in".
@@ -143,32 +143,32 @@ Now that you think about it, most of the time you both had sex, she looked like 
 Yes... most of the time she looks tired. She works a lot and comes home late-<</speech>>
 <<speech "psycho" "''Jada:''">>
 Hmm I see... Have you ever felt her having an orgasm?<</speech>>
-You think about it but you can´t recall her screaming and making those faces you´ve seen in porn.
+You think about it but you can't recall her screaming and making those faces you've seen in porn.
 <<speech "You" "''$name:''">>
-I... don´t know. I think... maybe...<</speech>>
+I... don't know. I think... maybe...<</speech>>
 <<speech "psycho" "''Jada:''">>
-$name, if you can´t tell if she is having an orgasm, she is not having one. If that´s the case, we´ve found the problem. Just like the girls on this ship, your girlfriend has a vagina. Us girl feel pleasure when we get filled up and the clitoris is stimulated. If one of those things is missing, sex may become tedious.
+$name, if you can't tell if she is having an orgasm, she is not having one. If that's the case, we've found the problem. Just like the girls on this ship, your girlfriend has a vagina. Us girl feel pleasure when we get filled up and the clitoris is stimulated. If one of those things is missing, sex may become tedious.
 
-You see, it´s not your fault. But you have to understand that she might need something you can´t give her to be happy.<</speech>>
+You see, it's not your fault. But you have to understand that she might need something you can't give her to be happy.<</speech>>
 <<speech "You" "''$name:''">>
-I... think I understand. It´s not her fault either.<</speech>>
+I... think I understand. It's not her fault either.<</speech>>
 <<speech "psycho" "''Jada:''">>
-Exactly. It´s nobody´s fault. The feminine body is how it is. We have the need to be protected, filled and embraced in order to feel happy. Sex is the best way to say "I love you" to somebody without words.<</speech>>
+Exactly. It's nobody's fault. The feminine body is how it is. We have the need to be protected, filled and embraced in order to feel happy. Sex is the best way to say "I love you" to somebody without words.<</speech>>
 The more you think about it, the more you understand her point.
 
 <<speech "You" "''$name:''">>
 So, what can I do to make her happy?<</speech>>
 <<speech "psycho" "''Jada:''">>
-Well, you have to accept the fact that you can´t give her some things. Then work on the things you CAN. You can give her love, care, comprehension... Embrace her dreams and be with her through the journey.<</speech>>
+Well, you have to accept the fact that you can't give her some things. Then work on the things you CAN. You can give her love, care, comprehension... Embrace her dreams and be with her through the journey.<</speech>>
 <<speech "You" "''$name:''">>
 Hmm...ok. I understand. But how can I work on the...you know... sexual stuff?<</speech>>
 <<speech "psycho" "''Jada:''">>
-What you CAN do is learn how to give good oral sex. We can cum with enough stimulus on the clitoris. It should also be done with a dildo. It´s easy to cum that way.<</speech>>
+What you CAN do is learn how to give good oral sex. We can cum with enough stimulus on the clitoris. It should also be done with a dildo. It's easy to cum that way.<</speech>>
 <<speech "You" "''$name:''">>
-Oh, ok. We´ve only done oral twice... I guess I could do it more, for her.
+Oh, ok. We've only done oral twice... I guess I could do it more, for her.
 <</speech>>
 <<speech "psycho" "''Jada:''">>
-If you do that and support her every decision, she´ll be with for a long long time. Is there something else, or should we start with the tests?<</speech>>
+If you do that and support her every decision, she'll be with for a long long time. Is there something else, or should we start with the tests?<</speech>>
 [[Tests|Psychotests][$psychotests to 1]]<</if>>
 \\
 <<elseif $jada is 0>><<if ndef $talkjada2>><<speech "psycho" "''Jada:''">>
@@ -176,17 +176,17 @@ If you do that and support her every decision, she´ll be with for a long long t
 <<speech "You" "''$name:''">>
 It is actually being very rough...<</speech>>
 <<speech "psycho" "''Jada:''">>
-Well, for great changes to come, sacrifice is needed $name. Don´t you think that all this hard work could result in a better life for you?<</speech>>
+Well, for great changes to come, sacrifice is needed $name. Don't you think that all this hard work could result in a better life for you?<</speech>>
 <<speech "You" "''$name:''">>
-I don´t see how.<</speech>>
+I don't see how.<</speech>>
 <<speech "psycho" "''Jada:''">>
-Well, the way I see it you´re learning about pleasing women and how the feminine mind works. This could definitely improve the way you interact with women.<</speech>>
+Well, the way I see it you're learning about pleasing women and how the feminine mind works. This could definitely improve the way you interact with women.<</speech>>
 <<speech "You" "''$name:''">>
-(That is right...)Yeah... but this is just too much pressure. There wasn´t a real reason for blackmailing me. I didn´t ask for it...<</speech>>
+(That is right...)Yeah... but this is just too much pressure. There wasn't a real reason for blackmailing me. I didn't ask for it...<</speech>>
 <<speech "psycho" "''Jada:''">>
 I know, $name. I understand. *she leans from her chair and touches your hand*<</speech>>
 <<speech "You" "''$name:''">>
-(She´s being so nice to me, she really does feel my pain...)<</speech>>
+(She's being so nice to me, she really does feel my pain...)<</speech>>
 <<speech "psycho" "''Jada:''">>
 You know what? Take this chance. What do you have to lose? Just learn all you can and enjoy. After the cruise ends you will do whatever you want with your life. Just think about the present, $name. *smiles*<</speech>>
 <<speech "You" "''$name:''">>
@@ -199,45 +199,45 @@ I actually wanted to ask you a few questions about Tara.<</speech>>
 <<speech "psycho" "''Jada:''">>
 Go ahead.<</speech>>
 <<speech "You" "''$name:''">>
-She sometimes seems to be nice to me, but then she just treats me bad, just like everybody else on this ship. I am kind of lost with her, I don´t understand...<</speech>>
+She sometimes seems to be nice to me, but then she just treats me bad, just like everybody else on this ship. I am kind of lost with her, I don't understand...<</speech>>
 <<speech "psycho" "''Jada:''">>
-Well, $name, I can´t talk on Tara´s behalf. But I will tell you that she likes you. A lot.<</speech>>
+Well, $name, I can't talk on Tara's behalf. But I will tell you that she likes you. A lot.<</speech>>
 <<speech "You" "''$name:''">>
 ("Likes" me? What kind of "like"?) What do you mean by "like"? Like as a friend, or...<</speech>>
 <<speech "psycho" "''Jada:''">>
-As I told you before, I´m not a mind reader, $name. But she definitely is fond of you, one way or another. Tara is not an easy woman, not on her feeling at least... if she really cares about you as much as she says, you should feel privileged.<</speech>>
+As I told you before, I'm not a mind reader, $name. But she definitely is fond of you, one way or another. Tara is not an easy woman, not on her feeling at least... if she really cares about you as much as she says, you should feel privileged.<</speech>>
 <<speech "You" "''$name:''">>
-Well... she hasn´t told me that she likes me. And it is true she has told me I looked "cute" a few times the first day we met... But, if she likes me, why is she so bad to me sometimes?<</speech>>
+Well... she hasn't told me that she likes me. And it is true she has told me I looked "cute" a few times the first day we met... But, if she likes me, why is she so bad to me sometimes?<</speech>>
 <<speech "psycho" "''Jada:''">>
 If you ask me, love is not always doing what the other person wants, but doing what they NEED. I think she just thinks she is helping you.<</speech>>
 <<speech "You" "''$name:''">>
 ... ... (maybe she is right...)<</speech>>
 <<speech "psycho" "''Jada:''">>
- *smiles* She might look a bit cold-hearted, $name. But on the inside I assure you she´s all heart. She just doesn´t like exposing it too much. I guess her heart has been broken quite a few times...<</speech>>
-All of the sudden your perception of Tara´s personality take another turn.
+ *smiles* She might look a bit cold-hearted, $name. But on the inside I assure you she's all heart. She just doesn't like exposing it too much. I guess her heart has been broken quite a few times...<</speech>>
+All of the sudden your perception of Tara's personality take another turn.
 
 <<speech "You" "''$name:''">>
 (Maybe she just genuinely cares about me...)<</speech>>
 <<speech "psycho" "''Jada:''">>
-That´s what I can tell you, $name. Just try not to break her feelings. Nobody is as strong as they look...<</speech>>
+That's what I can tell you, $name. Just try not to break her feelings. Nobody is as strong as they look...<</speech>>
 <<speech "You" "''$name:''">>
 Ok...<</speech>>
 <<if $setcuckpath is 1>><<else>><<click "David and $gfname" "Therapist">><<set $talkjada2 to 2>><</click>><</if>>
 
 [[Tests|Psychotests][$psychotests to 2]]<<elseif $talkjada2 is 2>><<speech "You" "''$name:''">>
-I´m actually having a little problem. It´s related to my girlfriend, $gfname.<</speech>>
+I'm actually having a little problem. It's related to my girlfriend, $gfname.<</speech>>
 <<speech "psycho" "''Jada:''">>
-You can tell me, $name. But, excuse my intromission, weren´t you two spending some time apart?<</speech>>
+You can tell me, $name. But, excuse my intromission, weren't you two spending some time apart?<</speech>>
 <<speech "You" "''$name:''">>
 I mean, we... *sigh* yes, we are.<</speech>>
 <<speech "psycho" "''Jada:''">>
-Oh, ok. I´m sorry that I brought that up, I just wanted the communication to be as clear as possible. Tell me about it, $name.<</speech>>
+Oh, ok. I'm sorry that I brought that up, I just wanted the communication to be as clear as possible. Tell me about it, $name.<</speech>>
 <<speech "You" "''$name:''">>
-Well, how do I start... The other day $gfname sent me a message, just to talk to me for a while. But, I don´t know why she told me about this ex, David, that is sending her nudes and all.<</speech>>
+Well, how do I start... The other day $gfname sent me a message, just to talk to me for a while. But, I don't know why she told me about this ex, David, that is sending her nudes and all.<</speech>>
 <<speech "psycho" "''Jada:''">>
 Hm... ok. So how does that make you feel?<</speech>>
 <<if $cucklike is true>><<speech "You" "''$name:''">>
-Well, it´s not like I enjoyed them... Not only that, but she sent me one of his nudes, look:<</speech>>
+Well, it's not like I enjoyed them... Not only that, but she sent me one of his nudes, look:<</speech>>
 <img src="gf/davidselfie1.png" width="50%">
 
 <<speech "psycho" "''Jada:''">>
@@ -245,49 +245,49 @@ Hm... I imagine that must have felt horrible. But can I make you a question? Do 
 <<speech "You" "''$name:''">>
  *sigh* How?<</speech>>
 <<speech "psycho" "''Jada:''">>
-The censor. She must really care about you. Most women love to brag of their lovers, and for her to censor that... She didn´t want you to be jealous.<</speech>>
+The censor. She must really care about you. Most women love to brag of their lovers, and for her to censor that... She didn't want you to be jealous.<</speech>>
 <<speech "You" "''$name:''">>
-C´mon! The censor is a mouth sucking a lollipop! She didn´t care at all. And she even asked me if I wanted to see the image without the censor, and she even sent me one of his videos!<</speech>>
+C'mon! The censor is a mouth sucking a lollipop! She didn't care at all. And she even asked me if I wanted to see the image without the censor, and she even sent me one of his videos!<</speech>>
 <<speech "psycho" "''Jada:''">>
 $name, you need to relax, ok? We can talk about this in a civilized way.
 
-First of all, she asked you. You could have said "no". But you chose to see. That was very honorable of her, you have to admit that. I guess what really burns you inside is the jealousy, isn´t it?<</speech>>
+First of all, she asked you. You could have said "no". But you chose to see. That was very honorable of her, you have to admit that. I guess what really burns you inside is the jealousy, isn't it?<</speech>>
 <<speech "You" "''$name:''">>
-Well, of course I´m jealous... she even stopped talking to me to talk to him. I´m not there for her now and I don´t know what to do...<</speech>>
+Well, of course I'm jealous... she even stopped talking to me to talk to him. I'm not there for her now and I don't know what to do...<</speech>>
 <<speech "psycho" "''Jada:''">>
-Last week you told me that you both have had it hard as a couple. Doesn´t it makes sense for each of you, now that you are taking some time apart, that you rediscover your love for each other?<</speech>>
+Last week you told me that you both have had it hard as a couple. Doesn't it makes sense for each of you, now that you are taking some time apart, that you rediscover your love for each other?<</speech>>
 <<speech "You" "''$name:''">>
 What do you mean by that?<</speech>>
 <<speech "psycho" "''Jada:''">>
 If you really love her, embrace her decisions and her feelings. If you really love her, this will make you happy too.<</speech>>
 <<speech "You" "''$name:''">>
-(I guess if I didn´t talk to her in that jealous way, she would have kept texting me... Maybe if I want her to stick with me, I need to stick with her.) Ok, I think I understand...<</speech>>
+(I guess if I didn't talk to her in that jealous way, she would have kept texting me... Maybe if I want her to stick with me, I need to stick with her.) Ok, I think I understand...<</speech>>
 <<click "Tara" "Therapist">><<set $talkjada2 to 1>><</click>>
 
 [[Tests|Psychotests][$psychotests to 2]]<<elseif $cucklike is false>><<speech "You" "''$name:''">>
-Well, I didn´t like it, at all. She even sent me one of his nudes! Look!<</speech>>
+Well, I didn't like it, at all. She even sent me one of his nudes! Look!<</speech>>
 <img src="gf/davidselfie1.png" width="50%">
 
 <<speech "psycho" "''Jada:''">>
 Hm... I imagine that must have felt horrible. But can I make you a question? Do you know how I know that she loves you?<</speech>>
 <<speech "You" "''$name:''">>
- *sigh* She doesn´t love me! If she really loved me, she wouldn´t be accepting these nudes from her ex-boyfriend! C´mon! The censor is a mouth sucking a lollipop! She didn´t care at all. And she even asked me if I wanted to see the image without the censor!!<</speech>>
+ *sigh* She doesn't love me! If she really loved me, she wouldn't be accepting these nudes from her ex-boyfriend! C'mon! The censor is a mouth sucking a lollipop! She didn't care at all. And she even asked me if I wanted to see the image without the censor!!<</speech>>
 <<speech "psycho" "''Jada:''">>
 $name, you need to relax, ok? We can talk about this in a civilized way.
 
 First of all, she asked you. She gave you the chance. You chose not to see it, which makes you seem more dominant in the relationship. But let me ask you something. Do you really think that being jealous is going to win her over?<</speech>>
 <<speech "You" "''$name:''">>
-It´s not like I think that jealousy will win her over, but she needs to see that there are limits. I´m her boyfriend!<</speech>>
+It's not like I think that jealousy will win her over, but she needs to see that there are limits. I'm her boyfriend!<</speech>>
 <<speech "psycho" "''Jada:''">>
-$name, you keep forgetting that you are not together right now. She is free as much as you are. Haven´t you been doing things around here that she wouldn´t approve?<</speech>>
+$name, you keep forgetting that you are not together right now. She is free as much as you are. Haven't you been doing things around here that she wouldn't approve?<</speech>>
 <<speech "You" "''$name:''">>
 Well, yes. But everything has been forced onto me, I-<</speech>>
 <<speech "psycho" "''Jada:''">>
-$name... It is really the same. She is not asking for those nudes, but she is getting them. You aren´t asking for your classes either.
+$name... It is really the same. She is not asking for those nudes, but she is getting them. You aren't asking for your classes either.
 
 The real difference is that SHE is telling you the TRUTH, while you are hiding it.<</speech>>
 <<speech "You" "''$name:''">>
-...(Damnit, she´s right. If I tell $gfname about everything that´s happened here, the relationship would be over...)
+...(Damnit, she's right. If I tell $gfname about everything that's happened here, the relationship would be over...)
 
 I guess I just overreacted...<</speech>>
 <<speech "psycho" "''Jada:''">>
@@ -308,29 +308,29 @@ So, tell me. Is there something you would like to talk about?<</speech>>
 <<click "Nudist beach" "Therapist">><<set $talkjada3 to 2>><</click>>
 
 [[Tests|Psychotests][$psychotests to 3]]<<elseif $talkjada3 is 1>><<speech "You" "''$name'':">>
-Yes... I don´t know how to explain this, but... during the last week I´ve been having some weird thoughts...<</speech>>
+Yes... I don't know how to explain this, but... during the last week I've been having some weird thoughts...<</speech>>
 <<speech "psycho" "''Jada:''">>
 Hm, interesting... Tell me more about it.<</speech>>
 <<speech "You" "''$name'':">>
-Well... it all started after we set sail from La Rochelle. It´s like sometimes I don´t think as... me.<</speech>>
+Well... it all started after we set sail from La Rochelle. It's like sometimes I don't think as... me.<</speech>>
 <<speech "psycho" "''Jada:''">>
 What do you mean by that? Is it like another person, or do you identify as the one having those thoughts?<</speech>>
 <<speech "You" "''$name'':">>
-It´s more like the second option. It´s not like I´m going crazy...<</speech>>
+It's more like the second option. It's not like I'm going crazy...<</speech>>
 <<speech "psycho" "''Jada:''">>
 Hm... *write, write* Well, do these thoughts come during a specific situation?<</speech>>
 <<speech "You" "''$name'':">>
-Um, it´s hard to say in retrospective, but it usually happens when I´m confronted with an uncommon situation.<</speech>>
+Um, it's hard to say in retrospective, but it usually happens when I'm confronted with an uncommon situation.<</speech>>
 <<speech "psycho" "''Jada:''">>
 And what are these thoughts usually about?<</speech>>
 You know exactly what those thoughts are about. They are about sex or what you would consider sexy. But you feel ashamed to admit it in front of her, beacause you know what will be the next question.
 
 <<speech "psycho" "''Jada:''">>
-Hey, $name, listen: I can´t help you if you insist to keep secrets from me. I need you to talk to me so I can help you.<</speech>>
+Hey, $name, listen: I can't help you if you insist to keep secrets from me. I need you to talk to me so I can help you.<</speech>>
 <<speech "You" "''$name'':">>
-(Ugh... I guess she´s right... What harm can it do me anyway...) Well, the thoughts are always about sex.<</speech>>
+(Ugh... I guess she's right... What harm can it do me anyway...) Well, the thoughts are always about sex.<</speech>>
 <<speech "psycho" "''Jada:''">>
-Huh, interesting. I guess that´s normal for a boy your age. Could you be more specific about the content of those "thoughts"?<</speech>>
+Huh, interesting. I guess that's normal for a boy your age. Could you be more specific about the content of those "thoughts"?<</speech>>
 Aaaand THAT is the question you feared...
 
 <<speech "You" "''$name'':">>
@@ -342,13 +342,13 @@ They are not as manly as they were before... *ehem*<</speech>>
 <<speech "psycho" "''Jada:''">>
 Oh, I see... could you be more specific?<</speech>>
 <<speech "You" "''$name'':">>
-They´re about... (god this is difficult) ...clothing, women... <span class="pink">(penises...)</span><</speech>>
+They're about... (god this is difficult) ...clothing, women... <span class="pink">(penises...)</span><</speech>>
 <<speech "psycho" "''Jada:''">>
-If there is one thing that is common for boys your age and ethnicity is experimenting with girl´s clothes. And as you are being deprived of sexual intercourse, I guess you must be very horny...
+If there is one thing that is common for boys your age and ethnicity is experimenting with girl's clothes. And as you are being deprived of sexual intercourse, I guess you must be very horny...
 
-Look, $name, this is not something you should worry about. You are not developing some kind of double personality or alter ego. This is just you discovering a whole other part of yourself you weren´t aware of yet! You should take as a self-discovery journey of your feminine side, because that´s what it is. *smile*<</speech>>
+Look, $name, this is not something you should worry about. You are not developing some kind of double personality or alter ego. This is just you discovering a whole other part of yourself you weren't aware of yet! You should take as a self-discovery journey of your feminine side, because that's what it is. *smile*<</speech>>
 <<speech "You" "''$name'':">>
-(Hum... that´s a nice way to see it, I guess...) Thanks, that was helpful, Jada.<</speech>>
+(Hum... that's a nice way to see it, I guess...) Thanks, that was helpful, Jada.<</speech>>
 <<click "Nudist beach" "Therapist">><<set $talkjada3 to 2>><</click>>
 
 [[Tests|Psychotests][$psychotests to 3]]
@@ -357,14 +357,14 @@ I wanted to talk to you about this last weekend visit to Barcelona.<</speech>>
 <<speech "psycho" "''Jada:''">>
 Oh, you got to wander around, huh? I had some work to do, so I could just go out for a short walk. How was it?<</speech>>
 <<speech "You" "''$name'':">>
-Well, first of all, I couldn´t "wander around". Tara gave me 3 flyers and I had to give them away.<</speech>>
+Well, first of all, I couldn't "wander around". Tara gave me 3 flyers and I had to give them away.<</speech>>
 <<speech "psycho" "''Jada:''">>
-Oh, were those the "favour flyers"? I presented that idea to the Captain last year, you know? As a marketing strategy it´s fantastic, don´t you think?<</speech>>
+Oh, were those the "favour flyers"? I presented that idea to the Captain last year, you know? As a marketing strategy it's fantastic, don't you think?<</speech>>
 <<speech "You" "''$name'':">>
-I think the idea is good, but... it´s a problem for the one who has to do it... specially if I´m on a nudist beach. Everybody is naked there! So when I say "favour" people inmediately get the wrong idea!<</speech>>
+I think the idea is good, but... it's a problem for the one who has to do it... specially if I'm on a nudist beach. Everybody is naked there! So when I say "favour" people inmediately get the wrong idea!<</speech>>
 <<speech "psycho" "''Jada:''">>
-Well, I think that the perfect place to do it. It´s even more shocking there, so it stays in their minds and they usually will contact the company. But anyway, tell me your experience...<</speech>>
-You really don´t know where to start, since the entirety of the trip was surreal...
+Well, I think that the perfect place to do it. It's even more shocking there, so it stays in their minds and they usually will contact the company. But anyway, tell me your experience...<</speech>>
+You really don't know where to start, since the entirety of the trip was surreal...
 
 <<speech "You" "''$name'':">>
 There was this <span class="pink">hot nude lifeguard</span> slacking off and I had to buy some sun cream so he would go back to his place, but intead he fucked his blonde teen apprentice right in front of me...
@@ -373,9 +373,9 @@ There was also a pervert sneaking behind the bushes and jacking off his <span cl
 
 But what had the most impact on me was... the cuckold couple...<</speech>>
 <<speech "psycho" "''Jada:''">>
-Hahaha! Wow, you really are passionate about these things. Sound like you had fun, although doesn´t sound like you actively participated much...<</speech>>
+Hahaha! Wow, you really are passionate about these things. Sound like you had fun, although doesn't sound like you actively participated much...<</speech>>
 <<speech "You" "''$name'':">>
-That´s why I left this story for last...
+That's why I left this story for last...
 
 In short, I just saw a wife cuckold her husband with a black man and use me as a role model for the husband to follow.<</speech>>
 <<speech "psycho" "''Jada:''">>
@@ -394,7 +394,7 @@ A flashback hits you:
 <<speech "You" "''$name'':">>
 ... *sigh* <span class="pink">yes...</span><</speech>>
 <<speech "psycho" "''Jada:''">>
-I see it´s difficult for you to "swallow" the experience, so how about you describe the feeling of it, as well as the taste. Go on...<</speech>>
+I see it's difficult for you to "swallow" the experience, so how about you describe the feeling of it, as well as the taste. Go on...<</speech>>
 You can feel how the tension in the air is growing. She is definitely getting off to this story, but so are you. Just by remembering the situation your clitty is engorging.
 
 <<speech "You" "''$name'':">>
@@ -403,36 +403,36 @@ He was... not gentle with his words... and... the smell was <span class="pink">s
 Unique? You were describing it so well, but unique is a very ambiguous term... explain yourself.<</speech>>
 <<speech "You" "''$name'':">>
 If I had to describe the taste it would be... <span class="pink">salty and sweet... it was complex and the texture was sticky...</span><</speech>>
-You can see exactly what the next question is going to be and you don´t want it, because you already know, deep inside, the answer.
+You can see exactly what the next question is going to be and you don't want it, because you already know, deep inside, the answer.
 
 <<speech "psycho" "''Jada:''">>
 And did you like it?<</speech>>
 <<speech "You" "''$name'':">>
 I... <span class="pink">liked it...</span><</speech>>
 <<speech "psycho" "''Jada:''">>
-You shouldn´t be ashamed of what you like, $name. I like it too. Sexual fluids are sexy, especially if they come from a potent black man´s cock.<</speech>>
+You shouldn't be ashamed of what you like, $name. I like it too. Sexual fluids are sexy, especially if they come from a potent black man's cock.<</speech>>
 She talks a bit too clearly for your liking, it never ceases to amaze you.
 
 <<speech "psycho" "''Jada:''">>
 So, to wrap this story up, what you need to learn is:
 
--Don´t close yourself from ''new experiences''. You might be surprised of how much you can like it.
+-Don't close yourself from ''new experiences''. You might be surprised of how much you can like it.
 
--You were somebody´s ''role model''. That means somebody out there, probably lots of men are jealous of what you are learning here and who you are becoming as a person. Embrace yourself, always, $name.<</speech>>
+-You were somebody's ''role model''. That means somebody out there, probably lots of men are jealous of what you are learning here and who you are becoming as a person. Embrace yourself, always, $name.<</speech>>
 <<elseif $cuckybeach is 2>><<speech "You" "''$name'':">>
-After that, they asked me to suck his penis clean... but I refused. I sold the husband out and he had to do it... it´s his wife after all...<</speech>>
+After that, they asked me to suck his penis clean... but I refused. I sold the husband out and he had to do it... it's his wife after all...<</speech>>
 <<speech "psycho" "''Jada:''">>
-Well, that wasn´t the ending I expected, but I guess you want what you want. Me myself would´ve sucked him. And I think you sould have too. If you think of it, the husband hasn´t had any training like you have, and he is just a vanilla guy suddenly having to go through all that... The poor guy must really love her... but I always say it: progression is key.<</speech>>
+Well, that wasn't the ending I expected, but I guess you want what you want. Me myself would've sucked him. And I think you sould have too. If you think of it, the husband hasn't had any training like you have, and he is just a vanilla guy suddenly having to go through all that... The poor guy must really love her... but I always say it: progression is key.<</speech>>
 <<speech "You" "''$name'':">>
-I know... but it´s not my problem, you know? I didn´t ask to be dragged into their problems... and I was doing the favour to the wife, so if anything, I did right.<</speech>>
+I know... but it's not my problem, you know? I didn't ask to be dragged into their problems... and I was doing the favour to the wife, so if anything, I did right.<</speech>>
 <<speech "psycho" "''Jada:''">>
-That´s a way of keeping your consciousness clean. Good for you. But what´s really important is: did you have fun?<</speech>>
+That's a way of keeping your consciousness clean. Good for you. But what's really important is: did you have fun?<</speech>>
 <<speech "You" "''$name'':">>
 Well... I was recording a sex session, so it was kind of fun... <span class="pink">(and hot...)</span><</speech>>
 <<speech "psycho" "''Jada:''">>
 So you really prefer to watch from away than participating?<</speech>>
 <<speech "You" "''$name'':">>
-Not necessarily... I just did that there because it was a weird request and I wasn´t going to suck his penis... I´m not...gay...<</speech>>
+Not necessarily... I just did that there because it was a weird request and I wasn't going to suck his penis... I'm not...gay...<</speech>>
 <<speech "psycho" "''Jada:''">>
 You had a chance of having some kind of intercourse and you decided not to and kept recording. That is a decision not many would make, specially if you take into account that these were unknown people. They are not judging you. You specifically decided not to participate and just record.
 

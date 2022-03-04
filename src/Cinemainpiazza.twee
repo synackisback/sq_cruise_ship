@@ -2,7 +2,7 @@
 <<if ndef $cinema>><<removeclass "html">><<addclass "html" "rome">><<audio "rome" volume 0.4 play loop>><div class="center"><span class="fade-ins"><img src="dockings/rome/cinemaday.jpg" width="60%"></span></div>
 
 <<speech "You" "''$name'':">>
-(They play movies in the main square, but I guess it´s not ready yet... They are putting everything together for tonight.)<</speech>>
+(They play movies in the main square, but I guess it's not ready yet... They are putting everything together for tonight.)<</speech>>
 [[Roam around|Cinema in piazza][$cinema to 0]]
 [[Return|Street1]]
 

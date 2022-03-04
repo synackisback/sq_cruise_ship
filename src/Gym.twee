@@ -2,13 +2,13 @@
 <<removeclass "html">><<addclass "html" "gym">><<audio "ship" mute>><<audio "gym" volume 0.2 loop play>><<if $gym is 0>><img src="classes/rae/rae1.jpg" width="70%">
 
 <<speech "rae" "''Rae:''">>
-Hi. My name is Rae. I´m the trainer of this gym. You are going to follow a women exercise routine, just as everyone else, lets see if you can do that. I´ll be clear: I´m not into all this lesson shit, specially with a beta like you.
+Hi. My name is Rae. I'm the trainer of this gym. You are going to follow a women exercise routine, just as everyone else, lets see if you can do that. I'll be clear: I'm not into all this lesson shit, specially with a beta like you.
 
-So welcome, bitch, welcome to your worst nightmare. You are a fucking worm. I´m going to make a real man out of you. When I´m done with you you´ll have full control over your body and you´ll at least look like a decent human being. I´ll talk to Holli, the chef, to make sure you follow a proper low-calorie diet.
+So welcome, bitch, welcome to your worst nightmare. You are a fucking worm. I'm going to make a real man out of you. When I'm done with you you'll have full control over your body and you'll at least look like a decent human being. I'll talk to Holli, the chef, to make sure you follow a proper low-calorie diet.
 
-This is not going to be easy, but I´ll make sure you do it. Don´t tempt my temper, little boy. I also suppose you don´t have a proper outfit for training, so I´ll make sure to leave one in your room for tomorrow.
+This is not going to be easy, but I'll make sure you do it. Don't tempt my temper, little boy. I also suppose you don't have a proper outfit for training, so I'll make sure to leave one in your room for tomorrow.
 
-This week we´ll be working on getting rid of that excess fat, and resistance running. Your training will only consist in 2 hours of treadmill walk. After that we´ll take it up from there. But PLEASE, go ahead and skip this class. That way I don´t have to give you any points and I can give you a good spanking at the end of the week. Do me a favor and skip it. But now that you´re here, get to it! NOW!<</speech>>
+This week we'll be working on getting rid of that excess fat, and resistance running. Your training will only consist in 2 hours of treadmill walk. After that we'll take it up from there. But PLEASE, go ahead and skip this class. That way I don't have to give you any points and I can give you a good spanking at the end of the week. Do me a favor and skip it. But now that you're here, get to it! NOW!<</speech>>
 <<speech "You" "''$name:''">>
 But... I don't have a tracksuit or-<</speech>>
 <<speech "rae" "''Rae:''">>
@@ -21,11 +21,11 @@ Just go to the locker room, you'll find an extra one there. Put it on and come b
 <<elseif $gym is 2>><img src="classes/rae/rae1.jpg" width="70%">
 
 <<speech "rae" "''Rae:''">>
-Hi there, so I see you can still walk. I´ll take care of that this week, hehe...
+Hi there, so I see you can still walk. I'll take care of that this week, hehe...
 
-Working out is not only about losing fat, but also pumping up those muscles. I´m going to put you on a strict training of abs and glutes. Most of the exercises will still be cardio-based, but you´ll also develop some muscle, if your diet is high on protein and calories, so you better treat Holli right! For most people that works, but I don´t know how your body will react, you wimp! See these puppies? *flexes her biceps* These are all hard work! If you want this, you better work it.
+Working out is not only about losing fat, but also pumping up those muscles. I'm going to put you on a strict training of abs and glutes. Most of the exercises will still be cardio-based, but you'll also develop some muscle, if your diet is high on protein and calories, so you better treat Holli right! For most people that works, but I don't know how your body will react, you wimp! See these puppies? *flexes her biceps* These are all hard work! If you want this, you better work it.
 
-Go find your fucking tracksuit at the locker room, bitch. Now just go and start with your session. Don´t bother me, I´m busy.<</speech>>
+Go find your fucking tracksuit at the locker room, bitch. Now just go and start with your session. Don't bother me, I'm busy.<</speech>>
 [[Go to the locker room|Changing room 2]]
 <<elseif $gym is 3>><img src="places2/gym.jpg" width="70%">
 
@@ -34,30 +34,30 @@ Go find your fucking tracksuit at the locker room, bitch. Now just go and start 
 <<elseif $gym is 4>><img src="places2/gym.jpg" width="70%">
 
 <<speech "rae" "''Rae:''">>
-Huh? You´re still here? I thought you might´ve given up by now... Maybe you´re not as much of a wussy as I thought. Let´s take a look a your body results for these two weeks:<</speech>>
+Huh? You're still here? I thought you might've given up by now... Maybe you're not as much of a wussy as I thought. Let's take a look a your body results for these two weeks:<</speech>>
 <<if $fit lt 7>><<speech "rae" "''Rae:''">>
-You´ve only done some cardio and the effects are barely noticeable on your body. *walks around*
+You've only done some cardio and the effects are barely noticeable on your body. *walks around*
 
 I am paid for helping people achieve RESULTS, and although I am against unhealthy methods I am willing to use them on you. What I am NOT willing to do is lose my reputation due to your lack of competence.<</speech>>
 <<speech "You" "''$name:''">>
 What do you mean by that?<</speech>>
 <<speech "rae" "''Rae:''">>
- *smile* You know... if the change doesn´t come from the inside it might as well come from the outside... *imitates a scissor with her fingers*<</speech>>
+ *smile* You know... if the change doesn't come from the inside it might as well come from the outside... *imitates a scissor with her fingers*<</speech>>
 <<speech "You" "''$name:''">>
  *gulp*<</speech>>
 <<speech "rae" "''Rae:''">>
-So, if you don´t want that, from now on I expect you to complete your routine every morning, or I will come for you and take you out of any other class for it. I don´t give a damn. Get your fucking "tracksuit" or whatever and start training already!<</speech>>
+So, if you don't want that, from now on I expect you to complete your routine every morning, or I will come for you and take you out of any other class for it. I don't give a damn. Get your fucking "tracksuit" or whatever and start training already!<</speech>>
 [[Go to the locker room|Changing room 2]]
 <<else>><<speech "rae" "''Rae:''">>
-You´ve really done some work on your body and some changes have ocurred. Congratulations. But we are not here to enjoy ourselves, leave that for your free time. This week you will choose one part of your body and concentrate on it. Don´t worry about recuperation, I will talk to Holli about the importance of your nutrition, especially this week.
+You've really done some work on your body and some changes have ocurred. Congratulations. But we are not here to enjoy ourselves, leave that for your free time. This week you will choose one part of your body and concentrate on it. Don't worry about recuperation, I will talk to Holli about the importance of your nutrition, especially this week.
 
 Also, running a gym is tough, even this one. So a little help would be appreciated<</speech>>
 <<speech "You" "''$name:''">>
 (Is she asking for my help...?)<</speech>>
 <<speech "rae" "''Rae:''">>
-If you finish your training and are feeling capable, I´ll be there at my personal training room with some chores for you.<</speech>>
+If you finish your training and are feeling capable, I'll be there at my personal training room with some chores for you.<</speech>>
 <<speech "You" "''$name:''">>
-Um... ok (This bitch doesn´t deserve my help, <span class="pink">but she needs me...</span>)<</speech>>
+Um... ok (This bitch doesn't deserve my help, <span class="pink">but she needs me...</span>)<</speech>>
 <<speech "rae" "''Rae:''">>
 Now decide in which body parts are you going to focus your training this week and go for it already!
 
@@ -83,7 +83,7 @@ Today we're going to change the dynamic, we don't want you to burn you out to th
 My... goals?<</speech>>
 <<speech "rae" "''Rae:''">>
 Yeah, are you deaf? Your goals. Don't make me repeat myself. Now come with me.<</speech>>
-[[Follow her|Go to Rae´s office][$raeoffice to 4]]
+[[Follow her|Go to Rae's office][$raeoffice to 4]]
 
 \\<<elseif $gym is 7>><img src="classes/rae/rae1.jpg" width="50%">
 
@@ -105,7 +105,7 @@ She comes closer to you, pinching your body in different places as you try to th
 
 <<speech "You" "''$name:''">>
 Ouch...<</speech>>
-[[Follow her|Go to Rae´s office][$raeoffice to 5]]<</linkreplace>>
+[[Follow her|Go to Rae's office][$raeoffice to 5]]<</linkreplace>>
 
 
 
@@ -174,7 +174,7 @@ Rae pinches you hard all around your body, trying to play a bit.
 
 <<speech "You" "''$name:''">>
 Ouch...<</speech>>
-[[... ...|Go to Rae´s office][$raeoffice to 6]]<</linkreplace>>
+[[... ...|Go to Rae's office][$raeoffice to 6]]<</linkreplace>>
 
 
 
@@ -277,7 +277,7 @@ I guess you could try your luck at the "Goodies Store". The bartender is usually
 <<speech "You" "''$name'':">>
 (Well, I don't. But that's a nice clue.)<</speech>><<set $proteinquest to "Active", $badge to $badge +1, $quest13 to 0>>
 
-[[Go to Rae´s office][$raeoffice to 7]]
+[[Go to Rae's office][$raeoffice to 7]]
 
 
 
@@ -317,7 +317,7 @@ You can also see the ''white young man'' looking at you, waiting for his shakes.
 <<speech "You" "''$name'':">>
 (Right! I should remember to take his protein shakes from the Goodies Store).<</speech>>
 [[Exercise first|Start training][$training to random(14,16)]]
-[[Go to Rae´s office][$raeoffice to 7]]<</if>>
+[[Go to Rae's office][$raeoffice to 7]]<</if>>
 
 
 
@@ -344,6 +344,6 @@ Oh, fuck... <span class="pink">Should I go...? hmm...</span><</speech>>
 You can see Zasha and Rae waiting for you on Rae's office door. You can either train first and then go to their class, or skip the training and just go to class.
 
 [[Exercise first|Start training][$training to random(14,16)]]
-[[Go to Rae´s office][$raeoffice to 7]]<</if>><</if>><<audio "menus" stop>>
+[[Go to Rae's office][$raeoffice to 7]]<</if>><</if>><<audio "menus" stop>>
 
 

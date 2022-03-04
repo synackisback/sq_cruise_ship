@@ -1,11 +1,11 @@
 :: StoryInit [textback] {"position":"103,4","size":"100,100"}
-Before we get started, let´s get the names right:
+Before we get started, let's get the names right:
 
 <<ispeech "Youi" "">>
 ♂︎ You: <<textbox "$name" "Alex">><</ispeech>><<ispeech "mikei" "">>
 ♂︎ Friend: <<textbox "$fname" "Steve">><</ispeech>><<ispeech "gfdi" "">>
 ♀︎ GF: <<textbox "$gfname" "Remy">><</ispeech>><<ispeech "lanadi" "">>
-♀︎ GF´s friend: <<textbox "$gffname" "Lana">><</ispeech>>
+♀︎ GF's friend: <<textbox "$gffname" "Lana">><</ispeech>>
 
 [[Go!|Introduction]]
 <<nobr>><<set $phoni to 0>><<set $lust to 0, $stress to 0>><<set $fit to 0, $fem to 0, $int to 0, $sub to 0>><<set $kitchen to 1>><<set $suntan to 0>><<set $officedoc to 0>><<set $lab to 0>><<set $stage to 0>><<set $carcock to 0>><<set $noshit to true>><<set $calendario to true>><<set $phonefriend to false>><<set $Callfriend2 to false>><<set $alreadyshowered to false>><<set $library to 0>><<set $arrival to false>><<set $wardrobe to false>><<set $dos to 4>><<set $massage to true>><<set $logstart to true>><<set $profileState to 0>><<initInv>>

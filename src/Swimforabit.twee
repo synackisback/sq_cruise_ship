@@ -6,14 +6,14 @@ You are lucky and find yourself alone. You give the pool a few laps.<<addmins 30
 <div class="center"><span class="pulse"><span class="notplus">STRESS -20%</span></span></div>
 [[Return|Spa pool][$inpool to 1]]<<elseif $inpool is 1>><<if ndef $mutefx>><<audio "splash" play>><<else>><</if>><img src="places2/spadive.jpg" width="60%">
 
-The pool seems empty so you decide to swim for a while. As you get into the pool you notice some bubbles appearing on the other side. You try to get closer so you can watch what´s going on.
+The pool seems empty so you decide to swim for a while. As you get into the pool you notice some bubbles appearing on the other side. You try to get closer so you can watch what's going on.
 
 Suddenly, you feel your swimming trunks being sucked down.
 
 <img src="places2/takeofftrunks.gif" width="50%">
 
 <<speech "You" "''You:''">>
-(Oh, shit! I´m naked!)<</speech>>
+(Oh, shit! I'm naked!)<</speech>>
 <<speech "nobody" "''???:''">>
 Are you looking for this? *shakes your trunks*<</speech>>
 <img src="passengers/poolgirl.jpg" width="50%">
@@ -25,29 +25,29 @@ Um... *your cheeks are as red as they can be*<</speech>>
 The woman starts getting closer to you.
 
 <<speech "nobody" "''???:''">>
-You know, it´s against the rules for boys to get into the pool naked. We use to let that rule slide for most men, but for you... well...<</speech>>
+You know, it's against the rules for boys to get into the pool naked. We use to let that rule slide for most men, but for you... well...<</speech>>
 She get closer and closer. Your heart is punding fast as you take small steps back, trying to get away from this woman. You can feel your freed small cock getting hard as a rock at the sight of this powerful woman.
 
 <<speech "nobody" "''???:''">>
 What would Captain T say if she knew you broke another rule... *tsk, tsk*<</speech>>
 <<speech "You" "''You:''">>
-Please... give it back, I didn´t mean to bother y-<</speech>>
+Please... give it back, I didn't mean to bother y-<</speech>>
 <<speech "nobody" "''???:''">>
-Hahaha! You´re not getting out of this that easily. I´m keeping this *she lifts you trunks*. If you really want to swim at this pool you´ll better wear something more suitable for your... assets.<</speech>>
-She suddenly grabs your hard cock with her whole hand. Her grip is as tight as a snake´s.
+Hahaha! You're not getting out of this that easily. I'm keeping this *she lifts you trunks*. If you really want to swim at this pool you'll better wear something more suitable for your... assets.<</speech>>
+She suddenly grabs your hard cock with her whole hand. Her grip is as tight as a snake's.
 
 <<speech "nobody" "''???:''">>
-My god... it doesn´t even fill my hand... *she pushes you back* Get out of the pool.<</speech>><<addmins 30>>
+My god... it doesn't even fill my hand... *she pushes you back* Get out of the pool.<</speech>><<addmins 30>>
  *You lost your trunks*
  
 [[Return|Spa pool][$inpool to 2, $bswim to false]]<<elseif $inpool is 2>><<addmins 30>><<set $stress to $stress -20>>You put your <<if $ssuit is 1>>women swimsuit on. It is tight around the edges, especially down your crotch<<if $cage is true>>, which only makes your cage more apparent.<<else>>, which outlines your small dick and balls more that you would like.<</if>><<elseif $ssuit is 2>>bikini. Although the lower part feels tighter than usual, it is not much different from wearing your panties. <<if $fem lt 15>>But the upper part still feel very strange to wear...<<else>>The upper part feels different than a bra would, but it is not making you uncomfortable.<</if>><</if>>
 
-Thankfully, nobody´s here.
+Thankfully, nobody's here.
 
 <<if $fem lt 15>><<speech "You" "''You:''">>
 (Shit, that girl is not here. I could have just worn my normal swimming trunks...)<</speech>><<else>><<speech "You" "''You:''">>
 (No one, really? *sigh* No one will see <span class="pink">my beautiful bikini...</span>)<</speech>><</if>>
-Anyhow, you decide to go into the pool. You´re already here anyway.
+Anyhow, you decide to go into the pool. You're already here anyway.
 
 <<if ndef $mutefx>><<audio "splash" play>><<else>><</if>><img src="places2/spadive.jpg" width="60%">
 
@@ -56,15 +56,15 @@ As you get into the pool you notice some bubbles appearing on the other side:
 <<linkreplace "... ...">><img src="passengers/poolgirl2.jpg" width="50%">
 
 <<speech "nobody" "''???:''">>
-Hey... so you finally have a proper outfit for the pool, huh? Then I suppose I won´t have to tell Captain T. Rules are for breaking them, aren´t they?<</speech>>
+Hey... so you finally have a proper outfit for the pool, huh? Then I suppose I won't have to tell Captain T. Rules are for breaking them, aren't they?<</speech>>
 She smiles devilishly and starts going closer to you. As you remember the way she choked your dick the last time, you back out, but she is somehow quicker and gets to you before you can get out.
 
 <<speech "nobody" "''???:''">>
-Hm... <<if $cage is true>>Nice... justice has been done. This must be Tara´s work, huh? *taps your cage* She really is something, isn´t she? *smiles*<<else>>That´s right! I want your dick strapped tight under that <<if $ssuit is 1>>swimming suit. No free small dicks in the pool!<<elseif $ssuit is 2>>bikini... it´s also a nice touch that you´re wearing the top part, I like it... although your boobs may not be filling it enough...<</if>><</if>><</speech>>
+Hm... <<if $cage is true>>Nice... justice has been done. This must be Tara's work, huh? *taps your cage* She really is something, isn't she? *smiles*<<else>>That's right! I want your dick strapped tight under that <<if $ssuit is 1>>swimming suit. No free small dicks in the pool!<<elseif $ssuit is 2>>bikini... it's also a nice touch that you're wearing the top part, I like it... although your boobs may not be filling it enough...<</if>><</if>><</speech>>
 With a swift move, she gets out of the way and gets out of the pool.
 
 <<speech "nobody" "''Lifeguard:''">>
-I´ll be watching you, it´s my job after all.<</speech>>
+I'll be watching you, it's my job after all.<</speech>>
 <<speech "You" "''You:''">>
 (Oh... so SHE is the lifeguard. I was wondering if these pools had some vigilance)<</speech>>
 You can swim again now.
@@ -80,11 +80,11 @@ You give the pool a few laps. When you are about to get out, you decide to dive 
 Scared, you get your head out of the water as fast as you can.
 
 <<speech "nobody" "''Lifeguard:''">>
-Heh... don´t be scared... I don´t bite. You can keep on swimming. You have a very elegant style, although it could use some classes.<</speech>>
+Heh... don't be scared... I don't bite. You can keep on swimming. You have a very elegant style, although it could use some classes.<</speech>>
 <span class="fade-ins"><img src="passengers/poolgirl3.jpg" width="50%"></span>
 
 <<speech "You" "''$name:''">>
-(She is very creepy... I didn´t notice she was IN the pool until now, wtf...) Um... thanks.<</speech>>
+(She is very creepy... I didn't notice she was IN the pool until now, wtf...) Um... thanks.<</speech>>
 She winks at you and gets out.
 
 <div class="center"><span class="pulse"><span class="notplus">STRESS -20%</span></span></div><<addmins 30>><<set $stress to $stress -20>>

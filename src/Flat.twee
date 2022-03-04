@@ -4,15 +4,15 @@ Rome is beautiful, but the task you have ahead of you is making you anxious. You
 
 <<speech "You" "''$name'':">>
 (Well, I mean ''another'' full grown man)<</speech>>
-You really don´t believe what you just thought, but you need all the confidence you can gather for this and it´s better to pat yourself on the back.
+You really don't believe what you just thought, but you need all the confidence you can gather for this and it's better to pat yourself on the back.
 
 <<speech "You" "''$name'':">>
-Be strong, $name, be strong... Nothing needs to happen, it´s just a date. Getting to meet someone new.<</speech>>
+Be strong, $name, be strong... Nothing needs to happen, it's just a date. Getting to meet someone new.<</speech>>
 You take a deep breath and take a look at the address that Captain T gave you.
 
 <<speech "You" "''$name'':">>
 (Alright... that should be the street, right around that corner at the end.)<</speech>>
-As you start to walk, you notice how sweat is forming on your skin folds. With the hot weather of a sunny summer it is innevitable, although you can´t help but feel worried about it. You want to smell as clean as possible, you may be kind of a sissy, but you´re a clean one, especially if you are going to a date.
+As you start to walk, you notice how sweat is forming on your skin folds. With the hot weather of a sunny summer it is innevitable, although you can't help but feel worried about it. You want to smell as clean as possible, you may be kind of a sissy, but you're a clean one, especially if you are going to a date.
 
 Once you arrive to the door, you take another look at the paper to make sure.
 
@@ -23,45 +23,45 @@ Ok, 4th B... *ahem*<</speech>>
 <<speech "netflix" "''Rod'':">>
 Yes?<</speech>>
 <<speech "You" "''$name'':">>
-Hi- *ahem* <span class="pink">Hi, I´m...</span> (Oh, shit, Cap didn´t mention what my name was supposed to be...) *ahem* <span class="pink">I´m "your tinder date..."</span><</speech>>
+Hi- *ahem* <span class="pink">Hi, I'm...</span> (Oh, shit, Cap didn't mention what my name was supposed to be...) *ahem* <span class="pink">I'm "your tinder date..."</span><</speech>>
 <<speech "netflix" "''Rod'':">>
-Oh, nice! Come on in, it´s open. I´ll be waiting for you at the living room.<</speech>>
+Oh, nice! Come on in, it's open. I'll be waiting for you at the living room.<</speech>>
 <span class="onomatopeya">*BZZZZZ*</span>
 
-<<linkreplace "... ...">><<removeclass "html">><<addclass "html" "home">><<if ndef $mutefx>><<audio "slam" play>><<else>><</if>><<audio "out" stop>>The entrance is not a big deal at all. There´s only a couple trash bins and a staircase. No elevator. <<if $fit gt 7>>Fortunately, you´ve done some exercise on the ship, and you are all fit and healthy<<else>><</if>> Once you arrive to the fourth floor you find the door with the letter "B" on it.
+<<linkreplace "... ...">><<removeclass "html">><<addclass "html" "home">><<if ndef $mutefx>><<audio "slam" play>><<else>><</if>><<audio "out" stop>>The entrance is not a big deal at all. There's only a couple trash bins and a staircase. No elevator. <<if $fit gt 7>>Fortunately, you've done some exercise on the ship, and you are all fit and healthy<<else>><</if>> Once you arrive to the fourth floor you find the door with the letter "B" on it.
 
 Before getting in you take out your perfect fit wig and dress and quickly put it on near the corner, before anyone else can see you. Luckily, no one does...
 
-Another wave of anxiety crosses your body as you are about to open the already ajar door. A part of you is very disgusted by this "date" thing, but you can´t help but find it exciting too... it´s just too much for you to handle in a serene way.
+Another wave of anxiety crosses your body as you are about to open the already ajar door. A part of you is very disgusted by this "date" thing, but you can't help but find it exciting too... it's just too much for you to handle in a serene way.
 
 <<speech "rede" "''$name'':">>
 Ok... *breathe in... breathe out...*<</speech>>
 You hold the handle of the door and get in.
 
-The place doesn´t seem too bad, but it is very obvious that this guy is living by himself. If he knew you were coming, he could at least tidied up... You can see a small kitchen to the left side and a bathroom to the right. The closed door in front of you must be the living room.
+The place doesn't seem too bad, but it is very obvious that this guy is living by himself. If he knew you were coming, he could at least tidied up... You can see a small kitchen to the left side and a bathroom to the right. The closed door in front of you must be the living room.
 
 You get a step closer to the room and suddenly hear the muffled sound of what seems to be a TV show:
 
 <<linkreplace "... ...">><<speech "rede" "''$name'':">>
-(He hasn´t even waited for me... He has already started watching something. Maybe I should get in... Oh god... Will he notice I´m a boy? Will he be angry about it? What if he doesn´t like me...?)<</speech>>
+(He hasn't even waited for me... He has already started watching something. Maybe I should get in... Oh god... Will he notice I'm a boy? Will he be angry about it? What if he doesn't like me...?)<</speech>>
 
 <<linkreplace "*open door*">><div class="center"><img src="dockings/rome/rod1.jpg" width="30%"></div>
 <<speech "netflix" "''Rod'':">>
-Oh, hey! Nice to meet you, I´m Rod. Don´t worry, I didn´t start without you. You told me you already had watched this episode, so I was just refreshing the memory, you know... *smiles*<</speech>>
+Oh, hey! Nice to meet you, I'm Rod. Don't worry, I didn't start without you. You told me you already had watched this episode, so I was just refreshing the memory, you know... *smiles*<</speech>>
 He is still seated while you are on your feet and a small uncomfortable pause fills the room.
 
 <<speech "rede" "''$name'':">>
-Oh, um... don´t worry about it, hehe... Nice to meet you too. *akwardly waves hand*<</speech>>
+Oh, um... don't worry about it, hehe... Nice to meet you too. *akwardly waves hand*<</speech>>
 ...
 
 ...
 
 <<speech "netflix" "''Rod'':">>
-Oh, how rude of me. I´m sorry, I´m still seated and watching TV while you are here!<</speech>>
+Oh, how rude of me. I'm sorry, I'm still seated and watching TV while you are here!<</speech>>
 He suddenly stands up and goes straight up to you. You think he is going for your hand, but you see how he is planning on another thing, so once he is near enough, you take a step back.
 
 <<speech "netflix" "''Rod'':">>
-Hey, don´t worry. I wasn´t going to... you know... That´s just the way we do it around here, you know... One kiss on each cheek. See?<</speech>>
+Hey, don't worry. I wasn't going to... you know... That's just the way we do it around here, you know... One kiss on each cheek. See?<</speech>>
 Rod takes your forearm with his strong hand and pulls you closer.
 
 <span class="onomatopeya">*SMOOCH, SMOOCH*</span>
@@ -71,7 +71,7 @@ You can feel his manly 3 day beard scratching your own very smooth face. Althoug
 <<speech "netflix" "''Rod'':">>
 Aaaand *SMOOCH* A third one to you, because you are a very pretty girl.<</speech>>
 <<speech "rede" "''$name'':">>
- *Your cheeks flush with embarrasment* <span class="pink">Um... thanks, Rod...</span> (He´s really biting the hook, thank god...)<</speech>>
+ *Your cheeks flush with embarrasment* <span class="pink">Um... thanks, Rod...</span> (He's really biting the hook, thank god...)<</speech>>
 <<speech "netflix" "''Rod'':">>
 So, tell me, would you like a drink? Alcohol or not?<</speech>>
 [[Alcohol|Flat][$flat to 0]]

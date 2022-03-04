@@ -1,32 +1,32 @@
 :: Sex shop [textback] {"position":"2425,179","size":"100,100"}
 <<removeclass "html">><<addclass "html" "sexshop">><<if $sexs is 0>><span class="fade-ins"><div class="center"><img src="places2/sexshop.jpg" width="80%"></div>
 <<speech "You" "''$name'':">>
-(OMG... What the fuck is this place... There´s so much kinky stuff here...)<</speech>></span>
+(OMG... What the fuck is this place... There's so much kinky stuff here...)<</speech>></span>
 <<linkreplace "Keep walking">>
 <span class="pulse"><div class="center"><img src="passengers/lucy.png" width="70%"></div></span>
 <<speech "lucy" "''Lucy'':">>
-Hi there, cutie! Don´t be afraid, you haven´t done anything wrong. My name is Lucy. You must be $name. You´ve caused a bit of a conmmotion on the ship. I don´t usually get a lot of males around the shop, but I guess you are an exception. Were you looking for something?<</speech>>
+Hi there, cutie! Don't be afraid, you haven't done anything wrong. My name is Lucy. You must be $name. You've caused a bit of a conmmotion on the ship. I don't usually get a lot of males around the shop, but I guess you are an exception. Were you looking for something?<</speech>>
 <<speech "You" "''$name'':">>
 Um...<</speech>>
 [[Take this fucking cage off, please|Sex shop][$sexs to 1]]
 [[I need an alternative way to masturbate|Sex shop][$sexs to 3]]<</linkreplace>><<elseif $sexs is 1>><<speech "You" "''$name'':">>
-I´ve got a... cage that prevents me from masturbating, and I was wondering if you could take if off, please<</speech>>
+I've got a... cage that prevents me from masturbating, and I was wondering if you could take if off, please<</speech>>
 <<speech "lucy" "''Lucy'':">>
- *smiles* Well, I´m sorry, but if you don´t have the key to your cage, that means that someone doesn´t want you to cum that way. So I can´t comply.<</speech>>
+ *smiles* Well, I'm sorry, but if you don't have the key to your cage, that means that someone doesn't want you to cum that way. So I can't comply.<</speech>>
 <<speech "You" "''$name'':">>
-No, it´s not like that... (Maybe I can trick her) I just lost the key and now I´m stuck like this.<</speech>>
+No, it's not like that... (Maybe I can trick her) I just lost the key and now I'm stuck like this.<</speech>>
 <<speech "lucy" "''Lucy'':">>
-Hahaha Honey... Tara is my friend. I know what you´re up to. No can do. Anything else I can help you with?<</speech>>
+Hahaha Honey... Tara is my friend. I know what you're up to. No can do. Anything else I can help you with?<</speech>>
 [[I need an alternative way to masturbate|Sex shop][$sexs to 2]]
-[[Not really, I should go...|Women´s Secret]]<<elseif $sexs is 2>><<speech "You" "''$name'':">>
-It´s a long story... but I need to find an alternative way of...<</speech>>
+[[Not really, I should go...|Women's Secret]]<<elseif $sexs is 2>><<speech "You" "''$name'':">>
+It's a long story... but I need to find an alternative way of...<</speech>>
 <<speech "lucy" "''Lucy'':">>
 Cumming? Hahaha yeah, I figured. So are you looking for some anal or another?<</speech>>
 <<speech "You" "''$name'':">>
-Um... I don´t know... <<if $fem gte 9>><span class="pink">Anal would be better...</span><<else>><</if>><</speech>>
+Um... I don't know... <<if $fem gte 9>><span class="pink">Anal would be better...</span><<else>><</if>><</speech>>
 <<speech "lucy" "''Lucy'':">>
-I see you´re not sure about it, so how about I show you some of our options?<</speech>>
-[[Follow me|Sex shop][$sexs to 3]]<<elseif $sexs is 3>>You follow her through the long store. You are shocked by the quantity of tools of all sizes and the incredible lingerie at the shelves on the sides. You only recognize a few of the toys, but most of them you wouldn´t even know how to use.
+I see you're not sure about it, so how about I show you some of our options?<</speech>>
+[[Follow me|Sex shop][$sexs to 3]]<<elseif $sexs is 3>>You follow her through the long store. You are shocked by the quantity of tools of all sizes and the incredible lingerie at the shelves on the sides. You only recognize a few of the toys, but most of them you wouldn't even know how to use.
 
 She leads you to a door. There a small sticker on it that says: ''Storage Room''
 
@@ -47,9 +47,9 @@ As I told you before: you can chose to have a penetrative toy or not. Of course,
 <<speech "You" "''$name'':">>
 O-ok... (Jeez... This is making me <span class="pink">blush...</span> so embarrasing)<</speech>>
 [[Pink vibrator|Sex shop][$sexs to 4, $toy to 1, $youcum to 1, $dildo3 to true, $cum to "Finished", $sexdoor to 1]]
-[[5´5' white dildo|Sex shop][$sexs to 5, $toy to 2, $youcum to 1, $dildo5 to true, $cum to "Finished", $sexdoor to 1]]
+[[5'5' white dildo|Sex shop][$sexs to 5, $toy to 2, $youcum to 1, $dildo5 to true, $cum to "Finished", $sexdoor to 1]]
 [[Clitoral vibrator (no penetration)|Sex shop][$sexs to 6, $toy to 3, $youcum to 1, $dildo4 to true, $cum to "Finished", $sexdoor to 1]]<</linkreplace>><</linkappend>><<elseif $sexs is 4>><<speech "You" "''$name'':">>
-I- I´ll take the vibrator...<</speech>>
+I- I'll take the vibrator...<</speech>>
 <<speech "lucy" "''Lucy'':">>
 The penetrative pink one?<</speech>>
 <<speech "You" "''$name'':">>
@@ -63,13 +63,13 @@ Your face turn bright red.
 You take your pink vibrator and let Lucy take you out of the sex shop.
 
 [[Library][$sexs to 7, $masturbate to 2]]<<elseif $sexs is 5>><<speech "You" "''$name'':">>
-I- I´ll take the dildo...<</speech>>
+I- I'll take the dildo...<</speech>>
 <<speech "lucy" "''Lucy'':">>
 The small white one?<</speech>>
 <<speech "You" "''$name'':">>
 Yes, please.<</speech>>
 <<speech "lucy" "''Lucy'':">>
-That´s not what I would´ve chosen, but I guess it can do the trick on a begginer like you. If I may suggest something, take this bottle of lube so the penetration is easier. I should also say that if what you want is to go deep, you may want one of our realistic XXL size dildos, for a moderate prize.<</speech>>
+That's not what I would've chosen, but I guess it can do the trick on a begginer like you. If I may suggest something, take this bottle of lube so the penetration is easier. I should also say that if what you want is to go deep, you may want one of our realistic XXL size dildos, for a moderate prize.<</speech>>
 Your face turn bright red.
 
 <<speech "You" "''$name'':">>
@@ -77,17 +77,17 @@ Your face turn bright red.
 You take your white dildo and let Lucy take you out of the sex shop.
 
 [[Library][$sexs to 7, $masturbate to 2]]<<elseif $sexs is 6>><<speech "You" "''$name'':">>
-I- I´ll take the vibrator...<</speech>>
+I- I'll take the vibrator...<</speech>>
 <<speech "lucy" "''Lucy'':">>
 The penetrative pink one?<</speech>>
 <<speech "You" "''$name'':">>
 No, the clitoral one.<</speech>>
 <<speech "lucy" "''Lucy'':">>
-I still don´t recommend this one, specially for you, but you are the customer... this toy is just going to pacify your hunger, but ah well...I should also say that if what you want is to go deep, you may want one of our dildos in the future. I have some very realistic XXL size dildos, for a moderate prize.<</speech>>
+I still don't recommend this one, specially for you, but you are the customer... this toy is just going to pacify your hunger, but ah well...I should also say that if what you want is to go deep, you may want one of our dildos in the future. I have some very realistic XXL size dildos, for a moderate prize.<</speech>>
 Your face turn bright red.
 
 <<speech "You" "''$name'':">>
- *gulp* Um... ok, thanks... I´ll just take the vibrator...(<span class="pink">XXL... realistic...</span>)<</speech>>
+ *gulp* Um... ok, thanks... I'll just take the vibrator...(<span class="pink">XXL... realistic...</span>)<</speech>>
 You take your clitoral vibrator and let Lucy take you out of the sex shop.
 
 [[Library][$sexs to 7, $masturbate to 2]]<<elseif $sexs is 7>><div class="center"><img src="passengers/lucy.png" width="60%"></div>

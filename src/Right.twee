@@ -1,9 +1,9 @@
 :: Right [textback] {"position":"4084,866","size":"100,100"}
-<<removeclass "html">><<addclass "html" "spanish">><<if ndef $beachright>>The right side of the beach is significantly less crowded. The sand feels rougher and a small forest starts emerging from here. There´s a beautiful brunette all by herself who seems a little pissed off.
+<<removeclass "html">><<addclass "html" "spanish">><<if ndef $beachright>>The right side of the beach is significantly less crowded. The sand feels rougher and a small forest starts emerging from here. There's a beautiful brunette all by herself who seems a little pissed off.
 
 <<speech "nobody" "''Italian Woman'':">>
 Fanculo! Imbecille pervertito! Pensi che non me ne renda conto?!<</speech>>
-She´s shouting to the bushes where the forest starts. 
+She's shouting to the bushes where the forest starts. 
 
 <<speech "You" "''$name'':">>
 What is happening there?<</speech>>
@@ -11,7 +11,7 @@ What is happening there?<</speech>>
 [[Return|Nudist beach]]<<elseif $beachright is 0>><img src="dockings/nudist/pierina.jpg" width="50%">
 
 <<speech "You" "''$name'':">>
-Hi, I´m $name. You seem to be bothered. Can I help you?<</speech>>
+Hi, I'm $name. You seem to be bothered. Can I help you?<</speech>>
 <<speech "nobody" "''Italian Woman'':">>
 Huh? Yes, maybe you can. There is a fucking pervertito behind the bushes there and I can hear him jerking his cock. Look! There he is!<</speech>>
 <img src="dockings/nudist/danny1.gif" width="50%">
@@ -39,18 +39,18 @@ Is the pervert already gone?? Please make him go away!<</speech>>
 <<speech "nobody" "''Italian Woman'':">>
 Is the pervert already gone??<</speech>>
 <<speech "You" "''$name'':">>
-Yes, I think he found something of his interest in the forest. He won´t be coming back for a while.<</speech>>
+Yes, I think he found something of his interest in the forest. He won't be coming back for a while.<</speech>>
 <<speech "nobody" "''Italian Woman'':">>
-Oh, thank you! I didn´t have much hope but you really helped me out. Now I can relax without any boys watching.<</speech>>
+Oh, thank you! I didn't have much hope but you really helped me out. Now I can relax without any boys watching.<</speech>>
 [[Go into the forest|Bushes][$beachright to 4]]
 [[Return|Nudist beach][$beachright to 4]]<<elseif $beachright is 4>><img src="dockings/nudist/pierina.jpg" width="50%">
 
 <<speech "nobody" "''Italian Woman'':">>
 Is the pervert already gone??<</speech>>
 <<speech "You" "''$name'':">>
-Yes, I think he found something of his interest in the forest. He won´t be coming back for a while.<</speech>>
+Yes, I think he found something of his interest in the forest. He won't be coming back for a while.<</speech>>
 <<speech "nobody" "''Italian Woman'':">>
-Oh, thank you! I didn´t have much hope but you really helped me out. Now I can relax without any boys watching.<</speech>>
+Oh, thank you! I didn't have much hope but you really helped me out. Now I can relax without any boys watching.<</speech>>
 [[Go into the forest|Bushes]]
 [[Return|Nudist beach]]<</if>><<if ndef $mute>><<audio "spanish" unmute>><<else>><</if>><<if ndef $mutefx>><<audio "sea" unmute>><<else>><</if>><<audio "menus" stop>>
 

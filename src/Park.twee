@@ -31,10 +31,10 @@ I know right? hahahaha you fuckin' got the fuckin' best friend in the world.<</s
 <<speech "You" "''$name:''">>
 Oh, wait, this is too much... maybe you can come with us-<</speech>>
 <<speech "mike" "''$fname:''">>
-No need to be polite, $name. I can´t go out all summer, I´ve got to work. Not like you, spoiled brat!<</speech>>
+No need to be polite, $name. I can't go out all summer, I've got to work. Not like you, spoiled brat!<</speech>>
  *You both laugh*<<addmins 10>>
   
 <<speech "mike" "''$fname:''">>
-Well, what are we waiting for then? Let´s [[go|Travel agency]]<</speech>><<if ndef $mute>><<audio "menus" stop>><<audio ":back" unmute>><<else>><</if>><<if ndef $mutefx>><<audio "park" volume 0 fadein>><<else>><</if>><<audio "touriststalk" stop>>
+Well, what are we waiting for then? Let's [[go|Travel agency]]<</speech>><<if ndef $mute>><<audio "menus" stop>><<audio ":back" unmute>><<else>><</if>><<if ndef $mutefx>><<audio "park" volume 0 fadein>><<else>><</if>><<audio "touriststalk" stop>>
 
 

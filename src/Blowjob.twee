@@ -3,10 +3,10 @@
 No way! (That was embarrasing enough. Not doing that again...)<</speech>>
 [[Return|Have a drink]]<<else>><img src="food/blowdrink.jpg" width="70%">
 
-That doesn´t look too full of liquid. This might not´ve been a smart choice for a free cocktail. But anyway, it´s free. So you go for it.
+That doesn't look too full of liquid. This might not've been a smart choice for a free cocktail. But anyway, it's free. So you go for it.
 
 <<speech "nobody" "''Bartender:''">>
-Hey, hey, hey! What are you doing? You have to drink it without hands, that´s why it´s called a blowjob, buddy.<</speech>>
+Hey, hey, hey! What are you doing? You have to drink it without hands, that's why it's called a blowjob, buddy.<</speech>>
 <<speech "You" "''$name:''">>
 What? No, I...<</speech>>
 <<speech "nobody" "''Bartender:''">>

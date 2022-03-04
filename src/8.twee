@@ -1,7 +1,7 @@
 :: 8 [phone] {"position":"30,2399","size":"100,100"}
 <<removeclass "html">><<addclass "html" "spades">><<if ndef $nueve>><div class="center"><img src="gf/juliogomez.jpg" width="25%">
 
-<span class="hugeletter">''CUCKY´S NIGHTMARE''</span></div>
+<span class="hugeletter">''CUCKY'S NIGHTMARE''</span></div>
 
 <<speech "You" "''$name'':">>
 <img src="gf/selfie.png" width="40%">

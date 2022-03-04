@@ -10,7 +10,7 @@ HURRY! --> <span id="countdown">$seconds</span>\
 		<<if $seconds gt 0>>
 			<<replace "#countdown">>$seconds<</replace>>
 		<<else>>
-			<<replace "#countdown">>Time´s up!<<set $babecock to 3>><<goto "babecock">><</replace>>
+			<<replace "#countdown">>Time's up!<<set $babecock to 3>><<goto "babecock">><</replace>>
 			/* do something useful here */
 			<<stop>>
 		<</if>>

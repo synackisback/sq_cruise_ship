@@ -12,13 +12,13 @@ Bzzzt bzzzzzzzt ''You will go through some changes in your life''<</speech>>
 <<speech "nobody" "''Witch:''">>
 ''You will be conflicted. Your feelings will get on the way. But you have to remember: the only way you can move on in life is by moving forwards.''<</speech>>
 <<speech "You" "''$name:''">>
-(This thing is do cheap... thank god it´s free.)<</speech>>
+(This thing is do cheap... thank god it's free.)<</speech>>
 As you start walking away from it, it calls you:
 
 <<speech "nobody" "''Witch:''">>
 ''Wait.''<</speech>>
 <<speech "You" "''$name:''">>
-(Oh, shit. How does that thing know I´m walking away??)<</speech>>
+(Oh, shit. How does that thing know I'm walking away??)<</speech>>
 Scared, you look back to the automaton.
 
 <<speech "nobody" "''Witch:''">>
@@ -31,7 +31,7 @@ You take a step, not trusting it completely.
 
 <<speech "nobody" "''Witch:''">>
 ''Take this picture with you. Your true soul is revealed.'' Bzzzzzzt bzzzzzzt *turns off*<</speech>>
-A small polaroid photograph comes out of the machine´s right side. You take it and give it a look. At first there´s nothing there, but the shapes slowly appear:<<addmins 10>>
+A small polaroid photograph comes out of the machine's right side. You take it and give it a look. At first there's nothing there, but the shapes slowly appear:<<addmins 10>>
 
 <div class="center"><span class="noborder"><span class="fade-in"><img src="stuff/bimbo1.png" width="65%"></span></span></div>
 <<speech "You" "''$name:''">>
@@ -40,7 +40,7 @@ Who is this?? That is definitely not me. Maybe that was the last person before m
  
 <<click "Return" "Automaton museum">><<set $fortune to 1>><<audio "robot1" stop>><</click>><</linkreplace>><<elseif $fortune is 1>><div class="center"><img src="dockings/fortune.jpg" width="60%"></div>
 <<speech "You" "''$name:''">>
-I´m not pulling that lever again.<</speech>>
+I'm not pulling that lever again.<</speech>>
 <<click "Return" "Automaton museum">><<audio "robot1" stop>><</click>><</if>><<audio "menus" stop>><<if ndef $mute>><<audio "mystery" unmute>><<else>><</if>>
 
 

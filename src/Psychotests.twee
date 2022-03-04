@@ -5,10 +5,10 @@ Time for the first test. This one will uncover your depest worries and desires. 
 [[Camuflage clothes|Psychotests][$test1 to 1]]
 [[Flying penises?|Psychotests][$test1 to 2]]<<elseif $test1 is 1>><<speech "psycho" "''Jada:''">>
 I see... clothes, huh? *She writes something on her tablet* Ok then, follow me.<</speech>>
-You stand up from the couch and follow her to another part of the room. There´s what seems like a pair of VR goggles.
+You stand up from the couch and follow her to another part of the room. There's what seems like a pair of VR goggles.
 
 <<speech "psycho" "''Jada:''">>
-Sit here and put these on. Don´t worry, it´s all part of the normal procedure.<</speech>>
+Sit here and put these on. Don't worry, it's all part of the normal procedure.<</speech>>
 You do as she said. The goggles feel comfortable in your head, and the chair is very ergonomic. You put your arms on the sides of the chair and relax. Suddenly, you feel a strap going over each of your arms and legs.
 
 <span class="shudder"><span class="onomatopeya">*ZZZIP*</span></span>
@@ -25,9 +25,9 @@ A video appears and starts <<linkappend "playing:">>
   </div><div class="columna">
     <img src="classes/psycho/clothes2.gif" width="100%">
   </div></div>
-There´s a video on each eye! At first you don´t understand what´s happening. All this lingerie and stuff doesn´t say anything to you, but then you take a closer look and see that some of the women there have... dicks?!
+There's a video on each eye! At first you don't understand what's happening. All this lingerie and stuff doesn't say anything to you, but then you take a closer look and see that some of the women there have... dicks?!
 
-A voice comes in: it´s Jada, talking to you in the room.
+A voice comes in: it's Jada, talking to you in the room.
 
 <<speech "psycho" "''Jada:''">>
 Listen to my voice... you are starting to feel really heavy...
@@ -37,19 +37,19 @@ Your consciousness fades away...
 <<addmins 30>>''*30 minutes later*''<<set $fem to $fem +1>><<set $sub to $sub +1>><<set $lust to 100>><<set $dreams to 1>>
 
 <<speech "psycho" "''Jada:''">>
- *Takes off your VR goggles* Alright, we´re done for today. How are you feeling?
+ *Takes off your VR goggles* Alright, we're done for today. How are you feeling?
 <</speech>>
 <<speech "You" "''$name:''">>
-I´m... ok. I feel very good actually!<</speech>>
+I'm... ok. I feel very good actually!<</speech>>
 <<speech "psycho" "''Jada:''">>
-Oooh... I´m so glad to hear that. I was wondering if these sessions could be too much for you, but they seem to work just fine. We´ll continue next week. Goodbye $name.<</speech>>
+Oooh... I'm so glad to hear that. I was wondering if these sessions could be too much for you, but they seem to work just fine. We'll continue next week. Goodbye $name.<</speech>>
 <<click "Return" "Deck 8">><<audio "dreams" stop>><<set $jada to 0>><<set $goggles to 2>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><</click>><</linkappend>>
 <<elseif $test1 is 2>><<speech "psycho" "''Jada:''">>
 I see... penises, huh? *She writes something on her tablet* Ok then, follow me.<</speech>>
-You stand up from the couch and follow her to another part of the room. There´s what seems like a pair of VR goggles.
+You stand up from the couch and follow her to another part of the room. There's what seems like a pair of VR goggles.
 
 <<speech "psycho" "''Jada:''">>
-Sit here and put these on. Don´t worry, it´s all part of the normal procedure.<</speech>>
+Sit here and put these on. Don't worry, it's all part of the normal procedure.<</speech>>
 You do as she said. The goggles feel comfortable in your head, and the chair is very ergonomic. You put your arms on the sides of the chair and relax. Suddenly, you feel a strap going over each of your arms and legs.
 
 <span class="shudder"><span class="onomatopeya">*ZZZIP*</span></span>
@@ -66,9 +66,9 @@ A video appears and starts <<linkappend "playing:">>
   </div><div class="columna">
     <img src="classes/psycho/penis2.gif" width="120%">
   </div></div>
-There´s a video on each eye! At first you don´t understand what´s happening. All this naked men are not doing anything for you, but then you start to feel a tingle on your own dick... Your eyes start to focus on their man-parts.
+There's a video on each eye! At first you don't understand what's happening. All this naked men are not doing anything for you, but then you start to feel a tingle on your own dick... Your eyes start to focus on their man-parts.
 
-A voice comes in: it´s Jada, talking to you in the room.
+A voice comes in: it's Jada, talking to you in the room.
 
 <<speech "psycho" "''Jada:''">>
 Listen to my voice... you are starting to feel really heavy...
@@ -78,12 +78,12 @@ Your consciousness fades away...
 <<addmins 30>>''*30 minutes later*''<<set $fem to $fem +2>><<set $sub to $sub +2>><<set $lust to 100>>
 
 <<speech "psycho" "''Jada:''">>
- *Takes off your VR goggles* Alright, we´re done for today. How are you feeling?
+ *Takes off your VR goggles* Alright, we're done for today. How are you feeling?
 <</speech>>
 <<speech "You" "''$name:''">>
-I´m... ok. I feel very good actually!<</speech>>
+I'm... ok. I feel very good actually!<</speech>>
 <<speech "psycho" "''Jada:''">>
-Oooh... I´m so glad to hear that. I was wondering if these sessions could be too much for you, but they seem to work just fine. We´ll continue next week. Goodbye $name.<</speech>>
+Oooh... I'm so glad to hear that. I was wondering if these sessions could be too much for you, but they seem to work just fine. We'll continue next week. Goodbye $name.<</speech>>
 <<click "Return" "Deck 8">><<audio "dreams" stop>><<set $jada to 0>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><<set $goggles to 2>><</click>><</linkappend>><</if>><<elseif $psychotests is 2>><<if ndef $test2>><<speech "psycho" "''Jada:''">>
 Time for the second test. This one will face you with a choice. An artistic one. This will make you choose between pretty and overwhelming. Imagine going into a museum and you see both of these sculptures: <</speech>>
 <div class="row">
@@ -94,7 +94,7 @@ Time for the second test. This one will face you with a choice. An artistic one.
   </div></div>
 [[The little one has more detail|Psychotests][$test2 to 1]]
 [[The big one is... startling|Psychotests][$test2 to 2]]<<elseif $test2 is 1>><<speech "psycho" "''Jada:''">>
-I see... you´d choose the little one then, huh? *She writes something on her tablet* Ok then, follow me.<</speech>>
+I see... you'd choose the little one then, huh? *She writes something on her tablet* Ok then, follow me.<</speech>>
 You stand up from the couch and follow her to the VR chair. As you sit down she straps your legs and arms and puts the goggles on. After a few seconds of silence, the video starts:
 <div class="center"><div class="row3"><div class="column3">
  <img src="classes/psycho/smalldick1.gif" width="100%"></div><div class="column3">
@@ -116,14 +116,14 @@ Your consciousness fades away...
 ''*1 hour later*''<<set $fem to $fem +1>><<set $sub to $sub +3>><<set $lust to 100>><<set $dreams to 3>>
 
 <<speech "psycho" "''Jada:''">>
- *Takes off your VR goggles* Alright, we´re done for today. How are you feeling?
+ *Takes off your VR goggles* Alright, we're done for today. How are you feeling?
 <</speech>>
 <<speech "You" "''$name:''">>
-I´m... ok. I feel very good actually! (I´m so fucking horny...)<</speech>>
+I'm... ok. I feel very good actually! (I'm so fucking horny...)<</speech>>
 <<speech "psycho" "''Jada:''">>
-Oooh... I´m so glad to hear that you are responding well to the treatment. We´ll continue next week. Goodbye $name.<</speech>>
+Oooh... I'm so glad to hear that you are responding well to the treatment. We'll continue next week. Goodbye $name.<</speech>>
 <<click "Return" "Deck 8">><<audio "dreams" stop>><<set $jada to 1>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><<set $goggles to 4>><</click>><<elseif $test2 is 2>><<speech "psycho" "''Jada:''">>
-I see... you´d choose the big one, huh? *She writes something on her tablet* Ok then, follow me.<</speech>>
+I see... you'd choose the big one, huh? *She writes something on her tablet* Ok then, follow me.<</speech>>
 You stand up from the couch and follow her to the VR chair. As you sit down she straps your legs and arms and puts the goggles on. After a few seconds of silence, the video starts:
 <div class="center"><div class="row3"><div class="column3">
  <img src="classes/psycho/bigdick1.gif" width="140%"></div><div class="column3">
@@ -143,29 +143,29 @@ Your consciousness fades away...
 ''*1 hour later*''<<set $fem to $fem +2>><<set $sub to $sub +2>><<set $lust to 100>><<set $dreams to 5>>
 
 <<speech "psycho" "''Jada:''">>
- *Takes off your VR goggles* Alright, we´re done for today. How are you feeling?
+ *Takes off your VR goggles* Alright, we're done for today. How are you feeling?
 <</speech>>
 <<speech "You" "''$name:''">>
-I´m... ok. I feel very good actually! (I´m so fucking horny...)<</speech>>
+I'm... ok. I feel very good actually! (I'm so fucking horny...)<</speech>>
 <<speech "psycho" "''Jada:''">>
-Oooh... I´m so glad to hear that you are responding well to the treatment. We´ll continue next week. Goodbye $name.<</speech>>
+Oooh... I'm so glad to hear that you are responding well to the treatment. We'll continue next week. Goodbye $name.<</speech>>
 <<click "Return" "Deck 8">><<audio "dreams" stop>><<set $jada to 1>><<run $gameDate.setHours (20) and $gameDate.setMinutes (0)>><<set $goggles to 4>><</click>><</if>>
 <<elseif $psychotests is 3>><<speech "psycho" "''Jada:''">>
-So today´s test is going to be different. This one is going to make that brain of yours work, especifically you are going to be working on your memory.<</speech>>
+So today's test is going to be different. This one is going to make that brain of yours work, especifically you are going to be working on your memory.<</speech>>
 <<speech "You" "''$name:''">>
 (What is all this about...?) Umm... you mean like a memory game or something?<</speech>>
 <<speech "psycho" "''Jada:''">>
 Exactly like that. *she reaches a deck of big cards on the table* The content of these cards has been designed taking your last test results into account, just for it to be more engaging for you.
 
-So here´s how this is going to work:
+So here's how this is going to work:
 
-Each one of these cards have two elements, one at the right and the other at the left. I´ll show you these cards, one by one and your task is to memorize both of the elements together. I suggest that you find something in common between the two that helps you link them.
+Each one of these cards have two elements, one at the right and the other at the left. I'll show you these cards, one by one and your task is to memorize both of the elements together. I suggest that you find something in common between the two that helps you link them.
 
-After the memorizing stage, I will be showing you only part of one half of the picture and you´ll have to link it with it´s other half. Understood?<</speech>>
+After the memorizing stage, I will be showing you only part of one half of the picture and you'll have to link it with it's other half. Understood?<</speech>>
 <<speech "You" "''$name:''">>
 I think so...<</speech>>
 <<speech "psycho" "''Jada:''">>
- *Jada grabs the cards* Alright then, let´s start.<</speech>>
+ *Jada grabs the cards* Alright then, let's start.<</speech>>
 [[Start test|babecock][$babecock to 0]]
 
 

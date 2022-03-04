@@ -7,7 +7,7 @@
 <<else>><<speech "nobody" "''Masseuse:''">>
 Only one massage a day. Come back tomorrow.<</speech>>
 <div class="center">(Open --> 11:00-22:00)</div><</if>><<elseif $massage is false>><<speech "nobody" "''Masseuse:''">>
-Sorry, we´re closed right now.<</speech>><</if>>
+Sorry, we're closed right now.<</speech>><</if>>
 [[Return|Spa]]<<audio "menus" stop>>
 
 

@@ -13,9 +13,9 @@
  <<if $dayn gte 31 and $dayn lt 35>><<if ndef $zack>><span class="Phone"><span class="shudder">''← [[Stage][$zack to 0]]''</span></span><<elseif $zack gte 0>>''← [[Stage]]''<</if>><<else>>''← [[Stage]]''<</if>>
  <<if $casino is true>>'' ← [[Casino]]''<<else>><<linkreplace "''← Casino''">>Closed<</linkreplace>><</if>></div><div class="column3">
   ''[[Bar]] ↑''
-  <<if $gameDate.getHours() gte 20 and $gameDate.getHours() lt 22 and $techphone is true and $alreadyate is false>><span class="fade-ins-out"><span class="Phone">''[[Dining room]] ↓''</span></span><<else>><<linkreplace "''Dining room ↓''">>Dinner´s from 20 to 22<</linkreplace>><</if>></div><div class="column3">
+  <<if $gameDate.getHours() gte 20 and $gameDate.getHours() lt 22 and $techphone is true and $alreadyate is false>><span class="fade-ins-out"><span class="Phone">''[[Dining room]] ↓''</span></span><<else>><<linkreplace "''Dining room ↓''">>Dinner's from 20 to 22<</linkreplace>><</if>></div><div class="column3">
   <<if ndef $fashionbuy>><<linkreplace "''Fashion Boutique →''">>Why would you get in there?<</linkreplace>><<elseif $fashionbuy is 0>>''[[Fashion Boutique]] →''<</if>>
-  <<if ndef $womensbuy>><<linkreplace "''Women´s Secret →''">>No way!<</linkreplace>><<elseif $womensbuy is 0>>''[[Women´s Secret]] →''<</if>></div></div>''<<nobr>><<if $gameDate.getHours() is 0 or $gameDate.getHours() lt 8>><<goto [[Dreams]]>><<else>><</if>><</nobr>><<addmins 1>><<if ndef $mute>><<audio ":back" unmute>><<else>><</if>><<audio "menus" stop>><<audio "elevator" stop>><<audio "kitchen" stop>><<audio "sexshop" stop>><<audio "girltalk1" stop>>
+  <<if ndef $womensbuy>><<linkreplace "''Women's Secret →''">>No way!<</linkreplace>><<elseif $womensbuy is 0>>''[[Women's Secret]] →''<</if>></div></div>''<<nobr>><<if $gameDate.getHours() is 0 or $gameDate.getHours() lt 8>><<goto [[Dreams]]>><<else>><</if>><</nobr>><<addmins 1>><<if ndef $mute>><<audio ":back" unmute>><<else>><</if>><<audio "menus" stop>><<audio "elevator" stop>><<audio "kitchen" stop>><<audio "sexshop" stop>><<audio "girltalk1" stop>>
   
 <<nobr>><<if $dayn is 28>><<if $gameDate.getHours() gte 16>><<goto "Costume contest">><<else>><</if>><<else>><</if>><</nobr>>
 
