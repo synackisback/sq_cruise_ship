@@ -1,8 +1,0 @@
-:: GF's Lunch [noreturn] {"position":"512,2136","size":"100,100"}
-<<if $gflunchbag is "saucy">><div class="center"><img src="food/tupperware1.jpg" width="50%"></div><<elseif $gflunchbag is "plain">><div class="center"><img src="food/tupperware2.jpg" width="50%"></div><</if>>
-
-GF's lunch. <<if $gflunchbag is "saucy">>You threw in some bolognaise sauce for her.<<elseif $gflunchbag is "plain">>You decided to keep it plain. Maybe she wants to keep her figure.<</if>>
-
-[[Return|Inventory]]
-
-
