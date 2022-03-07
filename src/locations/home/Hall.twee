@@ -5,7 +5,7 @@
 <<click "Living room" "Living room">><<if ndef $mutefx>><<audio "door" play>><<else>><</if>><</click>>
 <<click "Bathroom" "Bathroom">><<if ndef $mutefx>><<audio "door" play>><<else>><</if>><</click>>
 <<click "Kitchen" "Kitchen">><<if ndef $mutefx>><<audio "door" play>><<else>><</if>><</click>>
-[[GF's room]] 
+[[GF´s room]] 
 
 [[Foyer|Foyer event]]
 <<elseif $newroom is true>>
@@ -13,7 +13,7 @@
 <<click "Living room" "Living room">><<if ndef $mutefx>><<audio "door" play>><<else>><</if>><</click>>
 <<click "Bathroom" "Bathroom">><<if ndef $mutefx>><<audio "door" play>><<else>><</if>><</click>>
 <<click "Kitchen" "Kitchen">><<if ndef $mutefx>><<audio "door" play>><<else>><</if>><</click>>
-[[GF's room]] 
+[[GF´s room]] 
 
 [[Foyer]]
 <<else>>
@@ -21,7 +21,7 @@
 <<click "Living room" "Living room">><<if ndef $mutefx>><<audio "door" play>><<else>><</if>><</click>>
 <<click "Bathroom" "Bathroom">><<if ndef $mutefx>><<audio "door" play>><<else>><</if>><</click>>
 <<click "Kitchen" "Kitchen">><<if ndef $mutefx>><<audio "door" play>><<else>><</if>><</click>>
-[[GF's room]] 
+[[GF´s room]] 
 
 [[Foyer]]<</if>><<addmins 1>><<if String.format("{0} {1} {2}, {3}"), GameDays[$gameDate.getDay()] is "Sat">><<if $gameDate.getHours() gte 8 and $gameDate.getMinutes() gte 30>><<goto "Emergency">><<else>><</if>><<else>><</if>><<if ndef $mute>><<audio ":back" unmute>><<else>><</if>><<audio "menus" stop>></div>
 

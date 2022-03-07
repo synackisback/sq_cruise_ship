@@ -1,13 +1,13 @@
 :: Phone [phone noreturn noborder textback] {"position":"108,580","size":"100,100"}
 <<if ndef $techphone>><<if $SMS1 is true>>
 <img src="https://i.imgur.com/nd03aR5.jpg" width="60%">
-Hi. Here's a picture of me, as I figure you will be missing me. Going away for so long...
+Hi. Here´s a picture of me, as I figure you will be missing me. Going away for so long...
 
 $name, I am not going to lie to you: I am not happy about us. This might be the perfect time for both of us to think. Think about our lives and our relationship. Maybe...maybe this is a sign.
 
-That doesn't mean that I want to stop talking to you. I still love you, $name. I just think we need some time. 
+That doesn´t mean that I want to stop talking to you. I still love you, $name. I just think we need some time. 
 
-Anyway, you've got me here if you feel alone or if you miss me. I...I guess we are not officialy together, so we can see other people, though that doesn't mean I will. I'm going to miss you. 
+Anyway, you´ve got me here if you feel alone or if you miss me. I...I guess we are not officialy together, so we can see other people, though that doesn´t mean I will. I´m going to miss you. 
 
 Try to be happy there and have fun.
 
@@ -15,7 +15,7 @@ PS: If you treat me well I might be sending more pics ;)
 
 Well, this is proof that things COULD get worse.
 
-At least she seems to be taking it pretty well. I wasn't expecting such comprhension of her. Especially how angry she was at me last night.
+At least she seems to be taking it pretty well. I wasn´t expecting such comprhension of her. Especially how angry she was at me last night.
 
 You answer back with a: Ok baby, I understand. Take care, I love you. <3<3
 
