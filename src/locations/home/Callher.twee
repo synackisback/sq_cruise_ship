@@ -5,7 +5,7 @@
 She isn't answering, maybe she is bussy. She is at work after all...<</speech>>
 The voice mail jumps in. Do you leave a message?
 
-[[Yes, she needs to know this can't happen again|Yes, she needs to know this can't happen again]]
+[[Yes, she needs to know this can't happen again]]
 [[I'll talk to her later|Watch TV]]<<addmins 5>><<if ndef $mute>><<audio "morning" mute>><<else>><</if>><<audio "menus" stop>>
 
 
