@@ -2,7 +2,7 @@
 <<removeclass "html">><<addclass "html" "home">><div class="center"><img src="places1/foyer.jpg" width="50%"></div>
 <<if $nogetout is true>>
 <<speech "You" "''$name:''">>
-I´m feeling tired. I´d better stay and wait for $gfname to come from work.<</speech>>
+I'm feeling tired. I'd better stay and wait for $gfname to come from work.<</speech>>
 [[Hall]]
 <<else>>
 <div class="center">[[Hall]]
